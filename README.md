@@ -21,7 +21,7 @@ for configuration & other requirements.
 |       ├── lmt-previous.json
 |       ├── lmt-schema.json
 |       ├── lmt-web-narrative.md
-|       ├── lmt.json
+|       ├── lmt .json
 |       └── smpte-st-xxxx-lmt.pdf
 ```
 
