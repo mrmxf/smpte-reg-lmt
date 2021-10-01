@@ -1,27 +1,48 @@
 {
-    "doc": "Configuration file for smpte-reg-lmt",
-    "app_title": "Register: Language Metadata Table",
-    "app_description_MD": "_**PREVIEW** LMT pending development as SMPTE ST xxxx_",
-    "version": "0.1.0",
-    "path": {
-        "server": "server",
-        "browser": "server",
-        "control-doc": "smpte-process/lmt-control.pdf",
-        "control-doc-download-name": "smpte-st-xxxx(online):2020.pdf",
+    "doc": "Configuration file for plugin: smpte-reg-lmt (enabled & displayed)",
+    "isEnabled": true,
+    "isDisplayed": true,
+    "menu": "LMT",
+    "urlPrefix": "lmt",
+    "routes": {
+        "jsonData": "jsonData",
+        "jsonSchema": "jsonSchema",
+        "validate": "validate",
+        "register": "register",
+        "schema": "schema",
+        "document": "document"
+    },
+    "title": "Register: Language Metadata Table",
+    "descriptionMs": "_**PREVIEW** LMT pending development as SMPTE ST xxxx_",
+    "version": "0.4.0",
+    "folder": {
+        "serverPath": "server",
+        "browserPath": "browser",
+        "processPath": "smpte-process"
+    },
+    "smpteProcess": {
+        "controlDoc": "smpte-st-xxxx-lmt.pdf",
+        "controlDocDownloadName": "SMPTE-ST-2xxx-lmt.pdf",
+	"controlDocHTML": "sample-controlDoc/index.html",
         "register": {
-            "current": "smpte-process/lmt.json",
-            "previous": "smpte-process/lmt-previous.json",
-            "candidate": "smpte-process/lmt-candidate.json"
+            "current": "lmt-draft.json",
+            "previous": "lmt.previous.json",
+            "candidate": "lmt.candidate.json"
         },
         "narrative": {
-            "current": "smpte-process/lmt-narrative.md",
-            "previous": "smpte-process/lmt-narrative-previous.md",
-            "candidate": "smpte-process/lmt-narrative-candidate.md"
+            "current": "lmt-web-narrative.md",
+            "previous": "lmt-web-narrative.previous.md",
+            "candidate": "lmt-web-narrative.candidate.md"
         },
         "schema": {
-            "current": "smpte-process/lmt-schema.json",
-            "previous": "smpte-process/lmt-schema-previous.json",
-            "candidate": "smpte-process/lmt-schema-candidate.json"
+            "current": "lmt-schema.json",
+            "previous": "lmt-schema.previous.json",
+            "candidate": "lmt-schema.candidate.json"
         }
-    }
+    },
+    "_absRoute":"reserved property overriden by code",
+    "_folderPath":"reserved property overriden by code",
+    "_log":"reserved property overriden by code",
+    "_routes":"reserved property overrridden by code",
+    "_parent":"reserved property overriden by code"
 }

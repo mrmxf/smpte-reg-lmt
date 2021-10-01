@@ -1,0 +1,179 @@
+LMT 3.0 Changes 
+The Language Metadata Table (LMT) has been updated as of January 30, 2020. Numerous requests were submitted to and approved by the LMT Working Committee. 
+The documents are available at: https://www.mesalliance.org/language-metadata-table 
+
+1. The -000 was originally included to indicate the specified language didn’t didn’t indicate a specific dialect or region. The WG preferred to use the language code only, and requested that the “-000” be removed from the codes of the following languages: 
+. 
+Arabic 
+
+. 
+French 
+
+. 
+Portugese 
+
+. 
+Spanish 
+
+
+2. The Entertainment ID Registry --EIDR (eidr.org) --ran a report comparing the languages used in EIDR records against LMT. The decision was made to add 27 new languages that had ten or more usages in EIDR. They are: 
+. 
+Abkhazian 
+
+. 
+Bagri 
+
+. 
+Bambara 
+
+. 
+British Sign Language 
+
+. 
+English as spoken in Montserrat 
+
+. 
+Esperanto 
+
+. 
+Jauer dialect of Romansh 
+
+. 
+Latin 
+
+. 
+Mossi 
+
+. 
+Sanskrit 
+
+. 
+Spanish as spoken in Argentina 
+
+. 
+Spanish as spoken in Bolivia 
+
+. 
+Spanish as spoken in Colombia 
+
+. 
+Spanish as spoken in Costa Rica 
+
+. 
+Spanish as spoken in Ecuador 
+
+. 
+Spanish as spoken in El Salvador 
+
+. 
+Spanish as spoken in Honduras 
+
+. 
+Spanish as spoken in Nicaragua 
+
+
+LMT Release Notes 2020-01-30 Page 1 of 3 
+. 
+Spanish as spoken in Panama 
+
+. 
+Spanish as spoken in Paraguay 
+
+. 
+Spanish as spoken in Peru 
+
+. 
+Spanish as spoken in Uruguay 
+
+. 
+Spanish as spoken in Venezuela 
+
+. 
+Swahili 
+
+. 
+Swiss-German 
+
+. 
+Tulu 
+
+. 
+Wolof 
+
+
+Each new Language added was added to the taxonomy tool with the relevant information for: Language Group Name, Long Description 1, Audio Language Display Name 1, Visual Language Tag 1, Visual Language Display Name 1, and Notes. 
+The appropriate research was done to ensure that Audio Language Display Name 1 and Visual Language Display Name 1 are both accurate. All Visual Language Tags were also validated before being added. 
+All the new languages added have both written and audio languages. 
+3. Some existing languages were also updated. Specifically, updates to the Arabic Language Codes were made. They are: 
+. 
+Arabic as spoken in Algeria: arq 
+
+. 
+Arabic as spoken in Egypt: arz 
+
+. 
+Arabic as spoken in Morocco: ary 
+
+
+Not all Arabic language codes were changed. Those that remain the same are: 
+. 
+Arabic as spoken in Lebanon: ar-LB 
+
+. 
+Arabic as spoken in Tunisia: ar-TN 
+
+
+4. As needed, languages that are part of a group were linked in to their group in the taxonomy tool. New languages that were part of a language group are: 
+. 
+Arabic as spoken in Algeria 
+
+. 
+English as spoken in Montserrat 
+
+. 
+British Sign Language 
+
+
+LMT Release Notes 2020-01-30 Page 2 of 3 
+. 
+Spanish as spoken in Argentina 
+
+. 
+Spanish as spoken in Bolivia 
+
+. 
+Spanish as spoken in Colombia 
+
+. 
+Spanish as spoken in Ecuador 
+
+. 
+Spanish as spoken in Paraguay 
+
+. 
+Spanish as spoken in Peru 
+
+. 
+Spanish as spoken in Uruguay 
+
+. 
+Spanish as spoken in Venezuela 
+
+. 
+Spanish as spoken in Costa Rica 
+
+. 
+Spanish as spoken in El Salvador 
+
+. 
+Spanish as spoken in Nicaragua 
+
+. 
+Spanish as spoken in Panama 
+
+. 
+Spanish as spoken in Honduras 
+
+
+LMT Release Notes 2020-01-30 Page 3 of 3 
+
