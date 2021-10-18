@@ -17,7 +17,7 @@ module.exports.html = (cfg, activeRoute) => {
     return (
         `<div class="ui secondary menu">
           <!-- Home -->
-          <a class="item${aHo}" href="${_r.home}"><i class="home icon"></i>${cfg.menu}</a>
+          <a class="item${aHo}" href="${_r.home}"><i class="home ${cfg.homeIconClass} icon"></i>${cfg.menu}</a>
 
           <!-- ux views -->
           <div class="ui simple dropdown item">

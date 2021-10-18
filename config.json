@@ -3,6 +3,7 @@
     "isEnabled": true,
     "isDisplayed": true,
     "menu": "LMT",
+    "pageTitle": "Language Metadata Table",
     "urlPrefix": "lmt",
     "routes": {
         "jsonData": "jsonData",
