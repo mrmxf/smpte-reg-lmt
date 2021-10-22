@@ -5,29 +5,27 @@
  */
 const xml2js = require('xml2js')
 
+const worker = require("./convert-mesa-xml-to-smpte-worker")
 /**
  *
  * @param {String} xmlString the xml to be converted to json
  */
 
 module.exports.toSmpte = async (xmlString) => {
-
     return new Promise(resolve => {
-        //the sample parser only makes arrays when needed, discards the root element & ignores attributes
-        let parser = new xml2js.Parser({ explicitArray: true, explicitRoot: false, ignoreAttrs: true })
-        const obj = parser.parseStringPromise(xmlString, { reversible: false })
-            .then(jsonObject => {
+        //use xml2js 0.4.23 in reversible mode - catch namespaces, attributes - the lot!
+        let parser = new xml2js.Parser()
+        const obj = parser.parseStringPromise(xmlString)
+            .then(xml2jsResult => {
                 // we know that xml to JSON needs special help. In the specific conversion
-                // for this sample the xml will generate an extra object called item:[]
-                // in the canonical JSON this is the root object, so adjust the response
-                if (jsonObject.item && Array.isArray(jsonObject.item)) {
-                    jsonObject = jsonObject.item
-                    resolve({ status: 200, body: JSON.stringify(jsonObject, undefined, 2) })
-                } else
-                    resolve({ status: 400, body: `Bad Request - sample xml missing root/item array - conversion to json failed.` })
+                // for LMT, all the translation rules are in the worker function
+                let result = worker.mesaXmlToSmpteJson(xml2jsResult)
+
+                //error codes for bad MESA xml are handled in the worker rules
+                resolve({ status: result.status, body: result.body })
             })
             .catch(err => {
-                resolve({ status: 400, body: `Bad Request - xml conversion to json failed </br>\n ${err}` })
+                resolve({ status: 400, body: `Bad Request - MESA xml conversion to json failed </br>\n ${err}` })
             })
     })
 }
