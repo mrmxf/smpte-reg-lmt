@@ -1,0 +1,8 @@
+{
+    "toSmpteId": "mesa-2-smpte",
+    "fromSmpteId": "smpte-2-mesa",
+    "toSmpteLabel":"MESA (Synaptica) XML → SMPTE JSON",
+    "fromSmpteLabel":"SMPTE JSON → MESA (Synaptica) XML",
+    "toSmpteMdFile":"convert-mesa-xml-to-smpte.md",
+    "fromSmpteMdFile":"convert-mesa-xml-from-smpte.md"
+}

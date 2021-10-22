@@ -3,11 +3,12 @@
     "isEnabled": true,
     "isDisplayed": true,
     "menu": "LMT",
-    "pageTitle": "Language Metadata Table",
     "urlPrefix": "lmt",
+    "pageTitle": "Language Metadata Table",
     "routes": {
         "jsonData": "jsonData",
         "jsonSchema": "jsonSchema",
+        "convert": "convert",
         "validate": "validate",
         "register": "register",
         "schema": "schema",
@@ -18,6 +19,7 @@
     "version": "0.4.0",
     "folder": {
         "serverPath": "server",
+        "converterPath":"converters",
         "browserPath": "browser",
         "processPath": "smpte-process"
     },
@@ -44,6 +46,6 @@
     "_absRoute":"reserved property overriden by code",
     "_folderPath":"reserved property overriden by code",
     "_log":"reserved property overriden by code",
-    "_routes":"reserved property overrridden by code",
-    "_parent":"reserved property overriden by code"
+    "_parent":"reserved property overriden by code",
+    "_routes":"reserved property overrridden by code"
 }
