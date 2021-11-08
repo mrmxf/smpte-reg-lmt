@@ -1,4 +1,4 @@
-## LMT preview update 2021-02-25
+## LMT preview update 2021-11-08
 
 The following changes have been made since the project was seen in SMPTE in 2020:
 
@@ -10,6 +10,8 @@ The following changes have been made since the project was seen in SMPTE in 2020
 3. New SMPTE logo
 4. update to control document to reflect url change
 5. update to conversion tool archicture to allow better IO with contributors
+
+In addition the entire tools suite has be re-written to make it more usable for end-users and maintainers.
 
 #### Pending work
 
