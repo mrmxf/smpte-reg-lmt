@@ -1,4 +1,5 @@
-## LMT preview update 2021-11-08
+
+## LMT preview update 2022-01-12
 
 The following changes have been made since the project was seen in SMPTE in 2020:
 
@@ -10,16 +11,23 @@ The following changes have been made since the project was seen in SMPTE in 2020
 3. New SMPTE logo
 4. update to control document to reflect url change
 5. update to conversion tool archicture to allow better IO with contributors
+6. JSON validation schema created and tested
+7. converter tested with historic exports from Synaptica
+8. New SMPTE submission  document 50% complete
 
 In addition the entire tools suite has be re-written to make it more usable for end-users and maintainers.
 
-#### Pending work
+#### Required - Pending work
+
+1. complete the SMPTE document (eta 2022-01-15
+2. update the SMPTE project document with proponents who are SMPTE standards members
+
+#### Optional -  Pending work
 
 1. reverse conversion to MESA/Synaptical XML (needs sample mesa document)
-2. update to control document
-3. docker encapsulation for simplified deployment
-4. simplify conversion workflow with some automation helpers
-5. implement the difference tool
+2. docker encapsulation for simplified deployment
+3. simplify conversion workflow with some automation helpers
+4. implement the difference tool
 
 #### work complete
 
