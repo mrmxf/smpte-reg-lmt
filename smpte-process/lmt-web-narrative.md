@@ -1,3 +1,11 @@
+## LMT preview update 2022-04-06
+
+* feature - need a click through to find errored term
+  * /terms/142/Code missing a code value ("AudioLanguageTag": "ts")
+  * /groups/27/Code missing a code value ("Name": "Special")
+  * /groups/29/Code missing a code value ("Name": "Tsonga",)
+* feature - validate that imported term counts match correctly
+  * CA is missing from import
 
 ## LMT preview update 2022-01-12
 
