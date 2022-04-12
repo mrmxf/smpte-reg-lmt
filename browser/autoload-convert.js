@@ -20,9 +20,16 @@ $('#doConversion').on('click', function () {
         alert("Hmm that seems suspicious. Only " + txt.length + " characters? Really?")
         return
     }
-    let cvtId = $('input[type=radio][name=cvt]:checked')[0].id
+    let cvtId
+    try {
+        cvtId = $('input[type=radio][name=cvt]:checked')[0].id
+        
+    } catch (error) {
+        alert("Please select a conversion after pasting your data!")
+        return
+    }
     if (!cvtId || (cvtId.length == 0)) {
-        alert("No conversion is selected.")
+        alert("Please select a conversion after pasting your data!")
         return
     }
     // alert("alrighty lets do the " + cvt + " conversion")
