@@ -40,7 +40,9 @@ const parseError = (status, body, mustacheData) => {
  * @returns {Object} a term object
  */
 const createSmpteTerm = (node) => {
-    let term = {}
+    let term = {
+        warnings: []
+    }
     let is_a_group = false
     let has_audio_tag = false
     let has_video_tag = false
@@ -60,10 +62,10 @@ const createSmpteTerm = (node) => {
                 has_audio_tag = true
                 break
             case "Audio Language Display Name 1":
-                term.audio_language_display_name_1 = note._
+                term.AudioLanguageDisplayName1 = note._
                 break
             case "Audio Language Display Name 2":
-                term.audio_language_display_name_2 = note._
+                term.AudioLanguageDisplayName2 = note._
                 break
             case "Code":
                 term.Code = note._
@@ -98,7 +100,7 @@ const createSmpteTerm = (node) => {
                 is_a_group = true
                 break
             default:
-                throw new Error(`MESA XML unknown termNote with label=${note.$.label} in termID ${id}. Giving up`)
+                term.warnings.push(`MESA XML unknown termNote with label=${note.$.label} in termID ${id}. Ignoring termNote.`)
         }
     })
 
@@ -130,9 +132,15 @@ const createSmpteTerm = (node) => {
     /* If it wasn't a valid group or a team then one of these errors should fire
      */
     term_required_props.forEach(property => {
-        if (undefined == term[property]) { throw new Error(`MESA XML did not set term property ${property} in termID ${id}. Giving up`) }
+        if (undefined == term[property]) {
+            let msg = `MESA XML did not set term property ${property} in termID ${id}. Ignoring Term.`
+            term.warnings.push(msg)
+            throw new Error(msg)
+        }
     })
-    throw new Error(`MESA XML has something weird going on in termID ${id}. Neither group not term. Giving up`)
+    let msg = `MESA XML has something weird going on in termID ${id}. Neither group not term. Ignoring Term.`
+    term.warnings.push(msg)
+    throw new Error(msg)
 }
 
 /* ------------------------- ENTRY POINT ------------------------- */
@@ -151,12 +159,13 @@ module.exports.mesaXmlToSmpteJson = (xml2jsResult) => {
             convertedFrom: "Mesa XML",
             published: false,
             controllingDocument: "none",
-            DOI:"none",
+            DOI: "none",
         },
         terms: [],
         groups: [],
     }
     let m2sMmapping = {
+        errors: [],
         term: {},
         group: {}
     }
@@ -170,8 +179,13 @@ module.exports.mesaXmlToSmpteJson = (xml2jsResult) => {
     //iterate across every term in the source array push a new term to lmt
     /* ------------------------- Term Conversion ------------------------- */
     rawJson[mesaCfg.term].forEach(node => {
-        //create a term - errors are caught at a higher level
-        let res = createSmpteTerm(node)
+        //create a term - errors are caught and displayed at the end
+        let res
+        try {
+            res = createSmpteTerm(node)
+        } catch (err) {
+            m2sMmapping.errors.push(err)
+        }
 
         if (res) {
             for (tag in res.mapping) {
@@ -211,13 +225,13 @@ module.exports.mesaXmlToSmpteJson = (xml2jsResult) => {
         let is_group = false
 
         /* ------------------------- Pre-flight ------------------------- */
-        if (undefined == grp.termID) { throw new Error(`MESA XML required element termID not found. Giving up`) }
+        if (undefined == grp.termID) { throw new Error(`MESA XML required element termID not found. Ignoring Group.`) }
         let id = grp.termID
 
-        if (undefined == grp.termName) { throw new Error(`MESA XML required element termName not found in termID ${id}. Giving up`) }
+        if (undefined == grp.termName) { throw new Error(`MESA XML required element termName not found in termID ${id}. Ignoring Group.`) }
         group.Name = grp.termName[0]
 
-        if (undefined == grp.termNote) { throw new Error(`MESA XML required element termNote element not found in termID ${id}. Giving up`) }
+        if (undefined == grp.termNote) { throw new Error(`MESA XML required element termNote element not found in termID ${id}. Ignoring Group.`) }
         grp.termNote.forEach(note => {
             switch (note.$.label) {
                 case "Language Group Code":

@@ -8,7 +8,7 @@
   "terms": [
     {
       "Name": "Abkhazian",
-      "audio_language_display_name_1": "аҧсуа бызшәа",
+      "AudioLanguageDisplayName1": "аҧсуа бызшәа",
       "AudioLanguageTag": "ab",
       "Code": "https://smpte-ra.org/register/lmt/code/ab",
       "LongDescription1": "Abkhazian",
@@ -17,7 +17,7 @@
     },
     {
       "Name": "Afrikaans",
-      "audio_language_display_name_1": "Afrikaans",
+      "AudioLanguageDisplayName1": "Afrikaans",
       "AudioLanguageTag": "af",
       "Code": "https://smpte-ra.org/register/lmt/code/af",
       "LongDescription1": "Afrikaans",
@@ -26,7 +26,7 @@
     },
     {
       "Name": "Albanian",
-      "audio_language_display_name_1": "Shqip",
+      "AudioLanguageDisplayName1": "Shqip",
       "AudioLanguageTag": "sq",
       "Code": "https://smpte-ra.org/register/lmt/code/sq",
       "LongDescription1": "Albanian",
@@ -35,7 +35,7 @@
     },
     {
       "Name": "Arapho",
-      "audio_language_display_name_1": "Hinónoʼeitíít",
+      "AudioLanguageDisplayName1": "Hinónoʼeitíít",
       "AudioLanguageTag": "arp",
       "Code": "https://smpte-ra.org/register/lmt/code/arp",
       "LongDescription1": "Arapho",
@@ -44,7 +44,7 @@
     },
     {
       "Name": "Amharic",
-      "audio_language_display_name_1": "አማርኛ",
+      "AudioLanguageDisplayName1": "አማርኛ",
       "AudioLanguageTag": "am",
       "Code": "https://smpte-ra.org/register/lmt/code/am",
       "LongDescription1": "Amharic",
@@ -53,7 +53,7 @@
     },
     {
       "Name": "Arabic",
-      "audio_language_display_name_1": "العربية",
+      "AudioLanguageDisplayName1": "العربية",
       "AudioLanguageTag": "ar",
       "Code": "https://smpte-ra.org/register/lmt/code/ar",
       "LongDescription1": "Arabic",
@@ -63,7 +63,7 @@
     },
     {
       "Name": "Armenian",
-      "audio_language_display_name_1": "հայերեն",
+      "AudioLanguageDisplayName1": "հայերեն",
       "AudioLanguageTag": "hy",
       "Code": "https://smpte-ra.org/register/lmt/code/hy",
       "LongDescription1": "Armenian",
@@ -72,7 +72,7 @@
     },
     {
       "Name": "Western Armenian",
-      "audio_language_display_name_1": "արեւմտահայերէն",
+      "AudioLanguageDisplayName1": "արեւմտահայերէն",
       "AudioLanguageTag": "hyw",
       "Code": "https://smpte-ra.org/register/lmt/code/hyw",
       "LongDescription1": "Western Armenian",
@@ -82,7 +82,7 @@
     },
     {
       "Name": "Assamese",
-      "audio_language_display_name_1": "Ôxômiya",
+      "AudioLanguageDisplayName1": "Ôxômiya",
       "AudioLanguageTag": "as",
       "Code": "https://smpte-ra.org/register/lmt/code/as",
       "LongDescription1": "Assamese",
@@ -91,7 +91,7 @@
     },
     {
       "Name": "Aymara",
-      "audio_language_display_name_1": "Aymar aru",
+      "AudioLanguageDisplayName1": "Aymar aru",
       "AudioLanguageTag": "ay",
       "Code": "https://smpte-ra.org/register/lmt/code/ay",
       "LongDescription1": "Aymara",
@@ -100,7 +100,7 @@
     },
     {
       "Name": "Azerbaijani",
-      "audio_language_display_name_1": "Azərbaycan dili",
+      "AudioLanguageDisplayName1": "Azərbaycan dili",
       "AudioLanguageTag": "az",
       "Code": "https://smpte-ra.org/register/lmt/code/az",
       "LongDescription1": "Azerbaijani",
@@ -109,7 +109,7 @@
     },
     {
       "Name": "Bagri",
-      "audio_language_display_name_1": "बागड़ी",
+      "AudioLanguageDisplayName1": "बागड़ी",
       "AudioLanguageTag": "raj",
       "Code": "https://smpte-ra.org/register/lmt/code/raj",
       "LongDescription1": "Bagri",
@@ -118,7 +118,7 @@
     },
     {
       "Name": "Bahasa Indonesia",
-      "audio_language_display_name_1": "Bahasa Indonesia",
+      "AudioLanguageDisplayName1": "Bahasa Indonesia",
       "AudioLanguageTag": "id2",
       "Code": "https://smpte-ra.org/register/lmt/code/id",
       "LongDescription1": "Bahasa Indonesia",
@@ -128,7 +128,7 @@
     },
     {
       "Name": "Bambara",
-      "audio_language_display_name_1": "bamanankan",
+      "AudioLanguageDisplayName1": "bamanankan",
       "AudioLanguageTag": "bm",
       "Code": "https://smpte-ra.org/register/lmt/code/bm",
       "LongDescription1": "Bambara",
@@ -137,7 +137,7 @@
     },
     {
       "Name": "Basque",
-      "audio_language_display_name_1": "euskara",
+      "AudioLanguageDisplayName1": "euskara",
       "AudioLanguageTag": "eu",
       "Code": "https://smpte-ra.org/register/lmt/code/eu",
       "LongDescription1": "Basque",
@@ -146,7 +146,7 @@
     },
     {
       "Name": "Belarusian",
-      "audio_language_display_name_1": "беларуская мова",
+      "AudioLanguageDisplayName1": "беларуская мова",
       "AudioLanguageTag": "be",
       "Code": "https://smpte-ra.org/register/lmt/code/be",
       "LongDescription1": "Belarusian",
@@ -155,7 +155,7 @@
     },
     {
       "Name": "Bengali",
-      "audio_language_display_name_1": "বাংলা",
+      "AudioLanguageDisplayName1": "বাংলা",
       "AudioLanguageTag": "bn",
       "Code": "https://smpte-ra.org/register/lmt/code/bn",
       "LongDescription1": "Bengali",
@@ -165,7 +165,7 @@
     },
     {
       "Name": "Berber",
-      "audio_language_display_name_1": "Tamaziɣt",
+      "AudioLanguageDisplayName1": "Tamaziɣt",
       "AudioLanguageTag": "ber",
       "Code": "https://smpte-ra.org/register/lmt/code/ber",
       "LongDescription1": "Berber",
@@ -174,7 +174,7 @@
     },
     {
       "Name": "Bhojpuri",
-      "audio_language_display_name_1": "भोजपुरी",
+      "AudioLanguageDisplayName1": "भोजपुरी",
       "AudioLanguageTag": "bho",
       "Code": "https://smpte-ra.org/register/lmt/code/bho",
       "LongDescription1": "Bhojpuri",
@@ -183,7 +183,7 @@
     },
     {
       "Name": "Bislama",
-      "audio_language_display_name_1": "Bislama",
+      "AudioLanguageDisplayName1": "Bislama",
       "AudioLanguageTag": "bi",
       "Code": "https://smpte-ra.org/register/lmt/code/bi",
       "LongDescription1": "Bislama",
@@ -192,7 +192,7 @@
     },
     {
       "Name": "Bosnian",
-      "audio_language_display_name_1": "Bosanski",
+      "AudioLanguageDisplayName1": "Bosanski",
       "AudioLanguageTag": "bs",
       "Code": "https://smpte-ra.org/register/lmt/code/bs",
       "LongDescription1": "Bosnian",
@@ -201,7 +201,7 @@
     },
     {
       "Name": "Bulgarian",
-      "audio_language_display_name_1": "Български",
+      "AudioLanguageDisplayName1": "Български",
       "AudioLanguageTag": "bg",
       "Code": "https://smpte-ra.org/register/lmt/code/bg",
       "LongDescription1": "Bulgarian",
@@ -210,7 +210,7 @@
     },
     {
       "Name": "Burmese",
-      "audio_language_display_name_1": "မြန်မာစာ",
+      "AudioLanguageDisplayName1": "မြန်မာစာ",
       "AudioLanguageTag": "my",
       "Code": "https://smpte-ra.org/register/lmt/code/my",
       "LongDescription1": "Burmese",
@@ -219,7 +219,7 @@
     },
     {
       "Name": "Catalan",
-      "audio_language_display_name_1": "Català",
+      "AudioLanguageDisplayName1": "Català",
       "AudioLanguageTag": "ca",
       "Code": "https://smpte-ra.org/register/lmt/code/ca",
       "LongDescription1": "Catalan",
@@ -229,7 +229,7 @@
     },
     {
       "Name": "Cherokee",
-      "audio_language_display_name_1": "ᏣᎳᎩ ᎦᏬᏂᎯᏍᏗ",
+      "AudioLanguageDisplayName1": "ᏣᎳᎩ ᎦᏬᏂᎯᏍᏗ",
       "AudioLanguageTag": "chr",
       "Code": "https://smpte-ra.org/register/lmt/code/chr",
       "LongDescription1": "Cherokee",
@@ -238,8 +238,8 @@
     },
     {
       "Name": "Chinese",
-      "audio_language_display_name_1": "繁体中文",
-      "audio_language_display_name_2": "简体中文",
+      "AudioLanguageDisplayName1": "繁体中文",
+      "AudioLanguageDisplayName2": "简体中文",
       "AudioLanguageTag": "zh",
       "Code": "https://smpte-ra.org/register/lmt/code/zh",
       "LongDescription1": "Chinese",
@@ -250,7 +250,7 @@
     },
     {
       "Name": "Corsican",
-      "audio_language_display_name_1": "corsu",
+      "AudioLanguageDisplayName1": "corsu",
       "AudioLanguageTag": "co",
       "Code": "https://smpte-ra.org/register/lmt/code/co",
       "LongDescription1": "Corsican",
@@ -259,7 +259,7 @@
     },
     {
       "Name": "Czech",
-      "audio_language_display_name_1": "čeština",
+      "AudioLanguageDisplayName1": "čeština",
       "AudioLanguageTag": "cs",
       "Code": "https://smpte-ra.org/register/lmt/code/cs",
       "LongDescription1": "Czech",
@@ -268,7 +268,7 @@
     },
     {
       "Name": "Danish",
-      "audio_language_display_name_1": "Dansk",
+      "AudioLanguageDisplayName1": "Dansk",
       "AudioLanguageTag": "da",
       "Code": "https://smpte-ra.org/register/lmt/code/da",
       "LongDescription1": "Danish",
@@ -277,7 +277,7 @@
     },
     {
       "Name": "Divehi",
-      "audio_language_display_name_1": "ދިވެހި",
+      "AudioLanguageDisplayName1": "ދިވެހި",
       "AudioLanguageTag": "dv",
       "Code": "https://smpte-ra.org/register/lmt/code/dv",
       "LongDescription1": "Divehi",
@@ -286,7 +286,7 @@
     },
     {
       "Name": "Dutch",
-      "audio_language_display_name_1": "Nederlands",
+      "AudioLanguageDisplayName1": "Nederlands",
       "AudioLanguageTag": "nl",
       "Code": "https://smpte-ra.org/register/lmt/code/nl",
       "LongDescription1": "Dutch",
@@ -295,7 +295,7 @@
     },
     {
       "Name": "Dzongkha",
-      "audio_language_display_name_1": "རྫོང་ཁ་",
+      "AudioLanguageDisplayName1": "རྫོང་ཁ་",
       "AudioLanguageTag": "dz",
       "Code": "https://smpte-ra.org/register/lmt/code/dz",
       "LongDescription1": "Dzongkha",
@@ -305,7 +305,7 @@
     },
     {
       "Name": "English",
-      "audio_language_display_name_1": "English",
+      "AudioLanguageDisplayName1": "English",
       "AudioLanguageTag": "en",
       "Code": "https://smpte-ra.org/register/lmt/code/en",
       "LongDescription1": "English",
@@ -315,7 +315,7 @@
     },
     {
       "Name": "Esperanto",
-      "audio_language_display_name_1": "esperanto",
+      "AudioLanguageDisplayName1": "esperanto",
       "AudioLanguageTag": "eo",
       "Code": "https://smpte-ra.org/register/lmt/code/eo",
       "LongDescription1": "Esperanto",
@@ -324,7 +324,7 @@
     },
     {
       "Name": "Estonian, Standard",
-      "audio_language_display_name_1": "Eesti",
+      "AudioLanguageDisplayName1": "Eesti",
       "AudioLanguageTag": "ekk",
       "Code": "https://smpte-ra.org/register/lmt/code/ekk",
       "LongDescription1": "Estonian, Standard",
@@ -333,7 +333,7 @@
     },
     {
       "Name": "Faroese",
-      "audio_language_display_name_1": "føroyskt mál",
+      "AudioLanguageDisplayName1": "føroyskt mál",
       "AudioLanguageTag": "fo",
       "Code": "https://smpte-ra.org/register/lmt/code/fo",
       "LongDescription1": "Faroese",
@@ -342,7 +342,7 @@
     },
     {
       "Name": "Fijian",
-      "audio_language_display_name_1": "Na Vosa Vakaviti",
+      "AudioLanguageDisplayName1": "Na Vosa Vakaviti",
       "AudioLanguageTag": "fj",
       "Code": "https://smpte-ra.org/register/lmt/code/fj",
       "LongDescription1": "Fijian",
@@ -351,7 +351,7 @@
     },
     {
       "Name": "Filipino",
-      "audio_language_display_name_1": "Wikang Filipino",
+      "AudioLanguageDisplayName1": "Wikang Filipino",
       "AudioLanguageTag": "fil",
       "Code": "https://smpte-ra.org/register/lmt/code/fil",
       "LongDescription1": "Filipino",
@@ -361,7 +361,7 @@
     },
     {
       "Name": "Finnish",
-      "audio_language_display_name_1": "Suomi",
+      "AudioLanguageDisplayName1": "Suomi",
       "AudioLanguageTag": "fi",
       "Code": "https://smpte-ra.org/register/lmt/code/fi",
       "LongDescription1": "Finnish",
@@ -370,7 +370,7 @@
     },
     {
       "Name": "French",
-      "audio_language_display_name_1": "Français",
+      "AudioLanguageDisplayName1": "Français",
       "AudioLanguageTag": "fr",
       "Code": "https://smpte-ra.org/register/lmt/code/fr",
       "LongDescription1": "French",
@@ -380,7 +380,7 @@
     },
     {
       "Name": "Gaelic as spoken in Scotland",
-      "audio_language_display_name_1": "Gàidhlig",
+      "AudioLanguageDisplayName1": "Gàidhlig",
       "AudioLanguageTag": "gd",
       "Code": "https://smpte-ra.org/register/lmt/code/gd",
       "LongDescription1": "Gaelic as spoken in Scotland",
@@ -389,7 +389,7 @@
     },
     {
       "Name": "Galician",
-      "audio_language_display_name_1": "galego",
+      "AudioLanguageDisplayName1": "galego",
       "AudioLanguageTag": "gl",
       "Code": "https://smpte-ra.org/register/lmt/code/gl",
       "LongDescription1": "Galician",
@@ -398,7 +398,7 @@
     },
     {
       "Name": "Ganda",
-      "audio_language_display_name_1": "Oluganda",
+      "AudioLanguageDisplayName1": "Oluganda",
       "AudioLanguageTag": "lg",
       "Code": "https://smpte-ra.org/register/lmt/code/lg",
       "LongDescription1": "Ganda",
@@ -408,7 +408,7 @@
     },
     {
       "Name": "Georgian",
-      "audio_language_display_name_1": "ქართული",
+      "AudioLanguageDisplayName1": "ქართული",
       "AudioLanguageTag": "ka",
       "Code": "https://smpte-ra.org/register/lmt/code/ka",
       "LongDescription1": "Georgian",
@@ -417,7 +417,7 @@
     },
     {
       "Name": "German",
-      "audio_language_display_name_1": "Deutsch",
+      "AudioLanguageDisplayName1": "Deutsch",
       "AudioLanguageTag": "de",
       "Code": "https://smpte-ra.org/register/lmt/code/de",
       "LongDescription1": "German",
@@ -434,7 +434,7 @@
     },
     {
       "Name": "Greek as spoken in Cyprus",
-      "audio_language_display_name_1": "Ελληνοκύπριοι",
+      "AudioLanguageDisplayName1": "Ελληνοκύπριοι",
       "AudioLanguageTag": "el-CY",
       "Code": "https://smpte-ra.org/register/lmt/code/el-CY",
       "LongDescription1": "Greek as spoken in Cyprus",
@@ -443,7 +443,7 @@
     },
     {
       "Name": "Greek, Modern (1453-)",
-      "audio_language_display_name_1": "Ἑλληνική",
+      "AudioLanguageDisplayName1": "Ἑλληνική",
       "AudioLanguageTag": "el",
       "Code": "https://smpte-ra.org/register/lmt/code/el",
       "LongDescription1": "Greek, Modern (1453-)",
@@ -452,7 +452,7 @@
     },
     {
       "Name": "Guarani",
-      "audio_language_display_name_1": "avañe'ẽ",
+      "AudioLanguageDisplayName1": "avañe'ẽ",
       "AudioLanguageTag": "gn",
       "Code": "https://smpte-ra.org/register/lmt/code/gn",
       "LongDescription1": "Guarani",
@@ -461,7 +461,7 @@
     },
     {
       "Name": "Gujarati",
-      "audio_language_display_name_1": "ગુજરાતી",
+      "AudioLanguageDisplayName1": "ગુજરાતી",
       "AudioLanguageTag": "gu",
       "Code": "https://smpte-ra.org/register/lmt/code/gu",
       "LongDescription1": "Gujarati",
@@ -470,7 +470,7 @@
     },
     {
       "Name": "Hausa",
-      "audio_language_display_name_1": "هَرْشَن هَوْسَ",
+      "AudioLanguageDisplayName1": "هَرْشَن هَوْسَ",
       "AudioLanguageTag": "ha",
       "Code": "https://smpte-ra.org/register/lmt/code/ha",
       "LongDescription1": "Hausa",
@@ -479,7 +479,7 @@
     },
     {
       "Name": "Hawaiian",
-      "audio_language_display_name_1": "ʻŌlelo Hawaiʻi",
+      "AudioLanguageDisplayName1": "ʻŌlelo Hawaiʻi",
       "AudioLanguageTag": "haw",
       "Code": "https://smpte-ra.org/register/lmt/code/haw",
       "LongDescription1": "Hawaiian",
@@ -488,7 +488,7 @@
     },
     {
       "Name": "Hawaiian Pidgin",
-      "audio_language_display_name_1": "ōlelo paʻi ʻai",
+      "AudioLanguageDisplayName1": "ōlelo paʻi ʻai",
       "AudioLanguageTag": "hwc",
       "Code": "https://smpte-ra.org/register/lmt/code/hwc",
       "LongDescription1": "Hawaiian Pidgin",
@@ -497,7 +497,7 @@
     },
     {
       "Name": "Hebrew",
-      "audio_language_display_name_1": "עברית‬",
+      "AudioLanguageDisplayName1": "עברית‬",
       "AudioLanguageTag": "he",
       "Code": "https://smpte-ra.org/register/lmt/code/he",
       "LongDescription1": "Hebrew",
@@ -506,7 +506,7 @@
     },
     {
       "Name": "Hindi",
-      "audio_language_display_name_1": "हिन्दी",
+      "AudioLanguageDisplayName1": "हिन्दी",
       "AudioLanguageTag": "hi",
       "Code": "https://smpte-ra.org/register/lmt/code/hi",
       "LongDescription1": "Hindi",
@@ -515,7 +515,7 @@
     },
     {
       "Name": "Hungarian",
-      "audio_language_display_name_1": "Magyar",
+      "AudioLanguageDisplayName1": "Magyar",
       "AudioLanguageTag": "hu",
       "Code": "https://smpte-ra.org/register/lmt/code/hu",
       "LongDescription1": "Hungarian",
@@ -525,7 +525,7 @@
     },
     {
       "Name": "Icelandic",
-      "audio_language_display_name_1": "íslenska",
+      "AudioLanguageDisplayName1": "íslenska",
       "AudioLanguageTag": "is",
       "Code": "https://smpte-ra.org/register/lmt/code/is",
       "LongDescription1": "Icelandic",
@@ -534,7 +534,7 @@
     },
     {
       "Name": "Igbo",
-      "audio_language_display_name_1": "Asụsụ Igbo",
+      "AudioLanguageDisplayName1": "Asụsụ Igbo",
       "AudioLanguageTag": "ig",
       "Code": "https://smpte-ra.org/register/lmt/code/ig",
       "LongDescription1": "Igbo",
@@ -543,7 +543,7 @@
     },
     {
       "Name": "Indonesian",
-      "audio_language_display_name_1": "bahasa Indonesia",
+      "AudioLanguageDisplayName1": "bahasa Indonesia",
       "AudioLanguageTag": "id",
       "Code": "https://smpte-ra.org/register/lmt/code/id",
       "LongDescription1": "Indonesian",
@@ -552,7 +552,7 @@
     },
     {
       "Name": "Inuktitut",
-      "audio_language_display_name_1": "ᐃᓄᒃᑎᑐᑦ",
+      "AudioLanguageDisplayName1": "ᐃᓄᒃᑎᑐᑦ",
       "AudioLanguageTag": "iu",
       "Code": "https://smpte-ra.org/register/lmt/code/iu",
       "LongDescription1": "Inuktitut",
@@ -561,7 +561,7 @@
     },
     {
       "Name": "Irish",
-      "audio_language_display_name_1": "Gaeilge",
+      "AudioLanguageDisplayName1": "Gaeilge",
       "AudioLanguageTag": "ga",
       "Code": "https://smpte-ra.org/register/lmt/code/ga",
       "LongDescription1": "Irish",
@@ -571,7 +571,7 @@
     },
     {
       "Name": "Italian",
-      "audio_language_display_name_1": "Italiano",
+      "AudioLanguageDisplayName1": "Italiano",
       "AudioLanguageTag": "it",
       "Code": "https://smpte-ra.org/register/lmt/code/it",
       "LongDescription1": "Italian",
@@ -580,7 +580,7 @@
     },
     {
       "Name": "Jamaican Creole English",
-      "audio_language_display_name_1": "Patwa",
+      "AudioLanguageDisplayName1": "Patwa",
       "AudioLanguageTag": "jam",
       "Code": "https://smpte-ra.org/register/lmt/code/jam",
       "LongDescription1": "Jamaican Creole English",
@@ -589,7 +589,7 @@
     },
     {
       "Name": "Japanese",
-      "audio_language_display_name_1": "日本語",
+      "AudioLanguageDisplayName1": "日本語",
       "AudioLanguageTag": "ja",
       "Code": "https://smpte-ra.org/register/lmt/code/ja",
       "LongDescription1": "Japanese",
@@ -598,7 +598,7 @@
     },
     {
       "Name": "Jauer dialect of Romansh",
-      "audio_language_display_name_1": "jauer rumantsch",
+      "AudioLanguageDisplayName1": "jauer rumantsch",
       "AudioLanguageTag": "rm",
       "Code": "https://smpte-ra.org/register/lmt/code/rm",
       "LongDescription1": "Jauer dialect of Romansh",
@@ -607,7 +607,7 @@
     },
     {
       "Name": "Kalaallisut",
-      "audio_language_display_name_1": "Greenlandic",
+      "AudioLanguageDisplayName1": "Greenlandic",
       "AudioLanguageTag": "kl",
       "Code": "https://smpte-ra.org/register/lmt/code/kl",
       "LongDescription1": "Kalaallisut",
@@ -617,7 +617,7 @@
     },
     {
       "Name": "Kannada",
-      "audio_language_display_name_1": "ಕನ್ನಡ",
+      "AudioLanguageDisplayName1": "ಕನ್ನಡ",
       "AudioLanguageTag": "kn",
       "Code": "https://smpte-ra.org/register/lmt/code/kn",
       "LongDescription1": "Kannada",
@@ -626,7 +626,7 @@
     },
     {
       "Name": "Kazakh",
-      "audio_language_display_name_1": "қазақ тілі",
+      "AudioLanguageDisplayName1": "қазақ тілі",
       "AudioLanguageTag": "kk",
       "Code": "https://smpte-ra.org/register/lmt/code/kk",
       "LongDescription1": "Kazakh",
@@ -635,7 +635,7 @@
     },
     {
       "Name": "Kinyarwanda",
-      "audio_language_display_name_1": "Kinyarwanda",
+      "AudioLanguageDisplayName1": "Kinyarwanda",
       "AudioLanguageTag": "rw",
       "Code": "https://smpte-ra.org/register/lmt/code/rw",
       "LongDescription1": "Kinyarwanda",
@@ -645,7 +645,7 @@
     },
     {
       "Name": "Kirghiz",
-      "audio_language_display_name_1": "кыргызча",
+      "AudioLanguageDisplayName1": "кыргызча",
       "AudioLanguageTag": "ky",
       "Code": "https://smpte-ra.org/register/lmt/code/ky",
       "LongDescription1": "Kirghiz",
@@ -655,7 +655,7 @@
     },
     {
       "Name": "Klingon",
-      "audio_language_display_name_1": "tlhIngan Hol",
+      "AudioLanguageDisplayName1": "tlhIngan Hol",
       "AudioLanguageTag": "tlh",
       "Code": "https://smpte-ra.org/register/lmt/code/tlh",
       "LongDescription1": "Klingon",
@@ -665,7 +665,7 @@
     },
     {
       "Name": "Korean",
-      "audio_language_display_name_1": "한국어",
+      "AudioLanguageDisplayName1": "한국어",
       "AudioLanguageTag": "ko",
       "Code": "https://smpte-ra.org/register/lmt/code/ko",
       "LongDescription1": "Korean",
@@ -674,7 +674,7 @@
     },
     {
       "Name": "Kurdish",
-      "audio_language_display_name_1": "کوردی",
+      "AudioLanguageDisplayName1": "کوردی",
       "AudioLanguageTag": "ku",
       "Code": "https://smpte-ra.org/register/lmt/code/ku",
       "LongDescription1": "Kurdish",
@@ -683,7 +683,7 @@
     },
     {
       "Name": "Ladakhi",
-      "audio_language_display_name_1": "ལ་དྭགས་ཀྱི་སྐད།",
+      "AudioLanguageDisplayName1": "ལ་དྭགས་ཀྱི་སྐད།",
       "AudioLanguageTag": "lbj",
       "Code": "https://smpte-ra.org/register/lmt/code/lbj",
       "LongDescription1": "Ladakhi",
@@ -692,7 +692,7 @@
     },
     {
       "Name": "Lao",
-      "audio_language_display_name_1": "ລາວ",
+      "AudioLanguageDisplayName1": "ລາວ",
       "AudioLanguageTag": "lo",
       "Code": "https://smpte-ra.org/register/lmt/code/lo",
       "LongDescription1": "Lao",
@@ -701,7 +701,7 @@
     },
     {
       "Name": "Latin",
-      "audio_language_display_name_1": "latine",
+      "AudioLanguageDisplayName1": "latine",
       "AudioLanguageTag": "la",
       "Code": "https://smpte-ra.org/register/lmt/code/la",
       "LongDescription1": "Latin",
@@ -710,7 +710,7 @@
     },
     {
       "Name": "Latvian",
-      "audio_language_display_name_1": "latviešu valoda",
+      "AudioLanguageDisplayName1": "latviešu valoda",
       "AudioLanguageTag": "lv",
       "Code": "https://smpte-ra.org/register/lmt/code/lv",
       "LongDescription1": "Latvian",
@@ -719,7 +719,7 @@
     },
     {
       "Name": "Lithuanian",
-      "audio_language_display_name_1": "lietuvių kalba",
+      "AudioLanguageDisplayName1": "lietuvių kalba",
       "AudioLanguageTag": "lt",
       "Code": "https://smpte-ra.org/register/lmt/code/lt",
       "LongDescription1": "Lithuanian",
@@ -728,7 +728,7 @@
     },
     {
       "Name": "Luxembourgish",
-      "audio_language_display_name_1": "Lëtzebuergesch",
+      "AudioLanguageDisplayName1": "Lëtzebuergesch",
       "AudioLanguageTag": "lb",
       "Code": "https://smpte-ra.org/register/lmt/code/lb",
       "LongDescription1": "Luxembourgish",
@@ -737,7 +737,7 @@
     },
     {
       "Name": "Macedonian",
-      "audio_language_display_name_1": "Mакедонски",
+      "AudioLanguageDisplayName1": "Mакедонски",
       "AudioLanguageTag": "mk",
       "Code": "https://smpte-ra.org/register/lmt/code/mk",
       "LongDescription1": "Macedonian",
@@ -746,7 +746,7 @@
     },
     {
       "Name": "Malagasy",
-      "audio_language_display_name_1": "Malagasy",
+      "AudioLanguageDisplayName1": "Malagasy",
       "AudioLanguageTag": "mg",
       "Code": "https://smpte-ra.org/register/lmt/code/mg",
       "LongDescription1": "Malagasy",
@@ -755,7 +755,7 @@
     },
     {
       "Name": "Malay",
-      "audio_language_display_name_1": "Bahasa Malaysia",
+      "AudioLanguageDisplayName1": "Bahasa Malaysia",
       "AudioLanguageTag": "ms",
       "Code": "https://smpte-ra.org/register/lmt/code/ms",
       "LongDescription1": "Malay",
@@ -764,7 +764,7 @@
     },
     {
       "Name": "Malayalam",
-      "audio_language_display_name_1": "മലയാളം",
+      "AudioLanguageDisplayName1": "മലയാളം",
       "AudioLanguageTag": "ml",
       "Code": "https://smpte-ra.org/register/lmt/code/ml",
       "LongDescription1": "Malayalam",
@@ -773,7 +773,7 @@
     },
     {
       "Name": "Maltese",
-      "audio_language_display_name_1": "Malti",
+      "AudioLanguageDisplayName1": "Malti",
       "AudioLanguageTag": "mt",
       "Code": "https://smpte-ra.org/register/lmt/code/mt",
       "LongDescription1": "Maltese",
@@ -782,7 +782,7 @@
     },
     {
       "Name": "Maori",
-      "audio_language_display_name_1": "Te reo Māori",
+      "AudioLanguageDisplayName1": "Te reo Māori",
       "AudioLanguageTag": "mi",
       "Code": "https://smpte-ra.org/register/lmt/code/mi",
       "LongDescription1": "Maori",
@@ -791,7 +791,7 @@
     },
     {
       "Name": "Marathi",
-      "audio_language_display_name_1": "मराठी",
+      "AudioLanguageDisplayName1": "मराठी",
       "AudioLanguageTag": "mr",
       "Code": "https://smpte-ra.org/register/lmt/code/mr",
       "LongDescription1": "Marathi",
@@ -800,7 +800,7 @@
     },
     {
       "Name": "Mayan",
-      "audio_language_display_name_1": "Mayan",
+      "AudioLanguageDisplayName1": "Mayan",
       "AudioLanguageTag": "myn",
       "Code": "https://smpte-ra.org/register/lmt/code/myn",
       "LongDescription1": "Mayan",
@@ -809,7 +809,7 @@
     },
     {
       "Name": "Khmer",
-      "audio_language_display_name_1": "ភាសាខ្មែរ",
+      "AudioLanguageDisplayName1": "ភាសាខ្មែរ",
       "AudioLanguageTag": "km",
       "Code": "https://smpte-ra.org/register/lmt/code/km",
       "LongDescription1": "Khmer",
@@ -819,7 +819,7 @@
     },
     {
       "Name": "Mongolian",
-      "audio_language_display_name_1": "монгол хэл",
+      "AudioLanguageDisplayName1": "монгол хэл",
       "AudioLanguageTag": "mn",
       "Code": "https://smpte-ra.org/register/lmt/code/mn",
       "LongDescription1": "Mongolian",
@@ -828,7 +828,7 @@
     },
     {
       "Name": "Mossi",
-      "audio_language_display_name_1": "Mooré",
+      "AudioLanguageDisplayName1": "Mooré",
       "AudioLanguageTag": "mos",
       "Code": "https://smpte-ra.org/register/lmt/code/mos",
       "LongDescription1": "Mossi",
@@ -837,7 +837,7 @@
     },
     {
       "Name": "Motu",
-      "audio_language_display_name_1": "Motu",
+      "AudioLanguageDisplayName1": "Motu",
       "AudioLanguageTag": "meu",
       "Code": "https://smpte-ra.org/register/lmt/code/meu",
       "LongDescription1": "Motu",
@@ -846,7 +846,7 @@
     },
     {
       "Name": "Nauru",
-      "audio_language_display_name_1": "Nauruan",
+      "AudioLanguageDisplayName1": "Nauruan",
       "AudioLanguageTag": "na",
       "Code": "https://smpte-ra.org/register/lmt/code/na",
       "LongDescription1": "Nauru",
@@ -856,7 +856,7 @@
     },
     {
       "Name": "Navajo",
-      "audio_language_display_name_1": "Diné bizaad",
+      "AudioLanguageDisplayName1": "Diné bizaad",
       "AudioLanguageTag": "nv",
       "Code": "https://smpte-ra.org/register/lmt/code/nv",
       "LongDescription1": "Navajo",
@@ -865,7 +865,7 @@
     },
     {
       "Name": "Nepali",
-      "audio_language_display_name_1": "खस भाषा",
+      "AudioLanguageDisplayName1": "खस भाषा",
       "AudioLanguageTag": "ne",
       "Code": "https://smpte-ra.org/register/lmt/code/ne",
       "LongDescription1": "Nepali",
@@ -874,7 +874,7 @@
     },
     {
       "Name": "Northern Sotho",
-      "audio_language_display_name_1": "Sesotho sa Leboa",
+      "AudioLanguageDisplayName1": "Sesotho sa Leboa",
       "AudioLanguageTag": "nso",
       "Code": "https://smpte-ra.org/register/lmt/code/nso",
       "LongDescription1": "Northern Sotho",
@@ -883,7 +883,7 @@
     },
     {
       "Name": "Norwegian",
-      "audio_language_display_name_1": "Norsk",
+      "AudioLanguageDisplayName1": "Norsk",
       "AudioLanguageTag": "no",
       "Code": "https://smpte-ra.org/register/lmt/code/no",
       "LongDescription1": "Norwegian",
@@ -892,7 +892,7 @@
     },
     {
       "Name": "Nyanja",
-      "audio_language_display_name_1": "Chichewa",
+      "AudioLanguageDisplayName1": "Chichewa",
       "AudioLanguageTag": "ny",
       "Code": "https://smpte-ra.org/register/lmt/code/ny",
       "LongDescription1": "Nyanja",
@@ -902,7 +902,7 @@
     },
     {
       "Name": "Odia",
-      "audio_language_display_name_1": "ଓଡ଼ିଆ",
+      "AudioLanguageDisplayName1": "ଓଡ଼ିଆ",
       "AudioLanguageTag": "or",
       "Code": "https://smpte-ra.org/register/lmt/code/or",
       "LongDescription1": "Odia",
@@ -912,7 +912,7 @@
     },
     {
       "Name": "Palauan",
-      "audio_language_display_name_1": "a tekoi er a Belau",
+      "AudioLanguageDisplayName1": "a tekoi er a Belau",
       "AudioLanguageTag": "pau",
       "Code": "https://smpte-ra.org/register/lmt/code/pau",
       "LongDescription1": "Palauan",
@@ -921,7 +921,7 @@
     },
     {
       "Name": "Panjabi",
-      "audio_language_display_name_1": "ਪੰਜਾਬੀ",
+      "AudioLanguageDisplayName1": "ਪੰਜਾਬੀ",
       "AudioLanguageTag": "pa",
       "Code": "https://smpte-ra.org/register/lmt/code/pa",
       "LongDescription1": "Panjabi",
@@ -931,7 +931,7 @@
     },
     {
       "Name": "Pashto",
-      "audio_language_display_name_1": "پښتو",
+      "AudioLanguageDisplayName1": "پښتو",
       "AudioLanguageTag": "ps",
       "Code": "https://smpte-ra.org/register/lmt/code/ps",
       "LongDescription1": "Pashto",
@@ -941,7 +941,7 @@
     },
     {
       "Name": "Persian",
-      "audio_language_display_name_1": "فارسی",
+      "AudioLanguageDisplayName1": "فارسی",
       "AudioLanguageTag": "fa",
       "Code": "https://smpte-ra.org/register/lmt/code/fa",
       "LongDescription1": "Persian",
@@ -951,7 +951,7 @@
     },
     {
       "Name": "Pitcairn-Norfolk",
-      "audio_language_display_name_1": "Pitkern-Norfolk",
+      "AudioLanguageDisplayName1": "Pitkern-Norfolk",
       "AudioLanguageTag": "pih",
       "Code": "https://smpte-ra.org/register/lmt/code/pih",
       "LongDescription1": "Pitcairn-Norfolk",
@@ -970,7 +970,7 @@
     },
     {
       "Name": "Portuguese",
-      "audio_language_display_name_1": "Português",
+      "AudioLanguageDisplayName1": "Português",
       "AudioLanguageTag": "pt",
       "Code": "https://smpte-ra.org/register/lmt/code/pt",
       "LongDescription1": "Portuguese",
@@ -980,8 +980,8 @@
     },
     {
       "Name": "Punjabi",
-      "audio_language_display_name_1": "ਪੰਜਾਬੀ",
-      "audio_language_display_name_2": "پن٘جابی",
+      "AudioLanguageDisplayName1": "ਪੰਜਾਬੀ",
+      "AudioLanguageDisplayName2": "پن٘جابی",
       "AudioLanguageTag": "pa2",
       "Code": "https://smpte-ra.org/register/lmt/code/pa",
       "LongDescription1": "Punjabi",
@@ -992,7 +992,7 @@
     },
     {
       "Name": "Romanian",
-      "audio_language_display_name_1": "Română",
+      "AudioLanguageDisplayName1": "Română",
       "AudioLanguageTag": "ro",
       "Code": "https://smpte-ra.org/register/lmt/code/ro",
       "LongDescription1": "Romanian",
@@ -1002,7 +1002,7 @@
     },
     {
       "Name": "Rundi",
-      "audio_language_display_name_1": "Ikirundi",
+      "AudioLanguageDisplayName1": "Ikirundi",
       "AudioLanguageTag": "rn",
       "Code": "https://smpte-ra.org/register/lmt/code/rn",
       "LongDescription1": "Rundi",
@@ -1011,7 +1011,7 @@
     },
     {
       "Name": "Russian",
-      "audio_language_display_name_1": "ру́сский язы́к",
+      "AudioLanguageDisplayName1": "ру́сский язы́к",
       "AudioLanguageTag": "ru",
       "Code": "https://smpte-ra.org/register/lmt/code/ru",
       "LongDescription1": "Russian",
@@ -1020,7 +1020,7 @@
     },
     {
       "Name": "Samoan",
-      "audio_language_display_name_1": "Gagana faʻa Sāmoa",
+      "AudioLanguageDisplayName1": "Gagana faʻa Sāmoa",
       "AudioLanguageTag": "sm",
       "Code": "https://smpte-ra.org/register/lmt/code/sm",
       "LongDescription1": "Samoan",
@@ -1029,7 +1029,7 @@
     },
     {
       "Name": "Sanskrit",
-      "audio_language_display_name_1": "संस्कृतम्",
+      "AudioLanguageDisplayName1": "संस्कृतम्",
       "AudioLanguageTag": "sa",
       "Code": "https://smpte-ra.org/register/lmt/code/sa",
       "LongDescription1": "Sanskrit",
@@ -1038,8 +1038,8 @@
     },
     {
       "Name": "Serbo-Croatian",
-      "audio_language_display_name_1": "srpskohrvatski",
-      "audio_language_display_name_2": "српскохрватски",
+      "AudioLanguageDisplayName1": "srpskohrvatski",
+      "AudioLanguageDisplayName2": "српскохрватски",
       "AudioLanguageTag": "sh",
       "Code": "https://smpte-ra.org/register/lmt/code/sh",
       "LongDescription1": "Serbo-Croatian",
@@ -1050,7 +1050,7 @@
     },
     {
       "Name": "Seychellois Creole",
-      "audio_language_display_name_1": "Seychellois Creole",
+      "AudioLanguageDisplayName1": "Seychellois Creole",
       "AudioLanguageTag": "crs",
       "Code": "https://smpte-ra.org/register/lmt/code/crs",
       "LongDescription1": "Seychellois Creole",
@@ -1060,7 +1060,7 @@
     },
     {
       "Name": "American Sign Language",
-      "audio_language_display_name_1": "American Sign Language",
+      "AudioLanguageDisplayName1": "American Sign Language",
       "Code": "https://smpte-ra.org/register/lmt/code/ase",
       "LongDescription1": "American Sign Language",
       "VisualLanguageDisplayName1": "American Sign Language",
@@ -1068,8 +1068,8 @@
     },
     {
       "Name": "Australian Sign Language",
-      "audio_language_display_name_1": "Australian Sign Language",
-      "audio_language_display_name_2": "Auslan",
+      "AudioLanguageDisplayName1": "Australian Sign Language",
+      "AudioLanguageDisplayName2": "Auslan",
       "Code": "https://smpte-ra.org/register/lmt/code/asf",
       "LongDescription1": "Australian Sign Language",
       "long_description_2": "Auslan",
@@ -1087,7 +1087,7 @@
     },
     {
       "Name": "British Sign Language",
-      "audio_language_display_name_1": "British Sign Language",
+      "AudioLanguageDisplayName1": "British Sign Language",
       "AudioLanguageTag": "sgn-bfi",
       "Code": "https://smpte-ra.org/register/lmt/code/sgn-bfi",
       "LongDescription1": "British Sign Language",
@@ -1096,7 +1096,7 @@
     },
     {
       "Name": "Russian Sign Language",
-      "audio_language_display_name_1": "Russian Sign Language",
+      "AudioLanguageDisplayName1": "Russian Sign Language",
       "AudioLanguageTag": "rsl",
       "Code": "https://smpte-ra.org/register/lmt/code/rsl",
       "LongDescription1": "Russian Sign Language",
@@ -1105,8 +1105,8 @@
     },
     {
       "Name": "Sindhi",
-      "audio_language_display_name_1": "سنڌي",
-      "audio_language_display_name_2": "सिन्धी",
+      "AudioLanguageDisplayName1": "سنڌي",
+      "AudioLanguageDisplayName2": "सिन्धी",
       "AudioLanguageTag": "sd",
       "Code": "https://smpte-ra.org/register/lmt/code/sd",
       "LongDescription1": "Sindhi",
@@ -1115,7 +1115,7 @@
     },
     {
       "Name": "Sinhala",
-      "audio_language_display_name_1": "සිංහල",
+      "AudioLanguageDisplayName1": "සිංහල",
       "AudioLanguageTag": "si",
       "Code": "https://smpte-ra.org/register/lmt/code/si",
       "LongDescription1": "Sinhala",
@@ -1125,7 +1125,7 @@
     },
     {
       "Name": "Slovak",
-      "audio_language_display_name_1": "Slovenčina",
+      "AudioLanguageDisplayName1": "Slovenčina",
       "AudioLanguageTag": "sk",
       "Code": "https://smpte-ra.org/register/lmt/code/sk",
       "LongDescription1": "Slovak",
@@ -1135,7 +1135,7 @@
     },
     {
       "Name": "Slovenian",
-      "audio_language_display_name_1": "Slovenščina",
+      "AudioLanguageDisplayName1": "Slovenščina",
       "AudioLanguageTag": "sl",
       "Code": "https://smpte-ra.org/register/lmt/code/sl",
       "LongDescription1": "Slovenian",
@@ -1145,7 +1145,7 @@
     },
     {
       "Name": "Somali",
-      "audio_language_display_name_1": "Af-Soomaali",
+      "AudioLanguageDisplayName1": "Af-Soomaali",
       "AudioLanguageTag": "so",
       "Code": "https://smpte-ra.org/register/lmt/code/so",
       "LongDescription1": "Somali",
@@ -1154,7 +1154,7 @@
     },
     {
       "Name": "Southern Sotho",
-      "audio_language_display_name_1": "Sotho",
+      "AudioLanguageDisplayName1": "Sotho",
       "AudioLanguageTag": "st",
       "Code": "https://smpte-ra.org/register/lmt/code/st",
       "LongDescription1": "Southern Sotho",
@@ -1164,7 +1164,7 @@
     },
     {
       "Name": "Spanish",
-      "audio_language_display_name_1": "Español",
+      "AudioLanguageDisplayName1": "Español",
       "AudioLanguageTag": "es",
       "Code": "https://smpte-ra.org/register/lmt/code/es",
       "LongDescription1": "Spanish",
@@ -1174,7 +1174,7 @@
     },
     {
       "Name": "No linguistic content",
-      "audio_language_display_name_1": "No linguistic content",
+      "AudioLanguageDisplayName1": "No linguistic content",
       "AudioLanguageTag": "zxx",
       "Code": "https://smpte-ra.org/register/lmt/code/zxx",
       "LongDescription1": "No linguistic content",
@@ -1183,7 +1183,7 @@
     },
     {
       "Name": "Undetermined",
-      "audio_language_display_name_1": "Undetermined",
+      "AudioLanguageDisplayName1": "Undetermined",
       "AudioLanguageTag": "und",
       "Code": "https://smpte-ra.org/register/lmt/code/und",
       "LongDescription1": "Undetermined",
@@ -1192,7 +1192,7 @@
     },
     {
       "Name": "Sranan Tongo",
-      "audio_language_display_name_1": "Sranan Tongo",
+      "AudioLanguageDisplayName1": "Sranan Tongo",
       "AudioLanguageTag": "srn",
       "Code": "https://smpte-ra.org/register/lmt/code/srn",
       "LongDescription1": "Sranan Tongo",
@@ -1201,7 +1201,7 @@
     },
     {
       "Name": "Swahili",
-      "audio_language_display_name_1": "Kiswahili",
+      "AudioLanguageDisplayName1": "Kiswahili",
       "AudioLanguageTag": "swh",
       "Code": "https://smpte-ra.org/register/lmt/code/sw",
       "LongDescription1": "Swahili",
@@ -1210,7 +1210,7 @@
     },
     {
       "Name": "Swati",
-      "audio_language_display_name_1": "SiSwati",
+      "AudioLanguageDisplayName1": "SiSwati",
       "AudioLanguageTag": "ss",
       "Code": "https://smpte-ra.org/register/lmt/code/ss",
       "LongDescription1": "Swati",
@@ -1220,7 +1220,7 @@
     },
     {
       "Name": "Swedish",
-      "audio_language_display_name_1": "Svenska",
+      "AudioLanguageDisplayName1": "Svenska",
       "AudioLanguageTag": "sv",
       "Code": "https://smpte-ra.org/register/lmt/code/sv",
       "LongDescription1": "Swedish",
@@ -1229,7 +1229,7 @@
     },
     {
       "Name": "Swiss German",
-      "audio_language_display_name_1": "Schwiizerdütsch",
+      "AudioLanguageDisplayName1": "Schwiizerdütsch",
       "AudioLanguageTag": "gsw",
       "Code": "https://smpte-ra.org/register/lmt/code/gsw",
       "LongDescription1": "Swiss German",
@@ -1238,7 +1238,7 @@
     },
     {
       "Name": "Tagalog",
-      "audio_language_display_name_1": "Wikang Tagalog",
+      "AudioLanguageDisplayName1": "Wikang Tagalog",
       "AudioLanguageTag": "tl",
       "Code": "https://smpte-ra.org/register/lmt/code/tl",
       "LongDescription1": "Tagalog",
@@ -1247,7 +1247,7 @@
     },
     {
       "Name": "Tahitian",
-      "audio_language_display_name_1": "Reo Tahiti",
+      "AudioLanguageDisplayName1": "Reo Tahiti",
       "AudioLanguageTag": "ty",
       "Code": "https://smpte-ra.org/register/lmt/code/ty",
       "LongDescription1": "Tahitian",
@@ -1256,7 +1256,7 @@
     },
     {
       "Name": "Tajik",
-      "audio_language_display_name_1": "тоҷикӣ",
+      "AudioLanguageDisplayName1": "тоҷикӣ",
       "AudioLanguageTag": "tg",
       "Code": "https://smpte-ra.org/register/lmt/code/tg",
       "LongDescription1": "Tajik",
@@ -1265,7 +1265,7 @@
     },
     {
       "Name": "Tamil",
-      "audio_language_display_name_1": "தமிழ்",
+      "AudioLanguageDisplayName1": "தமிழ்",
       "AudioLanguageTag": "ta",
       "Code": "https://smpte-ra.org/register/lmt/code/ta",
       "LongDescription1": "Tamil",
@@ -1274,7 +1274,7 @@
     },
     {
       "Name": "Telugu",
-      "audio_language_display_name_1": "తెలుగు",
+      "AudioLanguageDisplayName1": "తెలుగు",
       "AudioLanguageTag": "te",
       "Code": "https://smpte-ra.org/register/lmt/code/te",
       "LongDescription1": "Telugu",
@@ -1283,7 +1283,7 @@
     },
     {
       "Name": "Thai",
-      "audio_language_display_name_1": "ภาษาไทย",
+      "AudioLanguageDisplayName1": "ภาษาไทย",
       "AudioLanguageTag": "th",
       "Code": "https://smpte-ra.org/register/lmt/code/th",
       "LongDescription1": "Thai",
@@ -1292,7 +1292,7 @@
     },
     {
       "Name": "Tibetan",
-      "audio_language_display_name_1": "བོད་སྐད་",
+      "AudioLanguageDisplayName1": "བོད་སྐད་",
       "AudioLanguageTag": "bo",
       "Code": "https://smpte-ra.org/register/lmt/code/bo",
       "LongDescription1": "Tibetan",
@@ -1301,7 +1301,7 @@
     },
     {
       "Name": "Tigrinya",
-      "audio_language_display_name_1": "ትግርኛ",
+      "AudioLanguageDisplayName1": "ትግርኛ",
       "AudioLanguageTag": "ti",
       "Code": "https://smpte-ra.org/register/lmt/code/ti",
       "LongDescription1": "Tigrinya",
@@ -1310,7 +1310,7 @@
     },
     {
       "Name": "Tok Pisin",
-      "audio_language_display_name_1": "Tok Pisin",
+      "AudioLanguageDisplayName1": "Tok Pisin",
       "AudioLanguageTag": "tpi",
       "Code": "https://smpte-ra.org/register/lmt/code/tpi",
       "LongDescription1": "Tok Pisin",
@@ -1319,7 +1319,7 @@
     },
     {
       "Name": "Tonga (Tonga Islands)",
-      "audio_language_display_name_1": "lea fakatonga",
+      "AudioLanguageDisplayName1": "lea fakatonga",
       "AudioLanguageTag": "to",
       "Code": "https://smpte-ra.org/register/lmt/code/to",
       "LongDescription1": "Tonga (Tonga Islands)",
@@ -1329,7 +1329,7 @@
     },
     {
       "Name": "Tsonga",
-      "audio_language_display_name_1": "Xitsonga",
+      "AudioLanguageDisplayName1": "Xitsonga",
       "AudioLanguageTag": "ts",
       "Code": "https://smpte-ra.org/register/lmt/code/",
       "LongDescription1": "Tsonga",
@@ -1338,7 +1338,7 @@
     },
     {
       "Name": "Tswana",
-      "audio_language_display_name_1": "Tswana",
+      "AudioLanguageDisplayName1": "Tswana",
       "AudioLanguageTag": "tn",
       "Code": "https://smpte-ra.org/register/lmt/code/tn",
       "LongDescription1": "Tswana",
@@ -1348,7 +1348,7 @@
     },
     {
       "Name": "Tulu",
-      "audio_language_display_name_1": "ತುಳು",
+      "AudioLanguageDisplayName1": "ತುಳು",
       "AudioLanguageTag": "tcy",
       "Code": "https://smpte-ra.org/register/lmt/code/tcy",
       "LongDescription1": "Tulu",
@@ -1357,7 +1357,7 @@
     },
     {
       "Name": "Turkish",
-      "audio_language_display_name_1": "Türkçe",
+      "AudioLanguageDisplayName1": "Türkçe",
       "AudioLanguageTag": "tr",
       "Code": "https://smpte-ra.org/register/lmt/code/tr",
       "LongDescription1": "Turkish",
@@ -1366,7 +1366,7 @@
     },
     {
       "Name": "Turkmen",
-      "audio_language_display_name_1": "Türkmençe",
+      "AudioLanguageDisplayName1": "Türkmençe",
       "AudioLanguageTag": "tk",
       "Code": "https://smpte-ra.org/register/lmt/code/tk",
       "LongDescription1": "Turkmen",
@@ -1375,7 +1375,7 @@
     },
     {
       "Name": "Tuvaluan",
-      "audio_language_display_name_1": "Tuvaluan",
+      "AudioLanguageDisplayName1": "Tuvaluan",
       "AudioLanguageTag": "tvl",
       "Code": "https://smpte-ra.org/register/lmt/code/tvl",
       "LongDescription1": "Tuvaluan",
@@ -1385,7 +1385,7 @@
     },
     {
       "Name": "Ukrainian",
-      "audio_language_display_name_1": "українська мова",
+      "AudioLanguageDisplayName1": "українська мова",
       "AudioLanguageTag": "uk",
       "Code": "https://smpte-ra.org/register/lmt/code/uk",
       "LongDescription1": "Ukrainian",
@@ -1394,7 +1394,7 @@
     },
     {
       "Name": "Urdu",
-      "audio_language_display_name_1": "اُردُو‬",
+      "AudioLanguageDisplayName1": "اُردُو‬",
       "AudioLanguageTag": "ur",
       "Code": "https://smpte-ra.org/register/lmt/code/ur",
       "LongDescription1": "Urdu",
@@ -1403,7 +1403,7 @@
     },
     {
       "Name": "Uzbek",
-      "audio_language_display_name_1": "oʻzbekcha",
+      "AudioLanguageDisplayName1": "oʻzbekcha",
       "AudioLanguageTag": "uz",
       "Code": "https://smpte-ra.org/register/lmt/code/uz",
       "LongDescription1": "Uzbek",
@@ -1412,7 +1412,7 @@
     },
     {
       "Name": "Vietnamese",
-      "audio_language_display_name_1": "Tiếng Việt",
+      "AudioLanguageDisplayName1": "Tiếng Việt",
       "AudioLanguageTag": "vi",
       "Code": "https://smpte-ra.org/register/lmt/code/vi",
       "LongDescription1": "Vietnamese",
@@ -1421,7 +1421,7 @@
     },
     {
       "Name": "Welsh",
-      "audio_language_display_name_1": "Cymraeg",
+      "AudioLanguageDisplayName1": "Cymraeg",
       "AudioLanguageTag": "cy",
       "Code": "https://smpte-ra.org/register/lmt/code/cy",
       "LongDescription1": "Welsh",
@@ -1430,7 +1430,7 @@
     },
     {
       "Name": "Wolof",
-      "audio_language_display_name_1": "Wolof",
+      "AudioLanguageDisplayName1": "Wolof",
       "AudioLanguageTag": "wo",
       "Code": "https://smpte-ra.org/register/lmt/code/wo",
       "LongDescription1": "Wolof",
@@ -1439,7 +1439,7 @@
     },
     {
       "Name": "Xhosa",
-      "audio_language_display_name_1": "isiXhosa",
+      "AudioLanguageDisplayName1": "isiXhosa",
       "AudioLanguageTag": "xh",
       "Code": "https://smpte-ra.org/register/lmt/code/xh",
       "LongDescription1": "Xhosa",
@@ -1448,7 +1448,7 @@
     },
     {
       "Name": "Yiddish",
-      "audio_language_display_name_1": "ייִדיש‎",
+      "AudioLanguageDisplayName1": "ייִדיש‎",
       "AudioLanguageTag": "yi",
       "Code": "https://smpte-ra.org/register/lmt/code/yi",
       "LongDescription1": "Yiddish",
@@ -1457,7 +1457,7 @@
     },
     {
       "Name": "Yoruba",
-      "audio_language_display_name_1": "Èdè Yorùbá",
+      "AudioLanguageDisplayName1": "Èdè Yorùbá",
       "AudioLanguageTag": "yo",
       "Code": "https://smpte-ra.org/register/lmt/code/yo",
       "LongDescription1": "Yoruba",
@@ -1466,7 +1466,7 @@
     },
     {
       "Name": "Zulu",
-      "audio_language_display_name_1": "isiZulu",
+      "AudioLanguageDisplayName1": "isiZulu",
       "AudioLanguageTag": "zu",
       "Code": "https://smpte-ra.org/register/lmt/code/zu",
       "LongDescription1": "Zulu",
