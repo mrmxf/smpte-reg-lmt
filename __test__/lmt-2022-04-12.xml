@@ -1,0 +1,3465 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Zthes>
+    <term>
+        <termId>16896478</termId>
+        <termUpdate>add</termUpdate>
+        <termName>Abkhazian</termName>
+        <termVocabulary>Language Metadata Table Master</termVocabulary>
+    </term>
+    <term>
+        <termId>10495</termId>
+        <termUpdate>add</termUpdate>
+        <termName>Acholi</termName>
+        <termVocabulary>Language Metadata Table Master</termVocabulary>
+    </term>
+    <term>
+        <termId>10496</termId>
+        <termUpdate>add</termUpdate>
+        <termName>Afar</termName>
+        <termVocabulary>Language Metadata Table Master</termVocabulary>
+    </term>
+    <term>
+        <termId>16896479</termId>
+        <termUpdate>add</termUpdate>
+        <termName>Afrikaans</termName>
+        <termVocabulary>Language Metadata Table Master</termVocabulary>
+    </term>
+    <term>
+        <termId>10497</termId>
+        <termUpdate>add</termUpdate>
+        <termName>Akan</termName>
+        <termVocabulary>Language Metadata Table Master</termVocabulary>
+        <relation weight="100">
+            <relationType>NT</relationType>
+            <termId>10498</termId>
+            <termName>Twi</termName>
+            <termVocabulary>Language Metadata Table Master</termVocabulary>
+        </relation>
+    </term>
+    <term>
+        <termId>16896378</termId>
+        <termUpdate>add</termUpdate>
+        <termName>Albanian</termName>
+        <termVocabulary>Language Metadata Table Master</termVocabulary>
+        <relation weight="100">
+            <relationType>BT</relationType>
+            <termId>16896743</termId>
+            <termName>Albanian Group</termName>
+            <termVocabulary>Language Metadata Table Master</termVocabulary>
+        </relation>
+    </term>
+    <term>
+        <termId>16896743</termId>
+        <termUpdate>add</termUpdate>
+        <termName>Albanian Group</termName>
+        <termVocabulary>Language Metadata Table Master</termVocabulary>
+        <relation weight="100">
+            <relationType>NT</relationType>
+            <termId>16896378</termId>
+            <termName>Albanian</termName>
+            <termVocabulary>Language Metadata Table Master</termVocabulary>
+        </relation>
+    </term>
+    <term>
+        <termId>16896382</termId>
+        <termUpdate>add</termUpdate>
+        <termName>Algerian Arabic</termName>
+        <termVocabulary>Language Metadata Table Master</termVocabulary>
+        <relation weight="100">
+            <relationType>BT</relationType>
+            <termId>16896381</termId>
+            <termName>Arabic</termName>
+            <termVocabulary>Language Metadata Table Master</termVocabulary>
+        </relation>
+    </term>
+    <term>
+        <termId>16896603</termId>
+        <termUpdate>add</termUpdate>
+        <termName>Algic Group</termName>
+        <termVocabulary>Language Metadata Table Master</termVocabulary>
+        <relation weight="100">
+            <relationType>NT</relationType>
+            <termId>16896380</termId>
+            <termName>Arapaho</termName>
+            <termVocabulary>Language Metadata Table Master</termVocabulary>
+        </relation>
+    </term>
+    <term>
+        <termId>16896449</termId>
+        <termUpdate>add</termUpdate>
+        <termName>American Sign Language</termName>
+        <termVocabulary>Language Metadata Table Master</termVocabulary>
+        <relation weight="100">
+            <relationType>BT</relationType>
+            <termId>16896674</termId>
+            <termName>Sign Languages Group</termName>
+            <termVocabulary>Language Metadata Table Master</termVocabulary>
+        </relation>
+    </term>
+    <term>
+        <termId>16896480</termId>
+        <termUpdate>add</termUpdate>
+        <termName>Amharic</termName>
+        <termVocabulary>Language Metadata Table Master</termVocabulary>
+    </term>
+    <term>
+        <termId>16896422</termId>
+        <termUpdate>add</termUpdate>
+        <termName>Ancient Greek</termName>
+        <termVocabulary>Language Metadata Table Master</termVocabulary>
+        <relation weight="100">
+            <relationType>BT</relationType>
+            <termId>16896673</termId>
+            <termName>Greek</termName>
+            <termVocabulary>Language Metadata Table Master</termVocabulary>
+        </relation>
+    </term>
+    <term>
+        <termId>16896381</termId>
+        <termUpdate>add</termUpdate>
+        <termName>Arabic</termName>
+        <termVocabulary>Language Metadata Table Master</termVocabulary>
+        <relation weight="100">
+            <relationType>NT</relationType>
+            <termId>16896382</termId>
+            <termName>Algerian Arabic</termName>
+            <termVocabulary>Language Metadata Table Master</termVocabulary>
+        </relation>
+        <relation weight="100">
+            <relationType>NT</relationType>
+            <termId>10475</termId>
+            <termName>Arabic as spoken in Bahrain</termName>
+            <termVocabulary>Language Metadata Table Master</termVocabulary>
+        </relation>
+        <relation weight="100">
+            <relationType>NT</relationType>
+            <termId>10482</termId>
+            <termName>Arabic as spoken in Comoros</termName>
+            <termVocabulary>Language Metadata Table Master</termVocabulary>
+        </relation>
+        <relation weight="100">
+            <relationType>NT</relationType>
+            <termId>10476</termId>
+            <termName>Arabic as spoken in Djibouti</termName>
+            <termVocabulary>Language Metadata Table Master</termVocabulary>
+        </relation>
+        <relation weight="100">
+            <relationType>NT</relationType>
+            <termId>10478</termId>
+            <termName>Arabic as spoken in Eritrea</termName>
+            <termVocabulary>Language Metadata Table Master</termVocabulary>
+        </relation>
+        <relation weight="100">
+            <relationType>NT</relationType>
+            <termId>10480</termId>
+            <termName>Arabic as spoken in Iraq</termName>
+            <termVocabulary>Language Metadata Table Master</termVocabulary>
+        </relation>
+        <relation weight="100">
+            <relationType>NT</relationType>
+            <termId>10479</termId>
+            <termName>Arabic as spoken in Israel</termName>
+            <termVocabulary>Language Metadata Table Master</termVocabulary>
+        </relation>
+        <relation weight="100">
+            <relationType>NT</relationType>
+            <termId>10481</termId>
+            <termName>Arabic as spoken in Jordan</termName>
+            <termVocabulary>Language Metadata Table Master</termVocabulary>
+        </relation>
+        <relation weight="100">
+            <relationType>NT</relationType>
+            <termId>10483</termId>
+            <termName>Arabic as spoken in Kuwait</termName>
+            <termVocabulary>Language Metadata Table Master</termVocabulary>
+        </relation>
+        <relation weight="100">
+            <relationType>NT</relationType>
+            <termId>16896384</termId>
+            <termName>Arabic as spoken in Lebanon</termName>
+            <termVocabulary>Language Metadata Table Master</termVocabulary>
+        </relation>
+        <relation weight="100">
+            <relationType>NT</relationType>
+            <termId>10484</termId>
+            <termName>Arabic as spoken in Libya</termName>
+            <termVocabulary>Language Metadata Table Master</termVocabulary>
+        </relation>
+        <relation weight="100">
+            <relationType>NT</relationType>
+            <termId>10485</termId>
+            <termName>Arabic as spoken in Mauritania</termName>
+            <termVocabulary>Language Metadata Table Master</termVocabulary>
+        </relation>
+        <relation weight="100">
+            <relationType>NT</relationType>
+            <termId>16896385</termId>
+            <termName>Arabic as spoken in Morocco</termName>
+            <termVocabulary>Language Metadata Table Master</termVocabulary>
+        </relation>
+        <relation weight="100">
+            <relationType>NT</relationType>
+            <termId>10486</termId>
+            <termName>Arabic as spoken in Oman</termName>
+            <termVocabulary>Language Metadata Table Master</termVocabulary>
+        </relation>
+        <relation weight="100">
+            <relationType>NT</relationType>
+            <termId>10487</termId>
+            <termName>Arabic as spoken in Palestine</termName>
+            <termVocabulary>Language Metadata Table Master</termVocabulary>
+        </relation>
+        <relation weight="100">
+            <relationType>NT</relationType>
+            <termId>10488</termId>
+            <termName>Arabic as spoken in Qatar</termName>
+            <termVocabulary>Language Metadata Table Master</termVocabulary>
+        </relation>
+        <relation weight="100">
+            <relationType>NT</relationType>
+            <termId>10489</termId>
+            <termName>Arabic as spoken in Saudi Arabi</termName>
+            <termVocabulary>Language Metadata Table Master</termVocabulary>
+        </relation>
+        <relation weight="100">
+            <relationType>NT</relationType>
+            <termId>10490</termId>
+            <termName>Arabic as spoken in Sudan</termName>
+            <termVocabulary>Language Metadata Table Master</termVocabulary>
+        </relation>
+        <relation weight="100">
+            <relationType>NT</relationType>
+            <termId>10491</termId>
+            <termName>Arabic as spoken in Syria</termName>
+            <termVocabulary>Language Metadata Table Master</termVocabulary>
+        </relation>
+        <relation weight="100">
+            <relationType>NT</relationType>
+            <termId>10474</termId>
+            <termName>Arabic as spoken in the United Arab Emirates</termName>
+            <termVocabulary>Language Metadata Table Master</termVocabulary>
+        </relation>
+        <relation weight="100">
+            <relationType>NT</relationType>
+            <termId>16896386</termId>
+            <termName>Arabic as spoken in Tunisia</termName>
+            <termVocabulary>Language Metadata Table Master</termVocabulary>
+        </relation>
+        <relation weight="100">
+            <relationType>NT</relationType>
+            <termId>10477</termId>
+            <termName>Arabic as spoken In Western Sahara</termName>
+            <termVocabulary>Language Metadata Table Master</termVocabulary>
+        </relation>
+        <relation weight="100">
+            <relationType>NT</relationType>
+            <termId>10492</termId>
+            <termName>Arabic as spoken in Yemen</termName>
+            <termVocabulary>Language Metadata Table Master</termVocabulary>
+        </relation>
+        <relation weight="100">
+            <relationType>NT</relationType>
+            <termId>16896383</termId>
+            <termName>Egyptian Arabic</termName>
+            <termVocabulary>Language Metadata Table Master</termVocabulary>
+        </relation>
+        <relation weight="100">
+            <relationType>NT</relationType>
+            <termId>16896387</termId>
+            <termName>Standard Arabic</termName>
+            <termVocabulary>Language Metadata Table Master</termVocabulary>
+        </relation>
+    </term>
+    <term>
+        <termId>10475</termId>
+        <termUpdate>add</termUpdate>
+        <termName>Arabic as spoken in Bahrain</termName>
+        <termVocabulary>Language Metadata Table Master</termVocabulary>
+        <relation weight="100">
+            <relationType>BT</relationType>
+            <termId>16896381</termId>
+            <termName>Arabic</termName>
+            <termVocabulary>Language Metadata Table Master</termVocabulary>
+        </relation>
+    </term>
+    <term>
+        <termId>10482</termId>
+        <termUpdate>add</termUpdate>
+        <termName>Arabic as spoken in Comoros</termName>
+        <termVocabulary>Language Metadata Table Master</termVocabulary>
+        <relation weight="100">
+            <relationType>BT</relationType>
+            <termId>16896381</termId>
+            <termName>Arabic</termName>
+            <termVocabulary>Language Metadata Table Master</termVocabulary>
+        </relation>
+    </term>
+    <term>
+        <termId>10476</termId>
+        <termUpdate>add</termUpdate>
+        <termName>Arabic as spoken in Djibouti</termName>
+        <termVocabulary>Language Metadata Table Master</termVocabulary>
+        <relation weight="100">
+            <relationType>BT</relationType>
+            <termId>16896381</termId>
+            <termName>Arabic</termName>
+            <termVocabulary>Language Metadata Table Master</termVocabulary>
+        </relation>
+    </term>
+    <term>
+        <termId>10478</termId>
+        <termUpdate>add</termUpdate>
+        <termName>Arabic as spoken in Eritrea</termName>
+        <termVocabulary>Language Metadata Table Master</termVocabulary>
+        <relation weight="100">
+            <relationType>BT</relationType>
+            <termId>16896381</termId>
+            <termName>Arabic</termName>
+            <termVocabulary>Language Metadata Table Master</termVocabulary>
+        </relation>
+    </term>
+    <term>
+        <termId>10480</termId>
+        <termUpdate>add</termUpdate>
+        <termName>Arabic as spoken in Iraq</termName>
+        <termVocabulary>Language Metadata Table Master</termVocabulary>
+        <relation weight="100">
+            <relationType>BT</relationType>
+            <termId>16896381</termId>
+            <termName>Arabic</termName>
+            <termVocabulary>Language Metadata Table Master</termVocabulary>
+        </relation>
+    </term>
+    <term>
+        <termId>10479</termId>
+        <termUpdate>add</termUpdate>
+        <termName>Arabic as spoken in Israel</termName>
+        <termVocabulary>Language Metadata Table Master</termVocabulary>
+        <relation weight="100">
+            <relationType>BT</relationType>
+            <termId>16896381</termId>
+            <termName>Arabic</termName>
+            <termVocabulary>Language Metadata Table Master</termVocabulary>
+        </relation>
+    </term>
+    <term>
+        <termId>10481</termId>
+        <termUpdate>add</termUpdate>
+        <termName>Arabic as spoken in Jordan</termName>
+        <termVocabulary>Language Metadata Table Master</termVocabulary>
+        <relation weight="100">
+            <relationType>BT</relationType>
+            <termId>16896381</termId>
+            <termName>Arabic</termName>
+            <termVocabulary>Language Metadata Table Master</termVocabulary>
+        </relation>
+    </term>
+    <term>
+        <termId>10483</termId>
+        <termUpdate>add</termUpdate>
+        <termName>Arabic as spoken in Kuwait</termName>
+        <termVocabulary>Language Metadata Table Master</termVocabulary>
+        <relation weight="100">
+            <relationType>BT</relationType>
+            <termId>16896381</termId>
+            <termName>Arabic</termName>
+            <termVocabulary>Language Metadata Table Master</termVocabulary>
+        </relation>
+    </term>
+    <term>
+        <termId>16896384</termId>
+        <termUpdate>add</termUpdate>
+        <termName>Arabic as spoken in Lebanon</termName>
+        <termVocabulary>Language Metadata Table Master</termVocabulary>
+        <relation weight="100">
+            <relationType>BT</relationType>
+            <termId>16896381</termId>
+            <termName>Arabic</termName>
+            <termVocabulary>Language Metadata Table Master</termVocabulary>
+        </relation>
+    </term>
+    <term>
+        <termId>10484</termId>
+        <termUpdate>add</termUpdate>
+        <termName>Arabic as spoken in Libya</termName>
+        <termVocabulary>Language Metadata Table Master</termVocabulary>
+        <relation weight="100">
+            <relationType>BT</relationType>
+            <termId>16896381</termId>
+            <termName>Arabic</termName>
+            <termVocabulary>Language Metadata Table Master</termVocabulary>
+        </relation>
+    </term>
+    <term>
+        <termId>10485</termId>
+        <termUpdate>add</termUpdate>
+        <termName>Arabic as spoken in Mauritania</termName>
+        <termVocabulary>Language Metadata Table Master</termVocabulary>
+        <relation weight="100">
+            <relationType>BT</relationType>
+            <termId>16896381</termId>
+            <termName>Arabic</termName>
+            <termVocabulary>Language Metadata Table Master</termVocabulary>
+        </relation>
+    </term>
+    <term>
+        <termId>16896385</termId>
+        <termUpdate>add</termUpdate>
+        <termName>Arabic as spoken in Morocco</termName>
+        <termVocabulary>Language Metadata Table Master</termVocabulary>
+        <relation weight="100">
+            <relationType>BT</relationType>
+            <termId>16896381</termId>
+            <termName>Arabic</termName>
+            <termVocabulary>Language Metadata Table Master</termVocabulary>
+        </relation>
+    </term>
+    <term>
+        <termId>10486</termId>
+        <termUpdate>add</termUpdate>
+        <termName>Arabic as spoken in Oman</termName>
+        <termVocabulary>Language Metadata Table Master</termVocabulary>
+        <relation weight="100">
+            <relationType>BT</relationType>
+            <termId>16896381</termId>
+            <termName>Arabic</termName>
+            <termVocabulary>Language Metadata Table Master</termVocabulary>
+        </relation>
+    </term>
+    <term>
+        <termId>10487</termId>
+        <termUpdate>add</termUpdate>
+        <termName>Arabic as spoken in Palestine</termName>
+        <termVocabulary>Language Metadata Table Master</termVocabulary>
+        <relation weight="100">
+            <relationType>BT</relationType>
+            <termId>16896381</termId>
+            <termName>Arabic</termName>
+            <termVocabulary>Language Metadata Table Master</termVocabulary>
+        </relation>
+    </term>
+    <term>
+        <termId>10488</termId>
+        <termUpdate>add</termUpdate>
+        <termName>Arabic as spoken in Qatar</termName>
+        <termVocabulary>Language Metadata Table Master</termVocabulary>
+        <relation weight="100">
+            <relationType>BT</relationType>
+            <termId>16896381</termId>
+            <termName>Arabic</termName>
+            <termVocabulary>Language Metadata Table Master</termVocabulary>
+        </relation>
+    </term>
+    <term>
+        <termId>10489</termId>
+        <termUpdate>add</termUpdate>
+        <termName>Arabic as spoken in Saudi Arabi</termName>
+        <termVocabulary>Language Metadata Table Master</termVocabulary>
+        <relation weight="100">
+            <relationType>BT</relationType>
+            <termId>16896381</termId>
+            <termName>Arabic</termName>
+            <termVocabulary>Language Metadata Table Master</termVocabulary>
+        </relation>
+    </term>
+    <term>
+        <termId>10490</termId>
+        <termUpdate>add</termUpdate>
+        <termName>Arabic as spoken in Sudan</termName>
+        <termVocabulary>Language Metadata Table Master</termVocabulary>
+        <relation weight="100">
+            <relationType>BT</relationType>
+            <termId>16896381</termId>
+            <termName>Arabic</termName>
+            <termVocabulary>Language Metadata Table Master</termVocabulary>
+        </relation>
+    </term>
+    <term>
+        <termId>10491</termId>
+        <termUpdate>add</termUpdate>
+        <termName>Arabic as spoken in Syria</termName>
+        <termVocabulary>Language Metadata Table Master</termVocabulary>
+        <relation weight="100">
+            <relationType>BT</relationType>
+            <termId>16896381</termId>
+            <termName>Arabic</termName>
+            <termVocabulary>Language Metadata Table Master</termVocabulary>
+        </relation>
+    </term>
+    <term>
+        <termId>10474</termId>
+        <termUpdate>add</termUpdate>
+        <termName>Arabic as spoken in the United Arab Emirates</termName>
+        <termVocabulary>Language Metadata Table Master</termVocabulary>
+        <relation weight="100">
+            <relationType>BT</relationType>
+            <termId>16896381</termId>
+            <termName>Arabic</termName>
+            <termVocabulary>Language Metadata Table Master</termVocabulary>
+        </relation>
+    </term>
+    <term>
+        <termId>16896386</termId>
+        <termUpdate>add</termUpdate>
+        <termName>Arabic as spoken in Tunisia</termName>
+        <termVocabulary>Language Metadata Table Master</termVocabulary>
+        <relation weight="100">
+            <relationType>BT</relationType>
+            <termId>16896381</termId>
+            <termName>Arabic</termName>
+            <termVocabulary>Language Metadata Table Master</termVocabulary>
+        </relation>
+    </term>
+    <term>
+        <termId>10477</termId>
+        <termUpdate>add</termUpdate>
+        <termName>Arabic as spoken In Western Sahara</termName>
+        <termVocabulary>Language Metadata Table Master</termVocabulary>
+        <relation weight="100">
+            <relationType>BT</relationType>
+            <termId>16896381</termId>
+            <termName>Arabic</termName>
+            <termVocabulary>Language Metadata Table Master</termVocabulary>
+        </relation>
+    </term>
+    <term>
+        <termId>10492</termId>
+        <termUpdate>add</termUpdate>
+        <termName>Arabic as spoken in Yemen</termName>
+        <termVocabulary>Language Metadata Table Master</termVocabulary>
+        <relation weight="100">
+            <relationType>BT</relationType>
+            <termId>16896381</termId>
+            <termName>Arabic</termName>
+            <termVocabulary>Language Metadata Table Master</termVocabulary>
+        </relation>
+    </term>
+    <term>
+        <termId>10499</termId>
+        <termUpdate>add</termUpdate>
+        <termName>Aragonese</termName>
+        <termVocabulary>Language Metadata Table Master</termVocabulary>
+    </term>
+    <term>
+        <termId>16896380</termId>
+        <termUpdate>add</termUpdate>
+        <termName>Arapaho</termName>
+        <termVocabulary>Language Metadata Table Master</termVocabulary>
+        <relation weight="100">
+            <relationType>BT</relationType>
+            <termId>16896603</termId>
+            <termName>Algic Group</termName>
+            <termVocabulary>Language Metadata Table Master</termVocabulary>
+        </relation>
+    </term>
+    <term>
+        <termId>16896388</termId>
+        <termUpdate>add</termUpdate>
+        <termName>Armenian</termName>
+        <termVocabulary>Language Metadata Table Master</termVocabulary>
+        <relation weight="100">
+            <relationType>BT</relationType>
+            <termId>16896746</termId>
+            <termName>Armenian Group</termName>
+            <termVocabulary>Language Metadata Table Master</termVocabulary>
+        </relation>
+    </term>
+    <term>
+        <termId>16896746</termId>
+        <termUpdate>add</termUpdate>
+        <termName>Armenian Group</termName>
+        <termVocabulary>Language Metadata Table Master</termVocabulary>
+        <relation weight="100">
+            <relationType>NT</relationType>
+            <termId>16896388</termId>
+            <termName>Armenian</termName>
+            <termVocabulary>Language Metadata Table Master</termVocabulary>
+        </relation>
+        <relation weight="100">
+            <relationType>NT</relationType>
+            <termId>16896389</termId>
+            <termName>Western Armenian</termName>
+            <termVocabulary>Language Metadata Table Master</termVocabulary>
+        </relation>
+    </term>
+    <term>
+        <termId>16896481</termId>
+        <termUpdate>add</termUpdate>
+        <termName>Assamese</termName>
+        <termVocabulary>Language Metadata Table Master</termVocabulary>
+    </term>
+    <term>
+        <termId>16896450</termId>
+        <termUpdate>add</termUpdate>
+        <termName>Australian Sign Language</termName>
+        <termVocabulary>Language Metadata Table Master</termVocabulary>
+        <relation weight="100">
+            <relationType>BT</relationType>
+            <termId>16896674</termId>
+            <termName>Sign Languages Group</termName>
+            <termVocabulary>Language Metadata Table Master</termVocabulary>
+        </relation>
+    </term>
+    <term>
+        <termId>10500</termId>
+        <termUpdate>add</termUpdate>
+        <termName>Avaric</termName>
+        <termVocabulary>Language Metadata Table Master</termVocabulary>
+    </term>
+    <term>
+        <termId>16896482</termId>
+        <termUpdate>add</termUpdate>
+        <termName>Aymara</termName>
+        <termVocabulary>Language Metadata Table Master</termVocabulary>
+    </term>
+    <term>
+        <termId>16896483</termId>
+        <termUpdate>add</termUpdate>
+        <termName>Azerbaijani</termName>
+        <termVocabulary>Language Metadata Table Master</termVocabulary>
+    </term>
+    <term>
+        <termId>16896484</termId>
+        <termUpdate>add</termUpdate>
+        <termName>Bagri</termName>
+        <termVocabulary>Language Metadata Table Master</termVocabulary>
+    </term>
+    <term>
+        <termId>16896486</termId>
+        <termUpdate>add</termUpdate>
+        <termName>Bambara</termName>
+        <termVocabulary>Language Metadata Table Master</termVocabulary>
+    </term>
+    <term>
+        <termId>16896818</termId>
+        <termUpdate>add</termUpdate>
+        <termName>Bantu</termName>
+        <termVocabulary>Language Metadata Table Master</termVocabulary>
+        <relation weight="100">
+            <relationType>NT</relationType>
+            <termId>10521</termId>
+            <termName>Herero</termName>
+            <termVocabulary>Language Metadata Table Master</termVocabulary>
+        </relation>
+        <relation weight="100">
+            <relationType>NT</relationType>
+            <termId>10530</termId>
+            <termName>Kikuyu</termName>
+            <termVocabulary>Language Metadata Table Master</termVocabulary>
+        </relation>
+        <relation weight="100">
+            <relationType>NT</relationType>
+            <termId>16896585</termId>
+            <termName>Tongan</termName>
+            <termVocabulary>Language Metadata Table Master</termVocabulary>
+        </relation>
+        <relation weight="100">
+            <relationType>NT</relationType>
+            <termId>16896821</termId>
+            <termName>Tongan as spoken in Malawi</termName>
+            <termVocabulary>Language Metadata Table Master</termVocabulary>
+        </relation>
+        <relation weight="100">
+            <relationType>NT</relationType>
+            <termId>16896822</termId>
+            <termName>Tongan as spoken in Zambia, Zimbabwe, and Mozambique</termName>
+            <termVocabulary>Language Metadata Table Master</termVocabulary>
+        </relation>
+    </term>
+    <term>
+        <termId>10502</termId>
+        <termUpdate>add</termUpdate>
+        <termName>Bashkir</termName>
+        <termVocabulary>Language Metadata Table Master</termVocabulary>
+    </term>
+    <term>
+        <termId>16896391</termId>
+        <termUpdate>add</termUpdate>
+        <termName>Basque</termName>
+        <termVocabulary>Language Metadata Table Master</termVocabulary>
+        <relation weight="100">
+            <relationType>BT</relationType>
+            <termId>16896745</termId>
+            <termName>Basque Group</termName>
+            <termVocabulary>Language Metadata Table Master</termVocabulary>
+        </relation>
+    </term>
+    <term>
+        <termId>16896745</termId>
+        <termUpdate>add</termUpdate>
+        <termName>Basque Group</termName>
+        <termVocabulary>Language Metadata Table Master</termVocabulary>
+        <relation weight="100">
+            <relationType>NT</relationType>
+            <termId>16896391</termId>
+            <termName>Basque</termName>
+            <termVocabulary>Language Metadata Table Master</termVocabulary>
+        </relation>
+    </term>
+    <term>
+        <termId>16896487</termId>
+        <termUpdate>add</termUpdate>
+        <termName>Belarusian</termName>
+        <termVocabulary>Language Metadata Table Master</termVocabulary>
+    </term>
+    <term>
+        <termId>16896488</termId>
+        <termUpdate>add</termUpdate>
+        <termName>Bengali</termName>
+        <termVocabulary>Language Metadata Table Master</termVocabulary>
+    </term>
+    <term>
+        <termId>16896489</termId>
+        <termUpdate>add</termUpdate>
+        <termName>Berber</termName>
+        <termVocabulary>Language Metadata Table Master</termVocabulary>
+    </term>
+    <term>
+        <termId>16896490</termId>
+        <termUpdate>add</termUpdate>
+        <termName>Bhojpuri</termName>
+        <termVocabulary>Language Metadata Table Master</termVocabulary>
+    </term>
+    <term>
+        <termId>16896491</termId>
+        <termUpdate>add</termUpdate>
+        <termName>Bislama</termName>
+        <termVocabulary>Language Metadata Table Master</termVocabulary>
+    </term>
+    <term>
+        <termId>16896492</termId>
+        <termUpdate>add</termUpdate>
+        <termName>Bosnian</termName>
+        <termVocabulary>Language Metadata Table Master</termVocabulary>
+    </term>
+    <term>
+        <termId>16896451</termId>
+        <termUpdate>add</termUpdate>
+        <termName>Brazilian Sign Language</termName>
+        <termVocabulary>Language Metadata Table Master</termVocabulary>
+        <relation weight="100">
+            <relationType>BT</relationType>
+            <termId>16896674</termId>
+            <termName>Sign Languages Group</termName>
+            <termVocabulary>Language Metadata Table Master</termVocabulary>
+        </relation>
+    </term>
+    <term>
+        <termId>10503</termId>
+        <termUpdate>add</termUpdate>
+        <termName>Breton</termName>
+        <termVocabulary>Language Metadata Table Master</termVocabulary>
+    </term>
+    <term>
+        <termId>16896452</termId>
+        <termUpdate>add</termUpdate>
+        <termName>British Sign Language</termName>
+        <termVocabulary>Language Metadata Table Master</termVocabulary>
+        <relation weight="100">
+            <relationType>BT</relationType>
+            <termId>16896674</termId>
+            <termName>Sign Languages Group</termName>
+            <termVocabulary>Language Metadata Table Master</termVocabulary>
+        </relation>
+    </term>
+    <term>
+        <termId>16896493</termId>
+        <termUpdate>add</termUpdate>
+        <termName>Bulgarian</termName>
+        <termVocabulary>Language Metadata Table Master</termVocabulary>
+    </term>
+    <term>
+        <termId>16896494</termId>
+        <termUpdate>add</termUpdate>
+        <termName>Burmese</termName>
+        <termVocabulary>Language Metadata Table Master</termVocabulary>
+    </term>
+    <term>
+        <termId>16896393</termId>
+        <termUpdate>add</termUpdate>
+        <termName>Cantonese</termName>
+        <termVocabulary>Language Metadata Table Master</termVocabulary>
+        <relation weight="100">
+            <relationType>BT</relationType>
+            <termId>16896392</termId>
+            <termName>Chinese</termName>
+            <termVocabulary>Language Metadata Table Master</termVocabulary>
+        </relation>
+    </term>
+    <term>
+        <termId>16896474</termId>
+        <termUpdate>add</termUpdate>
+        <termName>Castilian</termName>
+        <termVocabulary>Language Metadata Table Master</termVocabulary>
+        <relation weight="100">
+            <relationType>BT</relationType>
+            <termId>16896454</termId>
+            <termName>Spanish</termName>
+            <termVocabulary>Language Metadata Table Master</termVocabulary>
+        </relation>
+    </term>
+    <term>
+        <termId>16896495</termId>
+        <termUpdate>add</termUpdate>
+        <termName>Catalan</termName>
+        <termVocabulary>Language Metadata Table Master</termVocabulary>
+        <relation weight="100">
+            <relationType>NT</relationType>
+            <termId>16896814</termId>
+            <termName>Catalan as spoken in France</termName>
+            <termVocabulary>Language Metadata Table Master</termVocabulary>
+        </relation>
+        <relation weight="100">
+            <relationType>NT</relationType>
+            <termId>16896815</termId>
+            <termName>Catalan as spoken in Spain</termName>
+            <termVocabulary>Language Metadata Table Master</termVocabulary>
+        </relation>
+    </term>
+    <term>
+        <termId>16896814</termId>
+        <termUpdate>add</termUpdate>
+        <termName>Catalan as spoken in France</termName>
+        <termVocabulary>Language Metadata Table Master</termVocabulary>
+        <relation weight="100">
+            <relationType>BT</relationType>
+            <termId>16896495</termId>
+            <termName>Catalan</termName>
+            <termVocabulary>Language Metadata Table Master</termVocabulary>
+        </relation>
+    </term>
+    <term>
+        <termId>16896815</termId>
+        <termUpdate>add</termUpdate>
+        <termName>Catalan as spoken in Spain</termName>
+        <termVocabulary>Language Metadata Table Master</termVocabulary>
+        <relation weight="100">
+            <relationType>BT</relationType>
+            <termId>16896495</termId>
+            <termName>Catalan</termName>
+            <termVocabulary>Language Metadata Table Master</termVocabulary>
+        </relation>
+    </term>
+    <term>
+        <termId>10504</termId>
+        <termUpdate>add</termUpdate>
+        <termName>Cebuano</termName>
+        <termVocabulary>Language Metadata Table Master</termVocabulary>
+    </term>
+    <term>
+        <termId>10642</termId>
+        <termUpdate>add</termUpdate>
+        <termName>Central Atlas Tamazight</termName>
+        <termVocabulary>Language Metadata Table Master</termVocabulary>
+    </term>
+    <term>
+        <termId>10649</termId>
+        <termUpdate>add</termUpdate>
+        <termName>Central Siberian Yupik</termName>
+        <termVocabulary>Language Metadata Table Master</termVocabulary>
+    </term>
+    <term>
+        <termId>10505</termId>
+        <termUpdate>add</termUpdate>
+        <termName>Chamorro</termName>
+        <termVocabulary>Language Metadata Table Master</termVocabulary>
+    </term>
+    <term>
+        <termId>10506</termId>
+        <termUpdate>add</termUpdate>
+        <termName>Chechen</termName>
+        <termVocabulary>Language Metadata Table Master</termVocabulary>
+    </term>
+    <term>
+        <termId>16896496</termId>
+        <termUpdate>add</termUpdate>
+        <termName>Cherokee</termName>
+        <termVocabulary>Language Metadata Table Master</termVocabulary>
+    </term>
+    <term>
+        <termId>10507</termId>
+        <termUpdate>add</termUpdate>
+        <termName>Cheyenne</termName>
+        <termVocabulary>Language Metadata Table Master</termVocabulary>
+    </term>
+    <term>
+        <termId>16896392</termId>
+        <termUpdate>add</termUpdate>
+        <termName>Chinese</termName>
+        <termVocabulary>Language Metadata Table Master</termVocabulary>
+        <relation weight="100">
+            <relationType>NT</relationType>
+            <termId>16896393</termId>
+            <termName>Cantonese</termName>
+            <termVocabulary>Language Metadata Table Master</termVocabulary>
+        </relation>
+        <relation weight="100">
+            <relationType>NT</relationType>
+            <termId>16896394</termId>
+            <termName>Mandarin</termName>
+            <termVocabulary>Language Metadata Table Master</termVocabulary>
+        </relation>
+        <relation weight="100">
+            <relationType>NT</relationType>
+            <termId>16896395</termId>
+            <termName>Min Nan</termName>
+            <termVocabulary>Language Metadata Table Master</termVocabulary>
+        </relation>
+    </term>
+    <term>
+        <termId>10508</termId>
+        <termUpdate>add</termUpdate>
+        <termName>Church Slavic</termName>
+        <termVocabulary>Language Metadata Table Master</termVocabulary>
+    </term>
+    <term>
+        <termId>10509</termId>
+        <termUpdate>add</termUpdate>
+        <termName>Chuvash</termName>
+        <termVocabulary>Language Metadata Table Master</termVocabulary>
+    </term>
+    <term>
+        <termId>10510</termId>
+        <termUpdate>add</termUpdate>
+        <termName>Cornish</termName>
+        <termVocabulary>Language Metadata Table Master</termVocabulary>
+    </term>
+    <term>
+        <termId>16896497</termId>
+        <termUpdate>add</termUpdate>
+        <termName>Corsican</termName>
+        <termVocabulary>Language Metadata Table Master</termVocabulary>
+    </term>
+    <term>
+        <termId>16896445</termId>
+        <termUpdate>add</termUpdate>
+        <termName>Croatian</termName>
+        <termVocabulary>Language Metadata Table Master</termVocabulary>
+        <relation weight="100">
+            <relationType>BT</relationType>
+            <termId>16896444</termId>
+            <termName>Serbo-Croatian</termName>
+            <termVocabulary>Language Metadata Table Master</termVocabulary>
+        </relation>
+    </term>
+    <term>
+        <termId>16896498</termId>
+        <termUpdate>add</termUpdate>
+        <termName>Czech</termName>
+        <termVocabulary>Language Metadata Table Master</termVocabulary>
+    </term>
+    <term>
+        <termId>16896499</termId>
+        <termUpdate>add</termUpdate>
+        <termName>Danish</termName>
+        <termVocabulary>Language Metadata Table Master</termVocabulary>
+    </term>
+    <term>
+        <termId>16896440</termId>
+        <termUpdate>add</termUpdate>
+        <termName>Dari</termName>
+        <termVocabulary>Language Metadata Table Master</termVocabulary>
+        <relation weight="100">
+            <relationType>BT</relationType>
+            <termId>16896439</termId>
+            <termName>Persian</termName>
+            <termVocabulary>Language Metadata Table Master</termVocabulary>
+        </relation>
+    </term>
+    <term>
+        <termId>16896500</termId>
+        <termUpdate>add</termUpdate>
+        <termName>Divehi</termName>
+        <termVocabulary>Language Metadata Table Master</termVocabulary>
+    </term>
+    <term>
+        <termId>16896396</termId>
+        <termUpdate>add</termUpdate>
+        <termName>Dutch</termName>
+        <termVocabulary>Language Metadata Table Master</termVocabulary>
+        <relation weight="100">
+            <relationType>NT</relationType>
+            <termId>16896398</termId>
+            <termName>Dutch as spoken in The Netherlands</termName>
+            <termVocabulary>Language Metadata Table Master</termVocabulary>
+        </relation>
+        <relation weight="100">
+            <relationType>NT</relationType>
+            <termId>16896397</termId>
+            <termName>Flemish</termName>
+            <termVocabulary>Language Metadata Table Master</termVocabulary>
+        </relation>
+    </term>
+    <term>
+        <termId>16896398</termId>
+        <termUpdate>add</termUpdate>
+        <termName>Dutch as spoken in The Netherlands</termName>
+        <termVocabulary>Language Metadata Table Master</termVocabulary>
+        <relation weight="100">
+            <relationType>BT</relationType>
+            <termId>16896396</termId>
+            <termName>Dutch</termName>
+            <termVocabulary>Language Metadata Table Master</termVocabulary>
+        </relation>
+    </term>
+    <term>
+        <termId>16896501</termId>
+        <termUpdate>add</termUpdate>
+        <termName>Dzongkha</termName>
+        <termVocabulary>Language Metadata Table Master</termVocabulary>
+    </term>
+    <term>
+        <termId>10512</termId>
+        <termUpdate>add</termUpdate>
+        <termName>Edo</termName>
+        <termVocabulary>Language Metadata Table Master</termVocabulary>
+    </term>
+    <term>
+        <termId>10513</termId>
+        <termUpdate>add</termUpdate>
+        <termName>Efik</termName>
+        <termVocabulary>Language Metadata Table Master</termVocabulary>
+    </term>
+    <term>
+        <termId>16896383</termId>
+        <termUpdate>add</termUpdate>
+        <termName>Egyptian Arabic</termName>
+        <termVocabulary>Language Metadata Table Master</termVocabulary>
+        <relation weight="100">
+            <relationType>BT</relationType>
+            <termId>16896381</termId>
+            <termName>Arabic</termName>
+            <termVocabulary>Language Metadata Table Master</termVocabulary>
+        </relation>
+    </term>
+    <term>
+        <termId>10514</termId>
+        <termUpdate>add</termUpdate>
+        <termName>Elamite</termName>
+        <termVocabulary>Language Metadata Table Master</termVocabulary>
+    </term>
+    <term>
+        <termId>16896399</termId>
+        <termUpdate>add</termUpdate>
+        <termName>English</termName>
+        <termVocabulary>Language Metadata Table Master</termVocabulary>
+        <relation weight="100">
+            <relationType>NT</relationType>
+            <termId>16896400</termId>
+            <termName>English as spoken in Australia</termName>
+            <termVocabulary>Language Metadata Table Master</termVocabulary>
+        </relation>
+        <relation weight="100">
+            <relationType>NT</relationType>
+            <termId>16896401</termId>
+            <termName>English as spoken in Canada</termName>
+            <termVocabulary>Language Metadata Table Master</termVocabulary>
+        </relation>
+        <relation weight="100">
+            <relationType>NT</relationType>
+            <termId>16896402</termId>
+            <termName>English as spoken in Hong Kong</termName>
+            <termVocabulary>Language Metadata Table Master</termVocabulary>
+        </relation>
+        <relation weight="100">
+            <relationType>NT</relationType>
+            <termId>10515</termId>
+            <termName>English as Spoken in Ireland</termName>
+            <termVocabulary>Language Metadata Table Master</termVocabulary>
+        </relation>
+        <relation weight="100">
+            <relationType>NT</relationType>
+            <termId>16896403</termId>
+            <termName>English as spoken in Malaysia</termName>
+            <termVocabulary>Language Metadata Table Master</termVocabulary>
+        </relation>
+        <relation weight="100">
+            <relationType>NT</relationType>
+            <termId>16896404</termId>
+            <termName>English as spoken in Montserrat</termName>
+            <termVocabulary>Language Metadata Table Master</termVocabulary>
+        </relation>
+        <relation weight="100">
+            <relationType>NT</relationType>
+            <termId>10516</termId>
+            <termName>English as Spoken in New Zealand</termName>
+            <termVocabulary>Language Metadata Table Master</termVocabulary>
+        </relation>
+        <relation weight="100">
+            <relationType>NT</relationType>
+            <termId>16896405</termId>
+            <termName>English as spoken in People&apos;s Republic of China</termName>
+            <termVocabulary>Language Metadata Table Master</termVocabulary>
+        </relation>
+        <relation weight="100">
+            <relationType>NT</relationType>
+            <termId>10517</termId>
+            <termName>English as Spoken in Singapore</termName>
+            <termVocabulary>Language Metadata Table Master</termVocabulary>
+        </relation>
+        <relation weight="100">
+            <relationType>NT</relationType>
+            <termId>16896406</termId>
+            <termName>English as spoken in South Africa</termName>
+            <termVocabulary>Language Metadata Table Master</termVocabulary>
+        </relation>
+        <relation weight="100">
+            <relationType>NT</relationType>
+            <termId>16896407</termId>
+            <termName>English as spoken in the Philippines</termName>
+            <termVocabulary>Language Metadata Table Master</termVocabulary>
+        </relation>
+        <relation weight="100">
+            <relationType>NT</relationType>
+            <termId>16896408</termId>
+            <termName>English as spoken in the United Kingdom</termName>
+            <termVocabulary>Language Metadata Table Master</termVocabulary>
+        </relation>
+        <relation weight="100">
+            <relationType>NT</relationType>
+            <termId>16896409</termId>
+            <termName>English as spoken in the United States</termName>
+            <termVocabulary>Language Metadata Table Master</termVocabulary>
+        </relation>
+        <relation weight="100">
+            <relationType>NT</relationType>
+            <termId>16896749</termId>
+            <termName>Global English</termName>
+            <termVocabulary>Language Metadata Table Master</termVocabulary>
+        </relation>
+    </term>
+    <term>
+        <termId>16896400</termId>
+        <termUpdate>add</termUpdate>
+        <termName>English as spoken in Australia</termName>
+        <termVocabulary>Language Metadata Table Master</termVocabulary>
+        <relation weight="100">
+            <relationType>BT</relationType>
+            <termId>16896399</termId>
+            <termName>English</termName>
+            <termVocabulary>Language Metadata Table Master</termVocabulary>
+        </relation>
+    </term>
+    <term>
+        <termId>16896401</termId>
+        <termUpdate>add</termUpdate>
+        <termName>English as spoken in Canada</termName>
+        <termVocabulary>Language Metadata Table Master</termVocabulary>
+        <relation weight="100">
+            <relationType>BT</relationType>
+            <termId>16896399</termId>
+            <termName>English</termName>
+            <termVocabulary>Language Metadata Table Master</termVocabulary>
+        </relation>
+    </term>
+    <term>
+        <termId>16896402</termId>
+        <termUpdate>add</termUpdate>
+        <termName>English as spoken in Hong Kong</termName>
+        <termVocabulary>Language Metadata Table Master</termVocabulary>
+        <relation weight="100">
+            <relationType>BT</relationType>
+            <termId>16896399</termId>
+            <termName>English</termName>
+            <termVocabulary>Language Metadata Table Master</termVocabulary>
+        </relation>
+    </term>
+    <term>
+        <termId>10515</termId>
+        <termUpdate>add</termUpdate>
+        <termName>English as Spoken in Ireland</termName>
+        <termVocabulary>Language Metadata Table Master</termVocabulary>
+        <relation weight="100">
+            <relationType>BT</relationType>
+            <termId>16896399</termId>
+            <termName>English</termName>
+            <termVocabulary>Language Metadata Table Master</termVocabulary>
+        </relation>
+    </term>
+    <term>
+        <termId>16896403</termId>
+        <termUpdate>add</termUpdate>
+        <termName>English as spoken in Malaysia</termName>
+        <termVocabulary>Language Metadata Table Master</termVocabulary>
+        <relation weight="100">
+            <relationType>BT</relationType>
+            <termId>16896399</termId>
+            <termName>English</termName>
+            <termVocabulary>Language Metadata Table Master</termVocabulary>
+        </relation>
+    </term>
+    <term>
+        <termId>16896404</termId>
+        <termUpdate>add</termUpdate>
+        <termName>English as spoken in Montserrat</termName>
+        <termVocabulary>Language Metadata Table Master</termVocabulary>
+        <relation weight="100">
+            <relationType>BT</relationType>
+            <termId>16896399</termId>
+            <termName>English</termName>
+            <termVocabulary>Language Metadata Table Master</termVocabulary>
+        </relation>
+    </term>
+    <term>
+        <termId>10516</termId>
+        <termUpdate>add</termUpdate>
+        <termName>English as Spoken in New Zealand</termName>
+        <termVocabulary>Language Metadata Table Master</termVocabulary>
+        <relation weight="100">
+            <relationType>BT</relationType>
+            <termId>16896399</termId>
+            <termName>English</termName>
+            <termVocabulary>Language Metadata Table Master</termVocabulary>
+        </relation>
+    </term>
+    <term>
+        <termId>16896405</termId>
+        <termUpdate>add</termUpdate>
+        <termName>English as spoken in People&apos;s Republic of China</termName>
+        <termVocabulary>Language Metadata Table Master</termVocabulary>
+        <relation weight="100">
+            <relationType>BT</relationType>
+            <termId>16896399</termId>
+            <termName>English</termName>
+            <termVocabulary>Language Metadata Table Master</termVocabulary>
+        </relation>
+    </term>
+    <term>
+        <termId>10517</termId>
+        <termUpdate>add</termUpdate>
+        <termName>English as Spoken in Singapore</termName>
+        <termVocabulary>Language Metadata Table Master</termVocabulary>
+        <relation weight="100">
+            <relationType>BT</relationType>
+            <termId>16896399</termId>
+            <termName>English</termName>
+            <termVocabulary>Language Metadata Table Master</termVocabulary>
+        </relation>
+    </term>
+    <term>
+        <termId>16896406</termId>
+        <termUpdate>add</termUpdate>
+        <termName>English as spoken in South Africa</termName>
+        <termVocabulary>Language Metadata Table Master</termVocabulary>
+        <relation weight="100">
+            <relationType>BT</relationType>
+            <termId>16896399</termId>
+            <termName>English</termName>
+            <termVocabulary>Language Metadata Table Master</termVocabulary>
+        </relation>
+    </term>
+    <term>
+        <termId>16896407</termId>
+        <termUpdate>add</termUpdate>
+        <termName>English as spoken in the Philippines</termName>
+        <termVocabulary>Language Metadata Table Master</termVocabulary>
+        <relation weight="100">
+            <relationType>BT</relationType>
+            <termId>16896399</termId>
+            <termName>English</termName>
+            <termVocabulary>Language Metadata Table Master</termVocabulary>
+        </relation>
+    </term>
+    <term>
+        <termId>16896408</termId>
+        <termUpdate>add</termUpdate>
+        <termName>English as spoken in the United Kingdom</termName>
+        <termVocabulary>Language Metadata Table Master</termVocabulary>
+        <relation weight="100">
+            <relationType>BT</relationType>
+            <termId>16896399</termId>
+            <termName>English</termName>
+            <termVocabulary>Language Metadata Table Master</termVocabulary>
+        </relation>
+    </term>
+    <term>
+        <termId>16896409</termId>
+        <termUpdate>add</termUpdate>
+        <termName>English as spoken in the United States</termName>
+        <termVocabulary>Language Metadata Table Master</termVocabulary>
+        <relation weight="100">
+            <relationType>BT</relationType>
+            <termId>16896399</termId>
+            <termName>English</termName>
+            <termVocabulary>Language Metadata Table Master</termVocabulary>
+        </relation>
+    </term>
+    <term>
+        <termId>16896502</termId>
+        <termUpdate>add</termUpdate>
+        <termName>Esperanto</termName>
+        <termVocabulary>Language Metadata Table Master</termVocabulary>
+    </term>
+    <term>
+        <termId>16896744</termId>
+        <termUpdate>add</termUpdate>
+        <termName>Estonian Group</termName>
+        <termVocabulary>Language Metadata Table Master</termVocabulary>
+        <relation weight="100">
+            <relationType>NT</relationType>
+            <termId>16896410</termId>
+            <termName>Estonian, Standard</termName>
+            <termVocabulary>Language Metadata Table Master</termVocabulary>
+        </relation>
+    </term>
+    <term>
+        <termId>16896410</termId>
+        <termUpdate>add</termUpdate>
+        <termName>Estonian, Standard</termName>
+        <termVocabulary>Language Metadata Table Master</termVocabulary>
+        <relation weight="100">
+            <relationType>BT</relationType>
+            <termId>16896744</termId>
+            <termName>Estonian Group</termName>
+            <termVocabulary>Language Metadata Table Master</termVocabulary>
+        </relation>
+    </term>
+    <term>
+        <termId>10518</termId>
+        <termUpdate>add</termUpdate>
+        <termName>Ewe</termName>
+        <termVocabulary>Language Metadata Table Master</termVocabulary>
+    </term>
+    <term>
+        <termId>16896503</termId>
+        <termUpdate>add</termUpdate>
+        <termName>Faroese</termName>
+        <termVocabulary>Language Metadata Table Master</termVocabulary>
+    </term>
+    <term>
+        <termId>16896504</termId>
+        <termUpdate>add</termUpdate>
+        <termName>Fijian</termName>
+        <termVocabulary>Language Metadata Table Master</termVocabulary>
+    </term>
+    <term>
+        <termId>16896505</termId>
+        <termUpdate>add</termUpdate>
+        <termName>Filipino</termName>
+        <termVocabulary>Language Metadata Table Master</termVocabulary>
+    </term>
+    <term>
+        <termId>16896506</termId>
+        <termUpdate>add</termUpdate>
+        <termName>Finnish</termName>
+        <termVocabulary>Language Metadata Table Master</termVocabulary>
+    </term>
+    <term>
+        <termId>16896397</termId>
+        <termUpdate>add</termUpdate>
+        <termName>Flemish</termName>
+        <termVocabulary>Language Metadata Table Master</termVocabulary>
+        <relation weight="100">
+            <relationType>BT</relationType>
+            <termId>16896396</termId>
+            <termName>Dutch</termName>
+            <termVocabulary>Language Metadata Table Master</termVocabulary>
+        </relation>
+    </term>
+    <term>
+        <termId>16896411</termId>
+        <termUpdate>add</termUpdate>
+        <termName>French</termName>
+        <termVocabulary>Language Metadata Table Master</termVocabulary>
+        <relation weight="100">
+            <relationType>NT</relationType>
+            <termId>16896412</termId>
+            <termName>French as spoken in Belgium</termName>
+            <termVocabulary>Language Metadata Table Master</termVocabulary>
+        </relation>
+        <relation weight="100">
+            <relationType>NT</relationType>
+            <termId>16896413</termId>
+            <termName>French as spoken in Canada</termName>
+            <termVocabulary>Language Metadata Table Master</termVocabulary>
+        </relation>
+        <relation weight="100">
+            <relationType>NT</relationType>
+            <termId>16896414</termId>
+            <termName>French as spoken in France</termName>
+            <termVocabulary>Language Metadata Table Master</termVocabulary>
+        </relation>
+        <relation weight="100">
+            <relationType>NT</relationType>
+            <termId>16896831</termId>
+            <termName>French as spoken in Switzerland</termName>
+            <termVocabulary>Language Metadata Table Master</termVocabulary>
+        </relation>
+        <relation weight="100">
+            <relationType>NT</relationType>
+            <termId>16896750</termId>
+            <termName>Global French</termName>
+            <termVocabulary>Language Metadata Table Master</termVocabulary>
+        </relation>
+    </term>
+    <term>
+        <termId>16896412</termId>
+        <termUpdate>add</termUpdate>
+        <termName>French as spoken in Belgium</termName>
+        <termVocabulary>Language Metadata Table Master</termVocabulary>
+        <relation weight="100">
+            <relationType>BT</relationType>
+            <termId>16896411</termId>
+            <termName>French</termName>
+            <termVocabulary>Language Metadata Table Master</termVocabulary>
+        </relation>
+    </term>
+    <term>
+        <termId>16896413</termId>
+        <termUpdate>add</termUpdate>
+        <termName>French as spoken in Canada</termName>
+        <termVocabulary>Language Metadata Table Master</termVocabulary>
+        <relation weight="100">
+            <relationType>BT</relationType>
+            <termId>16896411</termId>
+            <termName>French</termName>
+            <termVocabulary>Language Metadata Table Master</termVocabulary>
+        </relation>
+    </term>
+    <term>
+        <termId>16896414</termId>
+        <termUpdate>add</termUpdate>
+        <termName>French as spoken in France</termName>
+        <termVocabulary>Language Metadata Table Master</termVocabulary>
+        <relation weight="100">
+            <relationType>BT</relationType>
+            <termId>16896411</termId>
+            <termName>French</termName>
+            <termVocabulary>Language Metadata Table Master</termVocabulary>
+        </relation>
+    </term>
+    <term>
+        <termId>16896831</termId>
+        <termUpdate>add</termUpdate>
+        <termName>French as spoken in Switzerland</termName>
+        <termVocabulary>Language Metadata Table Master</termVocabulary>
+        <relation weight="100">
+            <relationType>BT</relationType>
+            <termId>16896411</termId>
+            <termName>French</termName>
+            <termVocabulary>Language Metadata Table Master</termVocabulary>
+        </relation>
+    </term>
+    <term>
+        <termId>16896415</termId>
+        <termUpdate>add</termUpdate>
+        <termName>French Sign Language</termName>
+        <termVocabulary>Language Metadata Table Master</termVocabulary>
+        <relation weight="100">
+            <relationType>BT</relationType>
+            <termId>16896674</termId>
+            <termName>Sign Languages Group</termName>
+            <termVocabulary>Language Metadata Table Master</termVocabulary>
+        </relation>
+    </term>
+    <term>
+        <termId>16896829</termId>
+        <termUpdate>add</termUpdate>
+        <termName>Frisian - Eastern</termName>
+        <termVocabulary>Language Metadata Table Master</termVocabulary>
+    </term>
+    <term>
+        <termId>16896828</termId>
+        <termUpdate>add</termUpdate>
+        <termName>Frisian - Northern</termName>
+        <termVocabulary>Language Metadata Table Master</termVocabulary>
+    </term>
+    <term>
+        <termId>16896825</termId>
+        <termUpdate>add</termUpdate>
+        <termName>Frisian - Western</termName>
+        <termVocabulary>Language Metadata Table Master</termVocabulary>
+    </term>
+    <term>
+        <termId>10701</termId>
+        <termUpdate>add</termUpdate>
+        <termName>Fulah</termName>
+        <termVocabulary>Language Metadata Table Master</termVocabulary>
+    </term>
+    <term>
+        <termId>10519</termId>
+        <termUpdate>add</termUpdate>
+        <termName>Fur</termName>
+        <termVocabulary>Language Metadata Table Master</termVocabulary>
+    </term>
+    <term>
+        <termId>16896507</termId>
+        <termUpdate>add</termUpdate>
+        <termName>Gaelic as spoken in Scotland</termName>
+        <termVocabulary>Language Metadata Table Master</termVocabulary>
+    </term>
+    <term>
+        <termId>10520</termId>
+        <termUpdate>add</termUpdate>
+        <termName>Gagauz</termName>
+        <termVocabulary>Language Metadata Table Master</termVocabulary>
+    </term>
+    <term>
+        <termId>16896508</termId>
+        <termUpdate>add</termUpdate>
+        <termName>Galician</termName>
+        <termVocabulary>Language Metadata Table Master</termVocabulary>
+    </term>
+    <term>
+        <termId>16896509</termId>
+        <termUpdate>add</termUpdate>
+        <termName>Ganda</termName>
+        <termVocabulary>Language Metadata Table Master</termVocabulary>
+    </term>
+    <term>
+        <termId>16896510</termId>
+        <termUpdate>add</termUpdate>
+        <termName>Georgian</termName>
+        <termVocabulary>Language Metadata Table Master</termVocabulary>
+    </term>
+    <term>
+        <termId>16896416</termId>
+        <termUpdate>add</termUpdate>
+        <termName>German</termName>
+        <termVocabulary>Language Metadata Table Master</termVocabulary>
+        <relation weight="100">
+            <relationType>NT</relationType>
+            <termId>16896417</termId>
+            <termName>German as spoken in Austria</termName>
+            <termVocabulary>Language Metadata Table Master</termVocabulary>
+        </relation>
+        <relation weight="100">
+            <relationType>NT</relationType>
+            <termId>16896418</termId>
+            <termName>German as spoken in Germany</termName>
+            <termVocabulary>Language Metadata Table Master</termVocabulary>
+        </relation>
+        <relation weight="100">
+            <relationType>NT</relationType>
+            <termId>16896824</termId>
+            <termName>German as spoken in Switzerland</termName>
+            <termVocabulary>Language Metadata Table Master</termVocabulary>
+        </relation>
+        <relation weight="100">
+            <relationType>NT</relationType>
+            <termId>16896575</termId>
+            <termName>Swiss German</termName>
+            <termVocabulary>Language Metadata Table Master</termVocabulary>
+        </relation>
+    </term>
+    <term>
+        <termId>16896417</termId>
+        <termUpdate>add</termUpdate>
+        <termName>German as spoken in Austria</termName>
+        <termVocabulary>Language Metadata Table Master</termVocabulary>
+        <relation weight="100">
+            <relationType>BT</relationType>
+            <termId>16896416</termId>
+            <termName>German</termName>
+            <termVocabulary>Language Metadata Table Master</termVocabulary>
+        </relation>
+    </term>
+    <term>
+        <termId>16896418</termId>
+        <termUpdate>add</termUpdate>
+        <termName>German as spoken in Germany</termName>
+        <termVocabulary>Language Metadata Table Master</termVocabulary>
+        <relation weight="100">
+            <relationType>BT</relationType>
+            <termId>16896416</termId>
+            <termName>German</termName>
+            <termVocabulary>Language Metadata Table Master</termVocabulary>
+        </relation>
+    </term>
+    <term>
+        <termId>16896824</termId>
+        <termUpdate>add</termUpdate>
+        <termName>German as spoken in Switzerland</termName>
+        <termVocabulary>Language Metadata Table Master</termVocabulary>
+        <relation weight="100">
+            <relationType>BT</relationType>
+            <termId>16896416</termId>
+            <termName>German</termName>
+            <termVocabulary>Language Metadata Table Master</termVocabulary>
+        </relation>
+    </term>
+    <term>
+        <termId>16896749</termId>
+        <termUpdate>add</termUpdate>
+        <termName>Global English</termName>
+        <termVocabulary>Language Metadata Table Master</termVocabulary>
+        <relation weight="100">
+            <relationType>BT</relationType>
+            <termId>16896399</termId>
+            <termName>English</termName>
+            <termVocabulary>Language Metadata Table Master</termVocabulary>
+        </relation>
+    </term>
+    <term>
+        <termId>16896750</termId>
+        <termUpdate>add</termUpdate>
+        <termName>Global French</termName>
+        <termVocabulary>Language Metadata Table Master</termVocabulary>
+        <relation weight="100">
+            <relationType>BT</relationType>
+            <termId>16896411</termId>
+            <termName>French</termName>
+            <termVocabulary>Language Metadata Table Master</termVocabulary>
+        </relation>
+    </term>
+    <term>
+        <termId>16896751</termId>
+        <termUpdate>add</termUpdate>
+        <termName>Global Spanish</termName>
+        <termVocabulary>Language Metadata Table Master</termVocabulary>
+        <relation weight="100">
+            <relationType>BT</relationType>
+            <termId>16896454</termId>
+            <termName>Spanish</termName>
+            <termVocabulary>Language Metadata Table Master</termVocabulary>
+        </relation>
+    </term>
+    <term>
+        <termId>16896673</termId>
+        <termUpdate>add</termUpdate>
+        <termName>Greek</termName>
+        <termVocabulary>Language Metadata Table Master</termVocabulary>
+        <relation weight="100">
+            <relationType>NT</relationType>
+            <termId>16896422</termId>
+            <termName>Ancient Greek</termName>
+            <termVocabulary>Language Metadata Table Master</termVocabulary>
+        </relation>
+        <relation weight="100">
+            <relationType>NT</relationType>
+            <termId>16896420</termId>
+            <termName>Greek as spoken in Cyprus</termName>
+            <termVocabulary>Language Metadata Table Master</termVocabulary>
+        </relation>
+        <relation weight="100">
+            <relationType>NT</relationType>
+            <termId>16896421</termId>
+            <termName>Greek, Modern (1453-)</termName>
+            <termVocabulary>Language Metadata Table Master</termVocabulary>
+        </relation>
+    </term>
+    <term>
+        <termId>16896420</termId>
+        <termUpdate>add</termUpdate>
+        <termName>Greek as spoken in Cyprus</termName>
+        <termVocabulary>Language Metadata Table Master</termVocabulary>
+        <relation weight="100">
+            <relationType>BT</relationType>
+            <termId>16896673</termId>
+            <termName>Greek</termName>
+            <termVocabulary>Language Metadata Table Master</termVocabulary>
+        </relation>
+    </term>
+    <term>
+        <termId>16896421</termId>
+        <termUpdate>add</termUpdate>
+        <termName>Greek, Modern (1453-)</termName>
+        <termVocabulary>Language Metadata Table Master</termVocabulary>
+        <relation weight="100">
+            <relationType>BT</relationType>
+            <termId>16896673</termId>
+            <termName>Greek</termName>
+            <termVocabulary>Language Metadata Table Master</termVocabulary>
+        </relation>
+    </term>
+    <term>
+        <termId>16896511</termId>
+        <termUpdate>add</termUpdate>
+        <termName>Guarani</termName>
+        <termVocabulary>Language Metadata Table Master</termVocabulary>
+    </term>
+    <term>
+        <termId>16896512</termId>
+        <termUpdate>add</termUpdate>
+        <termName>Gujarati</termName>
+        <termVocabulary>Language Metadata Table Master</termVocabulary>
+    </term>
+    <term>
+        <termId>10511</termId>
+        <termUpdate>add</termUpdate>
+        <termName>Haitian</termName>
+        <termVocabulary>Language Metadata Table Master</termVocabulary>
+    </term>
+    <term>
+        <termId>10719</termId>
+        <termUpdate>add</termUpdate>
+        <termName>Hakka Chinese</termName>
+        <termVocabulary>Language Metadata Table Master</termVocabulary>
+    </term>
+    <term>
+        <termId>10700</termId>
+        <termUpdate>add</termUpdate>
+        <termName>Halh Mongolian</termName>
+        <termVocabulary>Language Metadata Table Master</termVocabulary>
+        <relation weight="100">
+            <relationType>BT</relationType>
+            <termId>16896433</termId>
+            <termName>Mongolian</termName>
+            <termVocabulary>Language Metadata Table Master</termVocabulary>
+        </relation>
+    </term>
+    <term>
+        <termId>16896513</termId>
+        <termUpdate>add</termUpdate>
+        <termName>Hausa</termName>
+        <termVocabulary>Language Metadata Table Master</termVocabulary>
+    </term>
+    <term>
+        <termId>16896514</termId>
+        <termUpdate>add</termUpdate>
+        <termName>Hawaiian</termName>
+        <termVocabulary>Language Metadata Table Master</termVocabulary>
+    </term>
+    <term>
+        <termId>16896515</termId>
+        <termUpdate>add</termUpdate>
+        <termName>Hawaiian Pidgin</termName>
+        <termVocabulary>Language Metadata Table Master</termVocabulary>
+    </term>
+    <term>
+        <termId>16896516</termId>
+        <termUpdate>add</termUpdate>
+        <termName>Hebrew</termName>
+        <termVocabulary>Language Metadata Table Master</termVocabulary>
+    </term>
+    <term>
+        <termId>10521</termId>
+        <termUpdate>add</termUpdate>
+        <termName>Herero</termName>
+        <termVocabulary>Language Metadata Table Master</termVocabulary>
+        <relation weight="100">
+            <relationType>BT</relationType>
+            <termId>16896818</termId>
+            <termName>Bantu</termName>
+            <termVocabulary>Language Metadata Table Master</termVocabulary>
+        </relation>
+    </term>
+    <term>
+        <termId>16896423</termId>
+        <termUpdate>add</termUpdate>
+        <termName>Hindi</termName>
+        <termVocabulary>Language Metadata Table Master</termVocabulary>
+        <relation weight="100">
+            <relationType>NT</relationType>
+            <termId>16896424</termId>
+            <termName>Hindi as spoken in Fiji</termName>
+            <termVocabulary>Language Metadata Table Master</termVocabulary>
+        </relation>
+    </term>
+    <term>
+        <termId>16896424</termId>
+        <termUpdate>add</termUpdate>
+        <termName>Hindi as spoken in Fiji</termName>
+        <termVocabulary>Language Metadata Table Master</termVocabulary>
+        <relation weight="100">
+            <relationType>BT</relationType>
+            <termId>16896423</termId>
+            <termName>Hindi</termName>
+            <termVocabulary>Language Metadata Table Master</termVocabulary>
+        </relation>
+    </term>
+    <term>
+        <termId>16896517</termId>
+        <termUpdate>add</termUpdate>
+        <termName>Hungarian</termName>
+        <termVocabulary>Language Metadata Table Master</termVocabulary>
+    </term>
+    <term>
+        <termId>10522</termId>
+        <termUpdate>add</termUpdate>
+        <termName>Iban</termName>
+        <termVocabulary>Language Metadata Table Master</termVocabulary>
+    </term>
+    <term>
+        <termId>10523</termId>
+        <termUpdate>add</termUpdate>
+        <termName>Ibibio</termName>
+        <termVocabulary>Language Metadata Table Master</termVocabulary>
+    </term>
+    <term>
+        <termId>16896518</termId>
+        <termUpdate>add</termUpdate>
+        <termName>Icelandic</termName>
+        <termVocabulary>Language Metadata Table Master</termVocabulary>
+    </term>
+    <term>
+        <termId>10524</termId>
+        <termUpdate>add</termUpdate>
+        <termName>Ido</termName>
+        <termVocabulary>Language Metadata Table Master</termVocabulary>
+    </term>
+    <term>
+        <termId>16896519</termId>
+        <termUpdate>add</termUpdate>
+        <termName>Igbo</termName>
+        <termVocabulary>Language Metadata Table Master</termVocabulary>
+    </term>
+    <term>
+        <termId>16896773</termId>
+        <termUpdate>add</termUpdate>
+        <termName>Indian Sign Language</termName>
+        <termVocabulary>Language Metadata Table Master</termVocabulary>
+        <relation weight="100">
+            <relationType>BT</relationType>
+            <termId>16896674</termId>
+            <termName>Sign Languages Group</termName>
+            <termVocabulary>Language Metadata Table Master</termVocabulary>
+        </relation>
+    </term>
+    <term>
+        <termId>16896520</termId>
+        <termUpdate>add</termUpdate>
+        <termName>Indonesian</termName>
+        <termVocabulary>Language Metadata Table Master</termVocabulary>
+    </term>
+    <term>
+        <termId>10525</termId>
+        <termUpdate>add</termUpdate>
+        <termName>Interlingue</termName>
+        <termVocabulary>Language Metadata Table Master</termVocabulary>
+    </term>
+    <term>
+        <termId>16896521</termId>
+        <termUpdate>add</termUpdate>
+        <termName>Inuktitut</termName>
+        <termVocabulary>Language Metadata Table Master</termVocabulary>
+    </term>
+    <term>
+        <termId>10526</termId>
+        <termUpdate>add</termUpdate>
+        <termName>Inupiaq</termName>
+        <termVocabulary>Language Metadata Table Master</termVocabulary>
+    </term>
+    <term>
+        <termId>16896522</termId>
+        <termUpdate>add</termUpdate>
+        <termName>Irish</termName>
+        <termVocabulary>Language Metadata Table Master</termVocabulary>
+    </term>
+    <term>
+        <termId>16896425</termId>
+        <termUpdate>add</termUpdate>
+        <termName>Italian</termName>
+        <termVocabulary>Language Metadata Table Master</termVocabulary>
+        <relation weight="100">
+            <relationType>NT</relationType>
+            <termId>16896549</termId>
+            <termName>Neapolitan</termName>
+            <termVocabulary>Language Metadata Table Master</termVocabulary>
+        </relation>
+        <relation weight="100">
+            <relationType>NT</relationType>
+            <termId>10527</termId>
+            <termName>Swiss Italian</termName>
+            <termVocabulary>Language Metadata Table Master</termVocabulary>
+        </relation>
+    </term>
+    <term>
+        <termId>16896523</termId>
+        <termUpdate>add</termUpdate>
+        <termName>Jamaican Creole English</termName>
+        <termVocabulary>Language Metadata Table Master</termVocabulary>
+    </term>
+    <term>
+        <termId>16896426</termId>
+        <termUpdate>add</termUpdate>
+        <termName>Japanese</termName>
+        <termVocabulary>Language Metadata Table Master</termVocabulary>
+        <relation weight="100">
+            <relationType>NT</relationType>
+            <termId>16896427</termId>
+            <termName>Japanese in Han (Kanji), Hiragana, and Katakana symbols</termName>
+            <termVocabulary>Language Metadata Table Master</termVocabulary>
+        </relation>
+        <relation weight="100">
+            <relationType>NT</relationType>
+            <termId>16896428</termId>
+            <termName>Japanese in Hiragana symbols</termName>
+            <termVocabulary>Language Metadata Table Master</termVocabulary>
+        </relation>
+        <relation weight="100">
+            <relationType>NT</relationType>
+            <termId>16896429</termId>
+            <termName>Japanese in Katakana symbols</termName>
+            <termVocabulary>Language Metadata Table Master</termVocabulary>
+        </relation>
+    </term>
+    <term>
+        <termId>16896427</termId>
+        <termUpdate>add</termUpdate>
+        <termName>Japanese in Han (Kanji), Hiragana, and Katakana symbols</termName>
+        <termVocabulary>Language Metadata Table Master</termVocabulary>
+        <relation weight="100">
+            <relationType>BT</relationType>
+            <termId>16896426</termId>
+            <termName>Japanese</termName>
+            <termVocabulary>Language Metadata Table Master</termVocabulary>
+        </relation>
+    </term>
+    <term>
+        <termId>16896428</termId>
+        <termUpdate>add</termUpdate>
+        <termName>Japanese in Hiragana symbols</termName>
+        <termVocabulary>Language Metadata Table Master</termVocabulary>
+        <relation weight="100">
+            <relationType>BT</relationType>
+            <termId>16896426</termId>
+            <termName>Japanese</termName>
+            <termVocabulary>Language Metadata Table Master</termVocabulary>
+        </relation>
+    </term>
+    <term>
+        <termId>16896429</termId>
+        <termUpdate>add</termUpdate>
+        <termName>Japanese in Katakana symbols</termName>
+        <termVocabulary>Language Metadata Table Master</termVocabulary>
+        <relation weight="100">
+            <relationType>BT</relationType>
+            <termId>16896426</termId>
+            <termName>Japanese</termName>
+            <termVocabulary>Language Metadata Table Master</termVocabulary>
+        </relation>
+    </term>
+    <term>
+        <termId>10528</termId>
+        <termUpdate>add</termUpdate>
+        <termName>Javanese</termName>
+        <termVocabulary>Language Metadata Table Master</termVocabulary>
+    </term>
+    <term>
+        <termId>16896525</termId>
+        <termUpdate>add</termUpdate>
+        <termName>Kalaallisut</termName>
+        <termVocabulary>Language Metadata Table Master</termVocabulary>
+    </term>
+    <term>
+        <termId>16896526</termId>
+        <termUpdate>add</termUpdate>
+        <termName>Kannada</termName>
+        <termVocabulary>Language Metadata Table Master</termVocabulary>
+    </term>
+    <term>
+        <termId>10529</termId>
+        <termUpdate>add</termUpdate>
+        <termName>Kanuri</termName>
+        <termVocabulary>Language Metadata Table Master</termVocabulary>
+    </term>
+    <term>
+        <termId>16896527</termId>
+        <termUpdate>add</termUpdate>
+        <termName>Kazakh</termName>
+        <termVocabulary>Language Metadata Table Master</termVocabulary>
+    </term>
+    <term>
+        <termId>16896528</termId>
+        <termUpdate>add</termUpdate>
+        <termName>Khmer</termName>
+        <termVocabulary>Language Metadata Table Master</termVocabulary>
+        <relation weight="100">
+            <relationType>BT</relationType>
+            <termId>16896747</termId>
+            <termName>Mon-Khmer Group</termName>
+            <termVocabulary>Language Metadata Table Master</termVocabulary>
+        </relation>
+    </term>
+    <term>
+        <termId>10530</termId>
+        <termUpdate>add</termUpdate>
+        <termName>Kikuyu</termName>
+        <termVocabulary>Language Metadata Table Master</termVocabulary>
+        <relation weight="100">
+            <relationType>BT</relationType>
+            <termId>16896818</termId>
+            <termName>Bantu</termName>
+            <termVocabulary>Language Metadata Table Master</termVocabulary>
+        </relation>
+    </term>
+    <term>
+        <termId>16896529</termId>
+        <termUpdate>add</termUpdate>
+        <termName>Kinyarwanda</termName>
+        <termVocabulary>Language Metadata Table Master</termVocabulary>
+    </term>
+    <term>
+        <termId>16896530</termId>
+        <termUpdate>add</termUpdate>
+        <termName>Kirghiz</termName>
+        <termVocabulary>Language Metadata Table Master</termVocabulary>
+    </term>
+    <term>
+        <termId>16896531</termId>
+        <termUpdate>add</termUpdate>
+        <termName>Klingon</termName>
+        <termVocabulary>Language Metadata Table Master</termVocabulary>
+    </term>
+    <term>
+        <termId>10614</termId>
+        <termUpdate>add</termUpdate>
+        <termName>Komi</termName>
+        <termVocabulary>Language Metadata Table Master</termVocabulary>
+    </term>
+    <term>
+        <termId>16896532</termId>
+        <termUpdate>add</termUpdate>
+        <termName>Korean</termName>
+        <termVocabulary>Language Metadata Table Master</termVocabulary>
+    </term>
+    <term>
+        <termId>10615</termId>
+        <termUpdate>add</termUpdate>
+        <termName>Kuanyama</termName>
+        <termVocabulary>Language Metadata Table Master</termVocabulary>
+    </term>
+    <term>
+        <termId>16896533</termId>
+        <termUpdate>add</termUpdate>
+        <termName>Kurdish</termName>
+        <termVocabulary>Language Metadata Table Master</termVocabulary>
+    </term>
+    <term>
+        <termId>16896534</termId>
+        <termUpdate>add</termUpdate>
+        <termName>Ladakhi</termName>
+        <termVocabulary>Language Metadata Table Master</termVocabulary>
+    </term>
+    <term>
+        <termId>10494</termId>
+        <termUpdate>add</termUpdate>
+        <termName>Ladino</termName>
+        <termVocabulary>Language Metadata Table Master</termVocabulary>
+    </term>
+    <term>
+        <termId>10616</termId>
+        <termUpdate>add</termUpdate>
+        <termName>Lango (Uganda)</termName>
+        <termVocabulary>Language Metadata Table Master</termVocabulary>
+    </term>
+    <term>
+        <termId>16896535</termId>
+        <termUpdate>add</termUpdate>
+        <termName>Lao</termName>
+        <termVocabulary>Language Metadata Table Master</termVocabulary>
+    </term>
+    <term>
+        <termId>16896536</termId>
+        <termUpdate>add</termUpdate>
+        <termName>Latin</termName>
+        <termVocabulary>Language Metadata Table Master</termVocabulary>
+    </term>
+    <term>
+        <termId>16896430</termId>
+        <termUpdate>add</termUpdate>
+        <termName>Latvian</termName>
+        <termVocabulary>Language Metadata Table Master</termVocabulary>
+    </term>
+    <term>
+        <termId>10617</termId>
+        <termUpdate>add</termUpdate>
+        <termName>Limburgan</termName>
+        <termVocabulary>Language Metadata Table Master</termVocabulary>
+    </term>
+    <term>
+        <termId>10618</termId>
+        <termUpdate>add</termUpdate>
+        <termName>Lingala</termName>
+        <termVocabulary>Language Metadata Table Master</termVocabulary>
+    </term>
+    <term>
+        <termId>16896537</termId>
+        <termUpdate>add</termUpdate>
+        <termName>Lithuanian</termName>
+        <termVocabulary>Language Metadata Table Master</termVocabulary>
+    </term>
+    <term>
+        <termId>10619</termId>
+        <termUpdate>add</termUpdate>
+        <termName>Luba-Katanga</termName>
+        <termVocabulary>Language Metadata Table Master</termVocabulary>
+    </term>
+    <term>
+        <termId>10620</termId>
+        <termUpdate>add</termUpdate>
+        <termName>Lusitanian</termName>
+        <termVocabulary>Language Metadata Table Master</termVocabulary>
+    </term>
+    <term>
+        <termId>16896538</termId>
+        <termUpdate>add</termUpdate>
+        <termName>Luxembourgish</termName>
+        <termVocabulary>Language Metadata Table Master</termVocabulary>
+    </term>
+    <term>
+        <termId>10621</termId>
+        <termUpdate>add</termUpdate>
+        <termName>Maasai</termName>
+        <termVocabulary>Language Metadata Table Master</termVocabulary>
+    </term>
+    <term>
+        <termId>16896539</termId>
+        <termUpdate>add</termUpdate>
+        <termName>Macedonian</termName>
+        <termVocabulary>Language Metadata Table Master</termVocabulary>
+    </term>
+    <term>
+        <termId>16896431</termId>
+        <termUpdate>add</termUpdate>
+        <termName>Malagasy</termName>
+        <termVocabulary>Language Metadata Table Master</termVocabulary>
+    </term>
+    <term>
+        <termId>16896432</termId>
+        <termUpdate>add</termUpdate>
+        <termName>Malay</termName>
+        <termVocabulary>Language Metadata Table Master</termVocabulary>
+    </term>
+    <term>
+        <termId>16896540</termId>
+        <termUpdate>add</termUpdate>
+        <termName>Malayalam</termName>
+        <termVocabulary>Language Metadata Table Master</termVocabulary>
+    </term>
+    <term>
+        <termId>16896541</termId>
+        <termUpdate>add</termUpdate>
+        <termName>Maltese</termName>
+        <termVocabulary>Language Metadata Table Master</termVocabulary>
+    </term>
+    <term>
+        <termId>16896394</termId>
+        <termUpdate>add</termUpdate>
+        <termName>Mandarin</termName>
+        <termVocabulary>Language Metadata Table Master</termVocabulary>
+        <relation weight="100">
+            <relationType>BT</relationType>
+            <termId>16896392</termId>
+            <termName>Chinese</termName>
+            <termVocabulary>Language Metadata Table Master</termVocabulary>
+        </relation>
+    </term>
+    <term>
+        <termId>10724</termId>
+        <termUpdate>add</termUpdate>
+        <termName>Mandarin (Taiwan)</termName>
+        <termVocabulary>Language Metadata Table Master</termVocabulary>
+    </term>
+    <term>
+        <termId>10622</termId>
+        <termUpdate>add</termUpdate>
+        <termName>Manx</termName>
+        <termVocabulary>Language Metadata Table Master</termVocabulary>
+    </term>
+    <term>
+        <termId>16896542</termId>
+        <termUpdate>add</termUpdate>
+        <termName>Maori</termName>
+        <termVocabulary>Language Metadata Table Master</termVocabulary>
+    </term>
+    <term>
+        <termId>16896543</termId>
+        <termUpdate>add</termUpdate>
+        <termName>Marathi</termName>
+        <termVocabulary>Language Metadata Table Master</termVocabulary>
+    </term>
+    <term>
+        <termId>10623</termId>
+        <termUpdate>add</termUpdate>
+        <termName>Marshallese</termName>
+        <termVocabulary>Language Metadata Table Master</termVocabulary>
+    </term>
+    <term>
+        <termId>16896544</termId>
+        <termUpdate>add</termUpdate>
+        <termName>Mayan</termName>
+        <termVocabulary>Language Metadata Table Master</termVocabulary>
+    </term>
+    <term>
+        <termId>10624</termId>
+        <termUpdate>add</termUpdate>
+        <termName>Mende</termName>
+        <termVocabulary>Language Metadata Table Master</termVocabulary>
+    </term>
+    <term>
+        <termId>10721</termId>
+        <termUpdate>add</termUpdate>
+        <termName>Min Bei Chinese</termName>
+        <termVocabulary>Language Metadata Table Master</termVocabulary>
+    </term>
+    <term>
+        <termId>16896395</termId>
+        <termUpdate>add</termUpdate>
+        <termName>Min Nan</termName>
+        <termVocabulary>Language Metadata Table Master</termVocabulary>
+        <relation weight="100">
+            <relationType>BT</relationType>
+            <termId>16896392</termId>
+            <termName>Chinese</termName>
+            <termVocabulary>Language Metadata Table Master</termVocabulary>
+        </relation>
+    </term>
+    <term>
+        <termId>16896747</termId>
+        <termUpdate>add</termUpdate>
+        <termName>Mon-Khmer Group</termName>
+        <termVocabulary>Language Metadata Table Master</termVocabulary>
+        <relation weight="100">
+            <relationType>NT</relationType>
+            <termId>16896528</termId>
+            <termName>Khmer</termName>
+            <termVocabulary>Language Metadata Table Master</termVocabulary>
+        </relation>
+    </term>
+    <term>
+        <termId>16896433</termId>
+        <termUpdate>add</termUpdate>
+        <termName>Mongolian</termName>
+        <termVocabulary>Language Metadata Table Master</termVocabulary>
+        <relation weight="100">
+            <relationType>NT</relationType>
+            <termId>10700</termId>
+            <termName>Halh Mongolian</termName>
+            <termVocabulary>Language Metadata Table Master</termVocabulary>
+        </relation>
+    </term>
+    <term>
+        <termId>16896446</termId>
+        <termUpdate>add</termUpdate>
+        <termName>Montenegrin</termName>
+        <termVocabulary>Language Metadata Table Master</termVocabulary>
+        <relation weight="100">
+            <relationType>BT</relationType>
+            <termId>16896444</termId>
+            <termName>Serbo-Croatian</termName>
+            <termVocabulary>Language Metadata Table Master</termVocabulary>
+        </relation>
+    </term>
+    <term>
+        <termId>16896545</termId>
+        <termUpdate>add</termUpdate>
+        <termName>Mossi</termName>
+        <termVocabulary>Language Metadata Table Master</termVocabulary>
+    </term>
+    <term>
+        <termId>16896546</termId>
+        <termUpdate>add</termUpdate>
+        <termName>Motu</termName>
+        <termVocabulary>Language Metadata Table Master</termVocabulary>
+    </term>
+    <term>
+        <termId>16896547</termId>
+        <termUpdate>add</termUpdate>
+        <termName>Nauru</termName>
+        <termVocabulary>Language Metadata Table Master</termVocabulary>
+    </term>
+    <term>
+        <termId>16896548</termId>
+        <termUpdate>add</termUpdate>
+        <termName>Navajo</termName>
+        <termVocabulary>Language Metadata Table Master</termVocabulary>
+    </term>
+    <term>
+        <termId>10625</termId>
+        <termUpdate>add</termUpdate>
+        <termName>Ndonga</termName>
+        <termVocabulary>Language Metadata Table Master</termVocabulary>
+    </term>
+    <term>
+        <termId>16896549</termId>
+        <termUpdate>add</termUpdate>
+        <termName>Neapolitan</termName>
+        <termVocabulary>Language Metadata Table Master</termVocabulary>
+        <relation weight="100">
+            <relationType>BT</relationType>
+            <termId>16896425</termId>
+            <termName>Italian</termName>
+            <termVocabulary>Language Metadata Table Master</termVocabulary>
+        </relation>
+    </term>
+    <term>
+        <termId>16896550</termId>
+        <termUpdate>add</termUpdate>
+        <termName>Nepali</termName>
+        <termVocabulary>Language Metadata Table Master</termVocabulary>
+    </term>
+    <term>
+        <termId>16896437</termId>
+        <termUpdate>add</termUpdate>
+        <termName>New Norwegian</termName>
+        <termVocabulary>Language Metadata Table Master</termVocabulary>
+        <relation weight="100">
+            <relationType>BT</relationType>
+            <termId>16896435</termId>
+            <termName>Norwegian</termName>
+            <termVocabulary>Language Metadata Table Master</termVocabulary>
+        </relation>
+    </term>
+    <term>
+        <termId>10628</termId>
+        <termUpdate>add</termUpdate>
+        <termName>Newari</termName>
+        <termVocabulary>Language Metadata Table Master</termVocabulary>
+    </term>
+    <term>
+        <termId>16896551</termId>
+        <termUpdate>add</termUpdate>
+        <termName>No linguistic content</termName>
+        <termVocabulary>Language Metadata Table Master</termVocabulary>
+        <relation weight="100">
+            <relationType>BT</relationType>
+            <termId>16896748</termId>
+            <termName>Special</termName>
+            <termVocabulary>Language Metadata Table Master</termVocabulary>
+        </relation>
+    </term>
+    <term>
+        <termId>10626</termId>
+        <termUpdate>add</termUpdate>
+        <termName>North Ndebele</termName>
+        <termVocabulary>Language Metadata Table Master</termVocabulary>
+    </term>
+    <term>
+        <termId>10702</termId>
+        <termUpdate>add</termUpdate>
+        <termName>Northeastern Thai</termName>
+        <termVocabulary>Language Metadata Table Master</termVocabulary>
+        <relation weight="100">
+            <relationType>BT</relationType>
+            <termId>16896581</termId>
+            <termName>Thai</termName>
+            <termVocabulary>Language Metadata Table Master</termVocabulary>
+        </relation>
+    </term>
+    <term>
+        <termId>10635</termId>
+        <termUpdate>add</termUpdate>
+        <termName>Northern Sami</termName>
+        <termVocabulary>Language Metadata Table Master</termVocabulary>
+        <relation weight="100">
+            <relationType>BT</relationType>
+            <termId>10634</termId>
+            <termName>Sami</termName>
+            <termVocabulary>Language Metadata Table Master</termVocabulary>
+        </relation>
+    </term>
+    <term>
+        <termId>16896552</termId>
+        <termUpdate>add</termUpdate>
+        <termName>Northern Sotho</termName>
+        <termVocabulary>Language Metadata Table Master</termVocabulary>
+    </term>
+    <term>
+        <termId>16896435</termId>
+        <termUpdate>add</termUpdate>
+        <termName>Norwegian</termName>
+        <termVocabulary>Language Metadata Table Master</termVocabulary>
+        <relation weight="100">
+            <relationType>NT</relationType>
+            <termId>16896437</termId>
+            <termName>New Norwegian</termName>
+            <termVocabulary>Language Metadata Table Master</termVocabulary>
+        </relation>
+        <relation weight="100">
+            <relationType>NT</relationType>
+            <termId>16896436</termId>
+            <termName>Norwegian Bokmål</termName>
+            <termVocabulary>Language Metadata Table Master</termVocabulary>
+        </relation>
+    </term>
+    <term>
+        <termId>16896436</termId>
+        <termUpdate>add</termUpdate>
+        <termName>Norwegian Bokmål</termName>
+        <termVocabulary>Language Metadata Table Master</termVocabulary>
+        <relation weight="100">
+            <relationType>BT</relationType>
+            <termId>16896435</termId>
+            <termName>Norwegian</termName>
+            <termVocabulary>Language Metadata Table Master</termVocabulary>
+        </relation>
+    </term>
+    <term>
+        <termId>16896553</termId>
+        <termUpdate>add</termUpdate>
+        <termName>Nyanja</termName>
+        <termVocabulary>Language Metadata Table Master</termVocabulary>
+    </term>
+    <term>
+        <termId>10629</termId>
+        <termUpdate>add</termUpdate>
+        <termName>Occitan (post 1500)</termName>
+        <termVocabulary>Language Metadata Table Master</termVocabulary>
+    </term>
+    <term>
+        <termId>16896554</termId>
+        <termUpdate>add</termUpdate>
+        <termName>Odia</termName>
+        <termVocabulary>Language Metadata Table Master</termVocabulary>
+    </term>
+    <term>
+        <termId>10630</termId>
+        <termUpdate>add</termUpdate>
+        <termName>Oromo</termName>
+        <termVocabulary>Language Metadata Table Master</termVocabulary>
+    </term>
+    <term>
+        <termId>10631</termId>
+        <termUpdate>add</termUpdate>
+        <termName>Ossetian</termName>
+        <termVocabulary>Language Metadata Table Master</termVocabulary>
+    </term>
+    <term>
+        <termId>16896555</termId>
+        <termUpdate>add</termUpdate>
+        <termName>Palauan</termName>
+        <termVocabulary>Language Metadata Table Master</termVocabulary>
+    </term>
+    <term>
+        <termId>10632</termId>
+        <termUpdate>add</termUpdate>
+        <termName>Papiamento</termName>
+        <termVocabulary>Language Metadata Table Master</termVocabulary>
+    </term>
+    <term>
+        <termId>16896438</termId>
+        <termUpdate>add</termUpdate>
+        <termName>Pashto</termName>
+        <termVocabulary>Language Metadata Table Master</termVocabulary>
+    </term>
+    <term>
+        <termId>16896439</termId>
+        <termUpdate>add</termUpdate>
+        <termName>Persian</termName>
+        <termVocabulary>Language Metadata Table Master</termVocabulary>
+        <relation weight="100">
+            <relationType>NT</relationType>
+            <termId>16896440</termId>
+            <termName>Dari</termName>
+            <termVocabulary>Language Metadata Table Master</termVocabulary>
+        </relation>
+    </term>
+    <term>
+        <termId>16896557</termId>
+        <termUpdate>add</termUpdate>
+        <termName>Pitcairn-Norfolk</termName>
+        <termVocabulary>Language Metadata Table Master</termVocabulary>
+    </term>
+    <term>
+        <termId>16896558</termId>
+        <termUpdate>add</termUpdate>
+        <termName>Polish</termName>
+        <termVocabulary>Language Metadata Table Master</termVocabulary>
+    </term>
+    <term>
+        <termId>16896441</termId>
+        <termUpdate>add</termUpdate>
+        <termName>Portuguese</termName>
+        <termVocabulary>Language Metadata Table Master</termVocabulary>
+        <relation weight="100">
+            <relationType>NT</relationType>
+            <termId>16896442</termId>
+            <termName>Portuguese as spoken in Brazil</termName>
+            <termVocabulary>Language Metadata Table Master</termVocabulary>
+        </relation>
+        <relation weight="100">
+            <relationType>NT</relationType>
+            <termId>16896443</termId>
+            <termName>Portuguese as spoken in Portugal</termName>
+            <termVocabulary>Language Metadata Table Master</termVocabulary>
+        </relation>
+    </term>
+    <term>
+        <termId>16896442</termId>
+        <termUpdate>add</termUpdate>
+        <termName>Portuguese as spoken in Brazil</termName>
+        <termVocabulary>Language Metadata Table Master</termVocabulary>
+        <relation weight="100">
+            <relationType>BT</relationType>
+            <termId>16896441</termId>
+            <termName>Portuguese</termName>
+            <termVocabulary>Language Metadata Table Master</termVocabulary>
+        </relation>
+    </term>
+    <term>
+        <termId>16896443</termId>
+        <termUpdate>add</termUpdate>
+        <termName>Portuguese as spoken in Portugal</termName>
+        <termVocabulary>Language Metadata Table Master</termVocabulary>
+        <relation weight="100">
+            <relationType>BT</relationType>
+            <termId>16896441</termId>
+            <termName>Portuguese</termName>
+            <termVocabulary>Language Metadata Table Master</termVocabulary>
+        </relation>
+    </term>
+    <term>
+        <termId>16896559</termId>
+        <termUpdate>add</termUpdate>
+        <termName>Punjabi</termName>
+        <termVocabulary>Language Metadata Table Master</termVocabulary>
+    </term>
+    <term>
+        <termId>16896560</termId>
+        <termUpdate>add</termUpdate>
+        <termName>Romanian</termName>
+        <termVocabulary>Language Metadata Table Master</termVocabulary>
+    </term>
+    <term>
+        <termId>16896524</termId>
+        <termUpdate>add</termUpdate>
+        <termName>Romansh</termName>
+        <termVocabulary>Language Metadata Table Master</termVocabulary>
+    </term>
+    <term>
+        <termId>10633</termId>
+        <termUpdate>add</termUpdate>
+        <termName>Romany</termName>
+        <termVocabulary>Language Metadata Table Master</termVocabulary>
+    </term>
+    <term>
+        <termId>16896561</termId>
+        <termUpdate>add</termUpdate>
+        <termName>Rundi</termName>
+        <termVocabulary>Language Metadata Table Master</termVocabulary>
+    </term>
+    <term>
+        <termId>16896562</termId>
+        <termUpdate>add</termUpdate>
+        <termName>Russian</termName>
+        <termVocabulary>Language Metadata Table Master</termVocabulary>
+    </term>
+    <term>
+        <termId>16896453</termId>
+        <termUpdate>add</termUpdate>
+        <termName>Russian Sign Language</termName>
+        <termVocabulary>Language Metadata Table Master</termVocabulary>
+        <relation weight="100">
+            <relationType>BT</relationType>
+            <termId>16896674</termId>
+            <termName>Sign Languages Group</termName>
+            <termVocabulary>Language Metadata Table Master</termVocabulary>
+        </relation>
+    </term>
+    <term>
+        <termId>10634</termId>
+        <termUpdate>add</termUpdate>
+        <termName>Sami</termName>
+        <termVocabulary>Language Metadata Table Master</termVocabulary>
+        <relation weight="100">
+            <relationType>NT</relationType>
+            <termId>10635</termId>
+            <termName>Northern Sami</termName>
+            <termVocabulary>Language Metadata Table Master</termVocabulary>
+        </relation>
+    </term>
+    <term>
+        <termId>16896563</termId>
+        <termUpdate>add</termUpdate>
+        <termName>Samoan</termName>
+        <termVocabulary>Language Metadata Table Master</termVocabulary>
+    </term>
+    <term>
+        <termId>10636</termId>
+        <termUpdate>add</termUpdate>
+        <termName>Sango</termName>
+        <termVocabulary>Language Metadata Table Master</termVocabulary>
+    </term>
+    <term>
+        <termId>16896564</termId>
+        <termUpdate>add</termUpdate>
+        <termName>Sanskrit</termName>
+        <termVocabulary>Language Metadata Table Master</termVocabulary>
+    </term>
+    <term>
+        <termId>10637</termId>
+        <termUpdate>add</termUpdate>
+        <termName>Sardinian</termName>
+        <termVocabulary>Language Metadata Table Master</termVocabulary>
+    </term>
+    <term>
+        <termId>16896447</termId>
+        <termUpdate>add</termUpdate>
+        <termName>Serbian</termName>
+        <termVocabulary>Language Metadata Table Master</termVocabulary>
+        <relation weight="100">
+            <relationType>BT</relationType>
+            <termId>16896444</termId>
+            <termName>Serbo-Croatian</termName>
+            <termVocabulary>Language Metadata Table Master</termVocabulary>
+        </relation>
+    </term>
+    <term>
+        <termId>16896444</termId>
+        <termUpdate>add</termUpdate>
+        <termName>Serbo-Croatian</termName>
+        <termVocabulary>Language Metadata Table Master</termVocabulary>
+        <relation weight="100">
+            <relationType>NT</relationType>
+            <termId>16896445</termId>
+            <termName>Croatian</termName>
+            <termVocabulary>Language Metadata Table Master</termVocabulary>
+        </relation>
+        <relation weight="100">
+            <relationType>NT</relationType>
+            <termId>16896446</termId>
+            <termName>Montenegrin</termName>
+            <termVocabulary>Language Metadata Table Master</termVocabulary>
+        </relation>
+        <relation weight="100">
+            <relationType>NT</relationType>
+            <termId>16896447</termId>
+            <termName>Serbian</termName>
+            <termVocabulary>Language Metadata Table Master</termVocabulary>
+        </relation>
+    </term>
+    <term>
+        <termId>16896565</termId>
+        <termUpdate>add</termUpdate>
+        <termName>Seychellois Creole</termName>
+        <termVocabulary>Language Metadata Table Master</termVocabulary>
+    </term>
+    <term>
+        <termId>10718</termId>
+        <termUpdate>add</termUpdate>
+        <termName>Shanxi Chinese</termName>
+        <termVocabulary>Language Metadata Table Master</termVocabulary>
+    </term>
+    <term>
+        <termId>10638</termId>
+        <termUpdate>add</termUpdate>
+        <termName>Shona</termName>
+        <termVocabulary>Language Metadata Table Master</termVocabulary>
+    </term>
+    <term>
+        <termId>10639</termId>
+        <termUpdate>add</termUpdate>
+        <termName>Sichuan Yi</termName>
+        <termVocabulary>Language Metadata Table Master</termVocabulary>
+    </term>
+    <term>
+        <termId>10720</termId>
+        <termUpdate>add</termUpdate>
+        <termName>Sichuan Yi Chinese</termName>
+        <termVocabulary>Language Metadata Table Master</termVocabulary>
+    </term>
+    <term>
+        <termId>16896674</termId>
+        <termUpdate>add</termUpdate>
+        <termName>Sign Languages Group</termName>
+        <termVocabulary>Language Metadata Table Master</termVocabulary>
+        <relation weight="100">
+            <relationType>NT</relationType>
+            <termId>16896449</termId>
+            <termName>American Sign Language</termName>
+            <termVocabulary>Language Metadata Table Master</termVocabulary>
+        </relation>
+        <relation weight="100">
+            <relationType>NT</relationType>
+            <termId>16896450</termId>
+            <termName>Australian Sign Language</termName>
+            <termVocabulary>Language Metadata Table Master</termVocabulary>
+        </relation>
+        <relation weight="100">
+            <relationType>NT</relationType>
+            <termId>16896451</termId>
+            <termName>Brazilian Sign Language</termName>
+            <termVocabulary>Language Metadata Table Master</termVocabulary>
+        </relation>
+        <relation weight="100">
+            <relationType>NT</relationType>
+            <termId>16896452</termId>
+            <termName>British Sign Language</termName>
+            <termVocabulary>Language Metadata Table Master</termVocabulary>
+        </relation>
+        <relation weight="100">
+            <relationType>NT</relationType>
+            <termId>16896415</termId>
+            <termName>French Sign Language</termName>
+            <termVocabulary>Language Metadata Table Master</termVocabulary>
+        </relation>
+        <relation weight="100">
+            <relationType>NT</relationType>
+            <termId>16896773</termId>
+            <termName>Indian Sign Language</termName>
+            <termVocabulary>Language Metadata Table Master</termVocabulary>
+        </relation>
+        <relation weight="100">
+            <relationType>NT</relationType>
+            <termId>16896453</termId>
+            <termName>Russian Sign Language</termName>
+            <termVocabulary>Language Metadata Table Master</termVocabulary>
+        </relation>
+    </term>
+    <term>
+        <termId>16896566</termId>
+        <termUpdate>add</termUpdate>
+        <termName>Sindhi</termName>
+        <termVocabulary>Language Metadata Table Master</termVocabulary>
+    </term>
+    <term>
+        <termId>16896567</termId>
+        <termUpdate>add</termUpdate>
+        <termName>Sinhala</termName>
+        <termVocabulary>Language Metadata Table Master</termVocabulary>
+    </term>
+    <term>
+        <termId>16896568</termId>
+        <termUpdate>add</termUpdate>
+        <termName>Slovak</termName>
+        <termVocabulary>Language Metadata Table Master</termVocabulary>
+    </term>
+    <term>
+        <termId>16896569</termId>
+        <termUpdate>add</termUpdate>
+        <termName>Slovenian</termName>
+        <termVocabulary>Language Metadata Table Master</termVocabulary>
+    </term>
+    <term>
+        <termId>16896570</termId>
+        <termUpdate>add</termUpdate>
+        <termName>Somali</termName>
+        <termVocabulary>Language Metadata Table Master</termVocabulary>
+    </term>
+    <term>
+        <termId>10640</termId>
+        <termUpdate>add</termUpdate>
+        <termName>Sorbian</termName>
+        <termVocabulary>Language Metadata Table Master</termVocabulary>
+    </term>
+    <term>
+        <termId>10627</termId>
+        <termUpdate>add</termUpdate>
+        <termName>South Ndebele</termName>
+        <termVocabulary>Language Metadata Table Master</termVocabulary>
+    </term>
+    <term>
+        <termId>16896571</termId>
+        <termUpdate>add</termUpdate>
+        <termName>Southern Sotho</termName>
+        <termVocabulary>Language Metadata Table Master</termVocabulary>
+    </term>
+    <term>
+        <termId>16896454</termId>
+        <termUpdate>add</termUpdate>
+        <termName>Spanish</termName>
+        <termVocabulary>Language Metadata Table Master</termVocabulary>
+        <relation weight="100">
+            <relationType>NT</relationType>
+            <termId>16896474</termId>
+            <termName>Castilian</termName>
+            <termVocabulary>Language Metadata Table Master</termVocabulary>
+        </relation>
+        <relation weight="100">
+            <relationType>NT</relationType>
+            <termId>16896751</termId>
+            <termName>Global Spanish</termName>
+            <termVocabulary>Language Metadata Table Master</termVocabulary>
+        </relation>
+        <relation weight="100">
+            <relationType>NT</relationType>
+            <termId>16896455</termId>
+            <termName>Spanish as spoken in Argentina</termName>
+            <termVocabulary>Language Metadata Table Master</termVocabulary>
+        </relation>
+        <relation weight="100">
+            <relationType>NT</relationType>
+            <termId>16896456</termId>
+            <termName>Spanish as spoken in Bolivia</termName>
+            <termVocabulary>Language Metadata Table Master</termVocabulary>
+        </relation>
+        <relation weight="100">
+            <relationType>NT</relationType>
+            <termId>16896457</termId>
+            <termName>Spanish as spoken in Chile</termName>
+            <termVocabulary>Language Metadata Table Master</termVocabulary>
+        </relation>
+        <relation weight="100">
+            <relationType>NT</relationType>
+            <termId>16896458</termId>
+            <termName>Spanish as spoken in Colombia</termName>
+            <termVocabulary>Language Metadata Table Master</termVocabulary>
+        </relation>
+        <relation weight="100">
+            <relationType>NT</relationType>
+            <termId>16896459</termId>
+            <termName>Spanish as spoken in Costa Rica</termName>
+            <termVocabulary>Language Metadata Table Master</termVocabulary>
+        </relation>
+        <relation weight="100">
+            <relationType>NT</relationType>
+            <termId>16896460</termId>
+            <termName>Spanish as spoken in Cuba</termName>
+            <termVocabulary>Language Metadata Table Master</termVocabulary>
+        </relation>
+        <relation weight="100">
+            <relationType>NT</relationType>
+            <termId>16896461</termId>
+            <termName>Spanish as spoken in Ecuador</termName>
+            <termVocabulary>Language Metadata Table Master</termVocabulary>
+        </relation>
+        <relation weight="100">
+            <relationType>NT</relationType>
+            <termId>16896462</termId>
+            <termName>Spanish as spoken in El Salvador</termName>
+            <termVocabulary>Language Metadata Table Master</termVocabulary>
+        </relation>
+        <relation weight="100">
+            <relationType>NT</relationType>
+            <termId>16896463</termId>
+            <termName>Spanish as spoken in Honduras</termName>
+            <termVocabulary>Language Metadata Table Master</termVocabulary>
+        </relation>
+        <relation weight="100">
+            <relationType>NT</relationType>
+            <termId>16896464</termId>
+            <termName>Spanish as spoken in Latin America</termName>
+            <termVocabulary>Language Metadata Table Master</termVocabulary>
+        </relation>
+        <relation weight="100">
+            <relationType>NT</relationType>
+            <termId>16896465</termId>
+            <termName>Spanish as spoken in Mexico</termName>
+            <termVocabulary>Language Metadata Table Master</termVocabulary>
+        </relation>
+        <relation weight="100">
+            <relationType>NT</relationType>
+            <termId>16896466</termId>
+            <termName>Spanish as spoken in Nicaragua</termName>
+            <termVocabulary>Language Metadata Table Master</termVocabulary>
+        </relation>
+        <relation weight="100">
+            <relationType>NT</relationType>
+            <termId>16896467</termId>
+            <termName>Spanish as spoken in Panama</termName>
+            <termVocabulary>Language Metadata Table Master</termVocabulary>
+        </relation>
+        <relation weight="100">
+            <relationType>NT</relationType>
+            <termId>16896468</termId>
+            <termName>Spanish as spoken in Paraguay</termName>
+            <termVocabulary>Language Metadata Table Master</termVocabulary>
+        </relation>
+        <relation weight="100">
+            <relationType>NT</relationType>
+            <termId>16896469</termId>
+            <termName>Spanish as spoken in Peru</termName>
+            <termVocabulary>Language Metadata Table Master</termVocabulary>
+        </relation>
+        <relation weight="100">
+            <relationType>NT</relationType>
+            <termId>16896470</termId>
+            <termName>Spanish as spoken in Puerto Rico</termName>
+            <termVocabulary>Language Metadata Table Master</termVocabulary>
+        </relation>
+        <relation weight="100">
+            <relationType>NT</relationType>
+            <termId>16896832</termId>
+            <termName>Spanish as spoken in the United States</termName>
+            <termVocabulary>Language Metadata Table Master</termVocabulary>
+        </relation>
+        <relation weight="100">
+            <relationType>NT</relationType>
+            <termId>16896471</termId>
+            <termName>Spanish as spoken in Uruguay</termName>
+            <termVocabulary>Language Metadata Table Master</termVocabulary>
+        </relation>
+        <relation weight="100">
+            <relationType>NT</relationType>
+            <termId>16896473</termId>
+            <termName>Spanish as spoken in Venezuela</termName>
+            <termVocabulary>Language Metadata Table Master</termVocabulary>
+        </relation>
+    </term>
+    <term>
+        <termId>16896455</termId>
+        <termUpdate>add</termUpdate>
+        <termName>Spanish as spoken in Argentina</termName>
+        <termVocabulary>Language Metadata Table Master</termVocabulary>
+        <relation weight="100">
+            <relationType>BT</relationType>
+            <termId>16896454</termId>
+            <termName>Spanish</termName>
+            <termVocabulary>Language Metadata Table Master</termVocabulary>
+        </relation>
+    </term>
+    <term>
+        <termId>16896456</termId>
+        <termUpdate>add</termUpdate>
+        <termName>Spanish as spoken in Bolivia</termName>
+        <termVocabulary>Language Metadata Table Master</termVocabulary>
+        <relation weight="100">
+            <relationType>BT</relationType>
+            <termId>16896454</termId>
+            <termName>Spanish</termName>
+            <termVocabulary>Language Metadata Table Master</termVocabulary>
+        </relation>
+    </term>
+    <term>
+        <termId>16896457</termId>
+        <termUpdate>add</termUpdate>
+        <termName>Spanish as spoken in Chile</termName>
+        <termVocabulary>Language Metadata Table Master</termVocabulary>
+        <relation weight="100">
+            <relationType>BT</relationType>
+            <termId>16896454</termId>
+            <termName>Spanish</termName>
+            <termVocabulary>Language Metadata Table Master</termVocabulary>
+        </relation>
+    </term>
+    <term>
+        <termId>16896458</termId>
+        <termUpdate>add</termUpdate>
+        <termName>Spanish as spoken in Colombia</termName>
+        <termVocabulary>Language Metadata Table Master</termVocabulary>
+        <relation weight="100">
+            <relationType>BT</relationType>
+            <termId>16896454</termId>
+            <termName>Spanish</termName>
+            <termVocabulary>Language Metadata Table Master</termVocabulary>
+        </relation>
+    </term>
+    <term>
+        <termId>16896459</termId>
+        <termUpdate>add</termUpdate>
+        <termName>Spanish as spoken in Costa Rica</termName>
+        <termVocabulary>Language Metadata Table Master</termVocabulary>
+        <relation weight="100">
+            <relationType>BT</relationType>
+            <termId>16896454</termId>
+            <termName>Spanish</termName>
+            <termVocabulary>Language Metadata Table Master</termVocabulary>
+        </relation>
+    </term>
+    <term>
+        <termId>16896460</termId>
+        <termUpdate>add</termUpdate>
+        <termName>Spanish as spoken in Cuba</termName>
+        <termVocabulary>Language Metadata Table Master</termVocabulary>
+        <relation weight="100">
+            <relationType>BT</relationType>
+            <termId>16896454</termId>
+            <termName>Spanish</termName>
+            <termVocabulary>Language Metadata Table Master</termVocabulary>
+        </relation>
+    </term>
+    <term>
+        <termId>16896461</termId>
+        <termUpdate>add</termUpdate>
+        <termName>Spanish as spoken in Ecuador</termName>
+        <termVocabulary>Language Metadata Table Master</termVocabulary>
+        <relation weight="100">
+            <relationType>BT</relationType>
+            <termId>16896454</termId>
+            <termName>Spanish</termName>
+            <termVocabulary>Language Metadata Table Master</termVocabulary>
+        </relation>
+    </term>
+    <term>
+        <termId>16896462</termId>
+        <termUpdate>add</termUpdate>
+        <termName>Spanish as spoken in El Salvador</termName>
+        <termVocabulary>Language Metadata Table Master</termVocabulary>
+        <relation weight="100">
+            <relationType>BT</relationType>
+            <termId>16896454</termId>
+            <termName>Spanish</termName>
+            <termVocabulary>Language Metadata Table Master</termVocabulary>
+        </relation>
+    </term>
+    <term>
+        <termId>16896463</termId>
+        <termUpdate>add</termUpdate>
+        <termName>Spanish as spoken in Honduras</termName>
+        <termVocabulary>Language Metadata Table Master</termVocabulary>
+        <relation weight="100">
+            <relationType>BT</relationType>
+            <termId>16896454</termId>
+            <termName>Spanish</termName>
+            <termVocabulary>Language Metadata Table Master</termVocabulary>
+        </relation>
+    </term>
+    <term>
+        <termId>16896464</termId>
+        <termUpdate>add</termUpdate>
+        <termName>Spanish as spoken in Latin America</termName>
+        <termVocabulary>Language Metadata Table Master</termVocabulary>
+        <relation weight="100">
+            <relationType>BT</relationType>
+            <termId>16896454</termId>
+            <termName>Spanish</termName>
+            <termVocabulary>Language Metadata Table Master</termVocabulary>
+        </relation>
+    </term>
+    <term>
+        <termId>16896465</termId>
+        <termUpdate>add</termUpdate>
+        <termName>Spanish as spoken in Mexico</termName>
+        <termVocabulary>Language Metadata Table Master</termVocabulary>
+        <relation weight="100">
+            <relationType>BT</relationType>
+            <termId>16896454</termId>
+            <termName>Spanish</termName>
+            <termVocabulary>Language Metadata Table Master</termVocabulary>
+        </relation>
+    </term>
+    <term>
+        <termId>16896466</termId>
+        <termUpdate>add</termUpdate>
+        <termName>Spanish as spoken in Nicaragua</termName>
+        <termVocabulary>Language Metadata Table Master</termVocabulary>
+        <relation weight="100">
+            <relationType>BT</relationType>
+            <termId>16896454</termId>
+            <termName>Spanish</termName>
+            <termVocabulary>Language Metadata Table Master</termVocabulary>
+        </relation>
+    </term>
+    <term>
+        <termId>16896467</termId>
+        <termUpdate>add</termUpdate>
+        <termName>Spanish as spoken in Panama</termName>
+        <termVocabulary>Language Metadata Table Master</termVocabulary>
+        <relation weight="100">
+            <relationType>BT</relationType>
+            <termId>16896454</termId>
+            <termName>Spanish</termName>
+            <termVocabulary>Language Metadata Table Master</termVocabulary>
+        </relation>
+    </term>
+    <term>
+        <termId>16896468</termId>
+        <termUpdate>add</termUpdate>
+        <termName>Spanish as spoken in Paraguay</termName>
+        <termVocabulary>Language Metadata Table Master</termVocabulary>
+        <relation weight="100">
+            <relationType>BT</relationType>
+            <termId>16896454</termId>
+            <termName>Spanish</termName>
+            <termVocabulary>Language Metadata Table Master</termVocabulary>
+        </relation>
+    </term>
+    <term>
+        <termId>16896469</termId>
+        <termUpdate>add</termUpdate>
+        <termName>Spanish as spoken in Peru</termName>
+        <termVocabulary>Language Metadata Table Master</termVocabulary>
+        <relation weight="100">
+            <relationType>BT</relationType>
+            <termId>16896454</termId>
+            <termName>Spanish</termName>
+            <termVocabulary>Language Metadata Table Master</termVocabulary>
+        </relation>
+    </term>
+    <term>
+        <termId>16896470</termId>
+        <termUpdate>add</termUpdate>
+        <termName>Spanish as spoken in Puerto Rico</termName>
+        <termVocabulary>Language Metadata Table Master</termVocabulary>
+        <relation weight="100">
+            <relationType>BT</relationType>
+            <termId>16896454</termId>
+            <termName>Spanish</termName>
+            <termVocabulary>Language Metadata Table Master</termVocabulary>
+        </relation>
+    </term>
+    <term>
+        <termId>16896832</termId>
+        <termUpdate>add</termUpdate>
+        <termName>Spanish as spoken in the United States</termName>
+        <termVocabulary>Language Metadata Table Master</termVocabulary>
+        <relation weight="100">
+            <relationType>BT</relationType>
+            <termId>16896454</termId>
+            <termName>Spanish</termName>
+            <termVocabulary>Language Metadata Table Master</termVocabulary>
+        </relation>
+    </term>
+    <term>
+        <termId>16896471</termId>
+        <termUpdate>add</termUpdate>
+        <termName>Spanish as spoken in Uruguay</termName>
+        <termVocabulary>Language Metadata Table Master</termVocabulary>
+        <relation weight="100">
+            <relationType>BT</relationType>
+            <termId>16896454</termId>
+            <termName>Spanish</termName>
+            <termVocabulary>Language Metadata Table Master</termVocabulary>
+        </relation>
+    </term>
+    <term>
+        <termId>16896473</termId>
+        <termUpdate>add</termUpdate>
+        <termName>Spanish as spoken in Venezuela</termName>
+        <termVocabulary>Language Metadata Table Master</termVocabulary>
+        <relation weight="100">
+            <relationType>BT</relationType>
+            <termId>16896454</termId>
+            <termName>Spanish</termName>
+            <termVocabulary>Language Metadata Table Master</termVocabulary>
+        </relation>
+    </term>
+    <term>
+        <termId>16896748</termId>
+        <termUpdate>add</termUpdate>
+        <termName>Special</termName>
+        <termVocabulary>Language Metadata Table Master</termVocabulary>
+        <relation weight="100">
+            <relationType>NT</relationType>
+            <termId>16896551</termId>
+            <termName>No linguistic content</termName>
+            <termVocabulary>Language Metadata Table Master</termVocabulary>
+        </relation>
+        <relation weight="100">
+            <relationType>NT</relationType>
+            <termId>16896593</termId>
+            <termName>Undetermined</termName>
+            <termVocabulary>Language Metadata Table Master</termVocabulary>
+        </relation>
+    </term>
+    <term>
+        <termId>16896572</termId>
+        <termUpdate>add</termUpdate>
+        <termName>Sranan Tongo</termName>
+        <termVocabulary>Language Metadata Table Master</termVocabulary>
+    </term>
+    <term>
+        <termId>16896387</termId>
+        <termUpdate>add</termUpdate>
+        <termName>Standard Arabic</termName>
+        <termVocabulary>Language Metadata Table Master</termVocabulary>
+        <relation weight="100">
+            <relationType>BT</relationType>
+            <termId>16896381</termId>
+            <termName>Arabic</termName>
+            <termVocabulary>Language Metadata Table Master</termVocabulary>
+        </relation>
+    </term>
+    <term>
+        <termId>10641</termId>
+        <termUpdate>add</termUpdate>
+        <termName>Sundanese</termName>
+        <termVocabulary>Language Metadata Table Master</termVocabulary>
+    </term>
+    <term>
+        <termId>16896476</termId>
+        <termUpdate>add</termUpdate>
+        <termName>Swahili</termName>
+        <termVocabulary>Language Metadata Table Master</termVocabulary>
+    </term>
+    <term>
+        <termId>16896573</termId>
+        <termUpdate>add</termUpdate>
+        <termName>Swati</termName>
+        <termVocabulary>Language Metadata Table Master</termVocabulary>
+    </term>
+    <term>
+        <termId>16896574</termId>
+        <termUpdate>add</termUpdate>
+        <termName>Swedish</termName>
+        <termVocabulary>Language Metadata Table Master</termVocabulary>
+    </term>
+    <term>
+        <termId>16896575</termId>
+        <termUpdate>add</termUpdate>
+        <termName>Swiss German</termName>
+        <termVocabulary>Language Metadata Table Master</termVocabulary>
+        <relation weight="100">
+            <relationType>BT</relationType>
+            <termId>16896416</termId>
+            <termName>German</termName>
+            <termVocabulary>Language Metadata Table Master</termVocabulary>
+        </relation>
+    </term>
+    <term>
+        <termId>10527</termId>
+        <termUpdate>add</termUpdate>
+        <termName>Swiss Italian</termName>
+        <termVocabulary>Language Metadata Table Master</termVocabulary>
+        <relation weight="100">
+            <relationType>BT</relationType>
+            <termId>16896425</termId>
+            <termName>Italian</termName>
+            <termVocabulary>Language Metadata Table Master</termVocabulary>
+        </relation>
+    </term>
+    <term>
+        <termId>16896576</termId>
+        <termUpdate>add</termUpdate>
+        <termName>Tagalog</termName>
+        <termVocabulary>Language Metadata Table Master</termVocabulary>
+    </term>
+    <term>
+        <termId>16896577</termId>
+        <termUpdate>add</termUpdate>
+        <termName>Tahitian</termName>
+        <termVocabulary>Language Metadata Table Master</termVocabulary>
+    </term>
+    <term>
+        <termId>10722</termId>
+        <termUpdate>add</termUpdate>
+        <termName>Taiwanese</termName>
+        <termVocabulary>Language Metadata Table Master</termVocabulary>
+    </term>
+    <term>
+        <termId>16896578</termId>
+        <termUpdate>add</termUpdate>
+        <termName>Tajik</termName>
+        <termVocabulary>Language Metadata Table Master</termVocabulary>
+    </term>
+    <term>
+        <termId>16896579</termId>
+        <termUpdate>add</termUpdate>
+        <termName>Tamil</termName>
+        <termVocabulary>Language Metadata Table Master</termVocabulary>
+    </term>
+    <term>
+        <termId>10643</termId>
+        <termUpdate>add</termUpdate>
+        <termName>Taroko</termName>
+        <termVocabulary>Language Metadata Table Master</termVocabulary>
+    </term>
+    <term>
+        <termId>10644</termId>
+        <termUpdate>add</termUpdate>
+        <termName>Tatar</termName>
+        <termVocabulary>Language Metadata Table Master</termVocabulary>
+    </term>
+    <term>
+        <termId>16896580</termId>
+        <termUpdate>add</termUpdate>
+        <termName>Telugu</termName>
+        <termVocabulary>Language Metadata Table Master</termVocabulary>
+    </term>
+    <term>
+        <termId>16896581</termId>
+        <termUpdate>add</termUpdate>
+        <termName>Thai</termName>
+        <termVocabulary>Language Metadata Table Master</termVocabulary>
+        <relation weight="100">
+            <relationType>NT</relationType>
+            <termId>10702</termId>
+            <termName>Northeastern Thai</termName>
+            <termVocabulary>Language Metadata Table Master</termVocabulary>
+        </relation>
+    </term>
+    <term>
+        <termId>16896582</termId>
+        <termUpdate>add</termUpdate>
+        <termName>Tibetan</termName>
+        <termVocabulary>Language Metadata Table Master</termVocabulary>
+    </term>
+    <term>
+        <termId>16896583</termId>
+        <termUpdate>add</termUpdate>
+        <termName>Tigrinya</termName>
+        <termVocabulary>Language Metadata Table Master</termVocabulary>
+    </term>
+    <term>
+        <termId>16896584</termId>
+        <termUpdate>add</termUpdate>
+        <termName>Tok Pisin</termName>
+        <termVocabulary>Language Metadata Table Master</termVocabulary>
+    </term>
+    <term>
+        <termId>16896585</termId>
+        <termUpdate>add</termUpdate>
+        <termName>Tongan</termName>
+        <termVocabulary>Language Metadata Table Master</termVocabulary>
+        <relation weight="100">
+            <relationType>BT</relationType>
+            <termId>16896818</termId>
+            <termName>Bantu</termName>
+            <termVocabulary>Language Metadata Table Master</termVocabulary>
+        </relation>
+    </term>
+    <term>
+        <termId>16896821</termId>
+        <termUpdate>add</termUpdate>
+        <termName>Tongan as spoken in Malawi</termName>
+        <termVocabulary>Language Metadata Table Master</termVocabulary>
+        <relation weight="100">
+            <relationType>BT</relationType>
+            <termId>16896818</termId>
+            <termName>Bantu</termName>
+            <termVocabulary>Language Metadata Table Master</termVocabulary>
+        </relation>
+    </term>
+    <term>
+        <termId>16896822</termId>
+        <termUpdate>add</termUpdate>
+        <termName>Tongan as spoken in Zambia, Zimbabwe, and Mozambique</termName>
+        <termVocabulary>Language Metadata Table Master</termVocabulary>
+        <relation weight="100">
+            <relationType>BT</relationType>
+            <termId>16896818</termId>
+            <termName>Bantu</termName>
+            <termVocabulary>Language Metadata Table Master</termVocabulary>
+        </relation>
+    </term>
+    <term>
+        <termId>16896586</termId>
+        <termUpdate>add</termUpdate>
+        <termName>Tsonga</termName>
+        <termVocabulary>Language Metadata Table Master</termVocabulary>
+    </term>
+    <term>
+        <termId>16896587</termId>
+        <termUpdate>add</termUpdate>
+        <termName>Tswana</termName>
+        <termVocabulary>Language Metadata Table Master</termVocabulary>
+    </term>
+    <term>
+        <termId>16896588</termId>
+        <termUpdate>add</termUpdate>
+        <termName>Tulu</termName>
+        <termVocabulary>Language Metadata Table Master</termVocabulary>
+    </term>
+    <term>
+        <termId>16896589</termId>
+        <termUpdate>add</termUpdate>
+        <termName>Turkish</termName>
+        <termVocabulary>Language Metadata Table Master</termVocabulary>
+    </term>
+    <term>
+        <termId>16896590</termId>
+        <termUpdate>add</termUpdate>
+        <termName>Turkmen</termName>
+        <termVocabulary>Language Metadata Table Master</termVocabulary>
+    </term>
+    <term>
+        <termId>16896591</termId>
+        <termUpdate>add</termUpdate>
+        <termName>Tuvaluan</termName>
+        <termVocabulary>Language Metadata Table Master</termVocabulary>
+    </term>
+    <term>
+        <termId>10645</termId>
+        <termUpdate>add</termUpdate>
+        <termName>Tuvinian</termName>
+        <termVocabulary>Language Metadata Table Master</termVocabulary>
+    </term>
+    <term>
+        <termId>10498</termId>
+        <termUpdate>add</termUpdate>
+        <termName>Twi</termName>
+        <termVocabulary>Language Metadata Table Master</termVocabulary>
+        <relation weight="100">
+            <relationType>BT</relationType>
+            <termId>10497</termId>
+            <termName>Akan</termName>
+            <termVocabulary>Language Metadata Table Master</termVocabulary>
+        </relation>
+    </term>
+    <term>
+        <termId>10646</termId>
+        <termUpdate>add</termUpdate>
+        <termName>Ugaritic</termName>
+        <termVocabulary>Language Metadata Table Master</termVocabulary>
+    </term>
+    <term>
+        <termId>10647</termId>
+        <termUpdate>add</termUpdate>
+        <termName>Uighur</termName>
+        <termVocabulary>Language Metadata Table Master</termVocabulary>
+    </term>
+    <term>
+        <termId>16896592</termId>
+        <termUpdate>add</termUpdate>
+        <termName>Ukrainian</termName>
+        <termVocabulary>Language Metadata Table Master</termVocabulary>
+    </term>
+    <term>
+        <termId>16896593</termId>
+        <termUpdate>add</termUpdate>
+        <termName>Undetermined</termName>
+        <termVocabulary>Language Metadata Table Master</termVocabulary>
+        <relation weight="100">
+            <relationType>BT</relationType>
+            <termId>16896748</termId>
+            <termName>Special</termName>
+            <termVocabulary>Language Metadata Table Master</termVocabulary>
+        </relation>
+    </term>
+    <term>
+        <termId>16896594</termId>
+        <termUpdate>add</termUpdate>
+        <termName>Urdu</termName>
+        <termVocabulary>Language Metadata Table Master</termVocabulary>
+    </term>
+    <term>
+        <termId>16896477</termId>
+        <termUpdate>add</termUpdate>
+        <termName>Uzbek</termName>
+        <termVocabulary>Language Metadata Table Master</termVocabulary>
+    </term>
+    <term>
+        <termId>10648</termId>
+        <termUpdate>add</termUpdate>
+        <termName>Venda</termName>
+        <termVocabulary>Language Metadata Table Master</termVocabulary>
+    </term>
+    <term>
+        <termId>16896595</termId>
+        <termUpdate>add</termUpdate>
+        <termName>Vietnamese</termName>
+        <termVocabulary>Language Metadata Table Master</termVocabulary>
+    </term>
+    <term>
+        <termId>16896596</termId>
+        <termUpdate>add</termUpdate>
+        <termName>Welsh</termName>
+        <termVocabulary>Language Metadata Table Master</termVocabulary>
+    </term>
+    <term>
+        <termId>16896389</termId>
+        <termUpdate>add</termUpdate>
+        <termName>Western Armenian</termName>
+        <termVocabulary>Language Metadata Table Master</termVocabulary>
+        <relation weight="100">
+            <relationType>BT</relationType>
+            <termId>16896746</termId>
+            <termName>Armenian Group</termName>
+            <termVocabulary>Language Metadata Table Master</termVocabulary>
+        </relation>
+    </term>
+    <term>
+        <termId>16896597</termId>
+        <termUpdate>add</termUpdate>
+        <termName>Wolof</termName>
+        <termVocabulary>Language Metadata Table Master</termVocabulary>
+    </term>
+    <term>
+        <termId>10723</termId>
+        <termUpdate>add</termUpdate>
+        <termName>Wu Chinese</termName>
+        <termVocabulary>Language Metadata Table Master</termVocabulary>
+    </term>
+    <term>
+        <termId>16896598</termId>
+        <termUpdate>add</termUpdate>
+        <termName>Xhosa</termName>
+        <termVocabulary>Language Metadata Table Master</termVocabulary>
+    </term>
+    <term>
+        <termId>16896599</termId>
+        <termUpdate>add</termUpdate>
+        <termName>Yiddish</termName>
+        <termVocabulary>Language Metadata Table Master</termVocabulary>
+    </term>
+    <term>
+        <termId>16896600</termId>
+        <termUpdate>add</termUpdate>
+        <termName>Yoruba</termName>
+        <termVocabulary>Language Metadata Table Master</termVocabulary>
+    </term>
+    <term>
+        <termId>10650</termId>
+        <termUpdate>add</termUpdate>
+        <termName>Zapotec</termName>
+        <termVocabulary>Language Metadata Table Master</termVocabulary>
+    </term>
+    <term>
+        <termId>16896601</termId>
+        <termUpdate>add</termUpdate>
+        <termName>Zulu</termName>
+        <termVocabulary>Language Metadata Table Master</termVocabulary>
+    </term>
+</Zthes>
