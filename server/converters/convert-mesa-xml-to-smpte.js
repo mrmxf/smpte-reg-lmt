@@ -8,7 +8,8 @@ const xml2js = require('xml2js')
 const worker = require("./convert-mesa-xml-to-smpte-worker")
 /**
  *
- * @param {String} xmlString the xml to be converted to json
+ * @param {String} xmlString the xml to be converted to json (from dialog box)
+ * @returns {ctx} 
  */
 
 module.exports.toSmpte = async (xmlString) => {

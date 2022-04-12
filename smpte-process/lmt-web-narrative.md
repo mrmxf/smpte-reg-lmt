@@ -1,3 +1,14 @@
+## LMT preview update 2022-04-12
+
+* **Done**
+  * Validation errors now show parent object (& can be printed to PDF)
+  * Mesa XML import reports import errors due to duplicate terms
+  * lmt-control.pdf updated to reflect current JSON schema
+* **@ToDo**
+  * Diff engine - optional extra
+  * MESA team to respond to highlights in lmt-control.pdf
+  * Bruce to initiate SMPTE process once proponents identified
+
 ## LMT preview update 2022-04-06
 
 * feature - need a click through to find errored term

@@ -39,13 +39,28 @@ $('#doConversion').on('click', function () {
             let resHtml
             switch (cvtId) {
                 default:
-                    var escaped = $("<div>").text(responseText).html();
+                    var body = JSON.parse(responseText)
+                    var warnings= body.warnings
+                    var register= body.smpte
+                    var prettyRegister= JSON.stringify(register, undefined, 2)
+                    var escaped = $("<div>").text(prettyRegister).html();
+                    warningHTML=""
+                    if(warnings && warnings.length>0){
+                        warningHTML = `<div class="ui warning message">  <i class="warning icon"></i>\n`
+                        warningHTML += ` <div class="content">\n`
+                        warningHTML += `<ol class="ui list">`
+                        warnings.forEach(w =>{
+                            warningHTML += `<li>${w}</li>`
+                        })
+                        warningHTML+= `</ol></div></div>\n`
+                    }
                     //display json
                     resHtml = `
                     <div class="ui green padded basic center aligned segment">
                      <div class = "ui positive message">
                       <div class="header">Conversion ${labelHtml}</div>
                      </div>
+                     ${warningHTML}
                      <div class="ui segment">
                       <pre><code class="language-json line-numbers">${escaped}</code></pre>
                      </div>

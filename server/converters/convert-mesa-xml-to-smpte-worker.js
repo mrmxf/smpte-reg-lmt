@@ -147,10 +147,10 @@ const createSmpteTerm = (node) => {
 /**
  *
  * @param {Object} xml2jsResult the object from succesfully parsing the MESA xml
- * @returns {Object} ctx
- * @returns {Integer} ctx.status the status code for the AJAX call
- * @returns {String}  ctx.body the HTML response for the AJAX call
- * @returns {String}  ctx.json a copy of the parsed json to help debugging
+ * @returns {Object} AJAXres
+ * @returns {Integer} AJAXres.status the status code for the AJAX call
+ * @returns {String}  AJAXres.body the smpte register data (JSON)
+ * @returns {String}  AJAXres.warningHtml warning message(s)
  */
 module.exports.mesaXmlToSmpteJson = (xml2jsResult) => {
     let lmtJson = {
@@ -190,7 +190,9 @@ module.exports.mesaXmlToSmpteJson = (xml2jsResult) => {
         if (res) {
             for (tag in res.mapping) {
                 //check for duplicate terms - the mapping should not exist for this term
-                if (!(undefined == m2sMmapping.term[tag])) { throw new Error(`MESA XML has a duplicate unique term tag ${tag} in termID ${res.mapping[tag]}. Giving up`) }
+                if (!(undefined == m2sMmapping.term[tag])) {
+                    m2sMmapping.errors.push(new Error(`MESA XML has a duplicate unique term tag ${tag} in termID ${res.mapping[tag]}. Ignoring Term.`))
+                }
 
                 //remember the mapping of this term to the underlying synaptica ids
                 m2sMmapping.term[tag] = res.mapping[tag]
@@ -207,7 +209,9 @@ module.exports.mesaXmlToSmpteJson = (xml2jsResult) => {
                 if (res) {
                     for (tag in res.mapping) {
                         //check for duplicate terms - the mapping should not exist for this term
-                        if (!(undefined == m2sMmapping.term[tag])) { throw new Error(`MESA XML has a duplicate unique term tag ${tag} in termID ${res.mapping[tag]}. Giving up`) }
+                        if (!(undefined == m2sMmapping.term[tag])) {
+                            m2sMmapping.errors.push(new Error(`MESA XML has a duplicate unique term tag ${tag} in the relations of termID ${res.mapping[tag]}. Ignoring Term.`))
+                        }
 
                         //remember the mapping of this term to the underlying synaptica ids
                         m2sMmapping.term[tag] = res.mapping[tag]
@@ -273,8 +277,15 @@ module.exports.mesaXmlToSmpteJson = (xml2jsResult) => {
         }
     })
 
+    let warnings = []
+    if (m2sMmapping.errors.length > 0) {
+        m2sMmapping.errors.forEach(err => warnings.push(err.message))
+    }
     return {
         status: 200,
-        body: JSON.stringify(lmtJson, undefined, 2)
+        body: JSON.stringify({
+            warnings: warnings,
+            smpte: lmtJson
+        }, undefined, 2),
     }
 }
