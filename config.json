@@ -19,7 +19,7 @@
     "version": "0.4.0",
     "folder": {
         "serverPath": "server",
-        "converterPath":"converters",
+        "workerPath":"workers",
         "browserPath": "browser",
         "processPath": "smpte-process"
     },

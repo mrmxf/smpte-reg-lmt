@@ -9,10 +9,14 @@ const worker = require("./convert-mesa-xml-to-smpte-worker")
 /**
  *
  * @param {String} xmlString the xml to be converted to json (from dialog box)
- * @returns {ctx} 
+ * @param {String} cfg the configuration object
+ * @param {String} ctx the koa context object
+ * @returns {Object} 
+ * @returns {Object}.status - the status for the HTML POST response
+ * @returns {Object}.body - JSON.stringify( warningsArray & SMPTE JSON)
  */
 
-module.exports.toSmpte = async (xmlString) => {
+module.exports.toSmpte = async (xmlString, cfg, ctx) => {
     return new Promise(resolve => {
         //use xml2js 0.4.23 in reversible mode - catch namespaces, attributes - the lot!
         let parser = new xml2js.Parser()
@@ -20,7 +24,7 @@ module.exports.toSmpte = async (xmlString) => {
             .then(xml2jsResult => {
                 // we know that xml to JSON needs special help. In the specific conversion
                 // for LMT, all the translation rules are in the worker function
-                let result = worker.mesaXmlToSmpteJson(xml2jsResult)
+                let result = worker.mesaXmlToSmpteJson(xml2jsResult, cfg, ctx)
 
                 //error codes for bad MESA xml are handled in the worker rules
                 resolve({ status: result.status, body: result.body })

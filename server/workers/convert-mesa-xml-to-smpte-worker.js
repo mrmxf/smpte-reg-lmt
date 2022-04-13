@@ -5,7 +5,6 @@
  *    - to_xml( lmt, sample ) - takes a smpte LMT object and sample Mesa XML and returns a mesa xml string
  */
 
-
 //define some constants so that different plugins have less conde to modify
 const mesaCfg = {
     root: "Synaptica-ZThes",
@@ -48,13 +47,25 @@ const createSmpteTerm = (node) => {
     let has_video_tag = false
 
     /* ------------------------- Pre-flight ------------------------- */
-    if (undefined == node.termID) { throw new Error(`MESA XML required element termID not found. Giving up`) }
+    if (undefined == node.termID) {
+        let msg = `MESA XML required element termID not found. Ignoring Term.`
+        term.warnings.push(msg)
+        throw new Error(msg)
+    }
     let id = node.termID
 
-    if (undefined == node.termName) { throw new Error(`MESA XML required element termName not found in termID ${id}. Giving up`) }
+    if (undefined == node.termName) {
+        let msg = `MESA XML required element termName not found in termID ${id}.  Ignoring Term.`
+        term.warnings.push(msg)
+        throw new Error(msg)
+    }
     term.Name = node.termName[0]
 
-    if (undefined == node.termNote) { throw new Error(`MESA XML required element termNote element not found in termID ${id}. Giving up`) }
+    if (undefined == node.termNote) {
+        let msg = `MESA XML required element termNote element not found in termID ${id}. Ignoring Term`
+        term.warnings.push(msg)
+        throw new Error(msg)
+    }
     node.termNote.forEach(note => {
         switch (note.$.label) {
             case "Audio Language Tag":
@@ -120,6 +131,9 @@ const createSmpteTerm = (node) => {
         } else {
             mapping[term.VisualLanguageTag1] = id
         }
+        if (term.warnings.length == 0) {
+            term.warnings = undefined
+        }
         return { term: term, mapping: mapping }
     }
 
@@ -147,19 +161,23 @@ const createSmpteTerm = (node) => {
 /**
  *
  * @param {Object} xml2jsResult the object from succesfully parsing the MESA xml
+ * @param {String} cfg the configuration object
+ * @param {String} ctx the koa context object
  * @returns {Object} AJAXres
  * @returns {Integer} AJAXres.status the status code for the AJAX call
  * @returns {String}  AJAXres.body the smpte register data (JSON)
  * @returns {String}  AJAXres.warningHtml warning message(s)
  */
-module.exports.mesaXmlToSmpteJson = (xml2jsResult) => {
+module.exports.mesaXmlToSmpteJson = (xml2jsResult, cfg, ctx) => {
     let lmtJson = {
-        Metadata: {
+        RegisterMetadata: {
+            name: cfg.pageTitle,
             creationDateIso8601: spacetime.now('America/New_York').format("iso"),
             convertedFrom: "Mesa XML",
-            published: false,
-            controllingDocument: "none",
+            status: "WD",
+            controllingDocument: cfg.smpteProcess.controlDocDownloadName,
             DOI: "none",
+
         },
         terms: [],
         groups: [],
@@ -277,9 +295,14 @@ module.exports.mesaXmlToSmpteJson = (xml2jsResult) => {
         }
     })
 
-    let warnings = []
+    //prepare the warnings for display & download
+    let warnings
     if (m2sMmapping.errors.length > 0) {
-        m2sMmapping.errors.forEach(err => warnings.push(err.message))
+        lmtJson.RegisterMetadata.warnings = []
+        m2sMmapping.errors.forEach(err => {
+            lmtJson.RegisterMetadata.warnings.push(err.message)
+        })
+        warnings = lmtJson.RegisterMetadata.warnings
     }
     return {
         status: 200,
