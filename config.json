@@ -6,27 +6,56 @@
     "urlPrefix": "lmt",
     "pageTitle": "Language Metadata Table",
     "routes": {
-        "jsonData": "jsonData",
-        "jsonSchema": "jsonSchema",
-        "convert": "convert",
-        "validate": "validate",
-        "register": "register",
-        "schema": "schema",
-        "document": "document"
+        "home": {
+            "display": "Home",
+            "realRoute": ""
+        },
+        "convert": {
+            "display": "Convert",
+            "realRoute": "convert"
+        },
+        "difference": {
+            "display": "Difference",
+            "realRoute": "diff"
+        },
+        "document": {
+            "display": "Document",
+            "realRoute": "document"
+        },
+        "jsonData": {
+            "display": "JSON Data",
+            "realRoute": "jsonData"
+        },
+        "jsonSchema": {
+            "display": "JSON Schema",
+            "realRoute": "jsonSchema"
+        },
+        "register": {
+            "display": "Register",
+            "realRoute": "register"
+        },
+        "schema": {
+            "display": "Schema",
+            "realRoute": "schema"
+        },
+        "validate": {
+            "display": "Validate",
+            "realRoute": "validate"
+        }
     },
     "title": "Register: Language Metadata Table",
     "descriptionMs": "_**PREVIEW** LMT pending development as SMPTE ST xxxx_",
     "version": "0.4.0",
     "folder": {
         "serverPath": "server",
-        "workerPath":"workers",
+        "workerPath": "workers",
         "browserPath": "browser",
         "processPath": "smpte-process"
     },
     "smpteProcess": {
         "controlDoc": "smpte-st-xxxx-lmt.pdf",
         "controlDocDownloadName": "SMPTE-ST-2xxx-lmt.pdf",
-	"controlDocHTML": "sample-controlDoc/index.html",
+        "controlDocHTML": "sample-controlDoc/index.html",
         "register": {
             "current": "lmt-draft.json",
             "previous": "lmt.previous.json",
@@ -43,9 +72,9 @@
             "candidate": "lmt-schema.candidate.json"
         }
     },
-    "_absRoute":"reserved property overriden by code",
-    "_folderPath":"reserved property overriden by code",
-    "_log":"reserved property overriden by code",
-    "_parent":"reserved property overriden by code",
-    "_routes":"reserved property overrridden by code"
+    "_absRoute": "reserved property overriden by code",
+    "_folderPath": "reserved property overriden by code",
+    "_log": "reserved property overriden by code",
+    "_parent": "reserved property overriden by code",
+    "_routes": "reserved property overrridden by code"
 }

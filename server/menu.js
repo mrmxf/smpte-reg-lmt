@@ -9,6 +9,11 @@
 module.exports.html = (cfg, activeRoute, highlightMenus) => {
     const _r = cfg._routes
 
+    //helper variables for the actual route s defined by the confid file
+    let rCvt = cfg.routes.convert
+    let rDif = cfg.routes.difference
+    let rVal = cfg.routes.validate
+
     let aHo = (activeRoute == _r.home) ? " active " : ""
     let aJD = (activeRoute == _r.jsonData) ? " active" : ""
     let aJS = (activeRoute == _r.jsonSchema) ? " active" : ""
@@ -36,9 +41,9 @@ module.exports.html = (cfg, activeRoute, highlightMenus) => {
             <i class="tools icon"></i>  Tools  <i class="dropdown icon"></i>
 
             <div class="menu">
-            <a class="item${aVa}" href="${_r.convert}"><i class="exchange alternate icon"></i>Convert</a>
-            <a class="item${aVa}" href="${_r.difference}"><i class="balance scale left icon"></i>Difference</a>
-            <a class="item${aVa}" href="${_r.validate}"><i class="check circle outline icon"></i>Validate</a>
+            <a class="item${aVa}" href="${_r[rCvt]}"><i class="exchange alternate icon"></i>Convert</a>
+            <a class="item${aVa}" href="${_r[rDif]}"><i class="balance scale left icon"></i>Difference</a>
+            <a class="item${aVa}" href="${_r[rVal]}"><i class="check circle outline icon"></i>Validate</a>
             </div>
           </div>
 
