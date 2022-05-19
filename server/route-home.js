@@ -1,4 +1,8 @@
-/** @module route-home */
+/** @module lmt */
+
+//  Copyright ©2022 Mr MXF info@mrmxf.com
+//  MIT License https://opensource.org/licenses/MIT
+
 /**
  * A route to return the home page (narrative) of this register
  *
@@ -10,12 +14,12 @@ const path = require('path')
 const menu = require('./menu')
 
 //core components for look & feel and parent menus
-const coreTemplate = require('../../../core/inc/lib-coreTemplate')
+const coreTemplate = require(__smr + '/../core/lib-coreTemplate')
 
 module.exports = (cfg, router) => {
 
     // GET homepage
-    router.get(cfg._routes.home, async (ctx, next) => {
+    router.get(cfg.routes.home.absRoute, async (ctx, next) => {
         const log = cfg._log
         const highlightMenu = `<span class="item active" "><i class="home ${cfg.homeIconClass} icon"></i>Narrative</span>`
 

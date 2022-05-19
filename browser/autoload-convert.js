@@ -1,7 +1,4 @@
-/**  @module autoload-convert */
-/** Module loaded into browser for the counvert routne
- *
- */
+// LMT convert
  
 if(typeof mm !== undefined)( mm={} )
 

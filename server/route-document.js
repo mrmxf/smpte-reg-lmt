@@ -1,4 +1,8 @@
-/** @module route-register */
+/** @module lmt */
+
+//  Copyright ©2022 Mr MXF info@mrmxf.com
+//  MIT License https://opensource.org/licenses/MIT
+
 /**
  * A route to return the document as a pdf
  *
@@ -11,7 +15,7 @@ module.exports = (cfg, router) => {
     const log = cfg._log
 
     // GET raw data
-    router.get(cfg._routes.document, async (ctx, next) => {
+    router.get(cfg.routes.document.absRoute, async (ctx, next) => {
         let filename = cfg.smpteProcess.controlDoc
         let filePath = path.join(cfg._folderPath, cfg.folder.processPath, filename)
 

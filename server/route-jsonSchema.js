@@ -1,8 +1,13 @@
-/** @module route-home */
+/** @module lmt */
+
+//  Copyright ©2022 Mr MXF info@mrmxf.com
+//  MIT License https://opensource.org/licenses/MIT
+
+
 /**
  * A route to view the data as JSON
  *
- * route: <mount-point>/jsonData
+ * route: <mount-point>/jsonSchema
  */
 const fs = require('fs')
 const path = require('path')
@@ -12,19 +17,19 @@ const Prism = require('prismjs')
 const menu = require('./menu')
 
 //core components for look & feel and parent menus
-const coreTemplate = require('../../../core/inc/lib-coreTemplate')
+const coreTemplate = require(__smr + '/../core/lib-coreTemplate')
 
 module.exports = (cfg, router) => {
 
-    router.get(cfg._routes.jsonData, async (ctx, next) => {
+    router.get(cfg.routes.jsonSchema.absRoute, async (ctx, next) => {
         const log = cfg._log
-        const highlightMenu = `<span class="item active" "><i class="code ${cfg.homeIconClass} icon"></i>${cfg.routes.jsonData}</span>`
+        const highlightMenu = `<span class="item active" "><i class="tasks ${cfg.homeIconClass} icon"></i>${cfg.routes.jsonSchema}</span>`
 
         const processPath = path.join(cfg._folderPath, cfg.folder.processPath)
 
         const narrativeMdPath = path.join(processPath, cfg.smpteProcess.narrative.current)
 
-        let filename = cfg.smpteProcess.register.current
+        let filename = cfg.smpteProcess.schema.current
         let filePath = path.join(cfg._folderPath, cfg.folder.processPath, filename)
         let json
 
@@ -51,7 +56,7 @@ module.exports = (cfg, router) => {
         let viewData = coreTemplate.createTemplateData({
             ctx: ctx,
             cfg: cfg,
-            registerSecondaryMenu: menu.html(cfg, cfg._routes.jsonData, highlightMenu),
+            registerSecondaryMenu: menu.html(cfg, cfg._routes.jsonSchema, highlightMenu),
             pageNarrativeHTML: narrativeHTML,
             templateHTML: templateHTML,
             menuTitleForThisPage: `<div class="ui active item">${cfg.menu}</div>`,
@@ -63,9 +68,9 @@ module.exports = (cfg, router) => {
         ctx.status = rendering.status
 
         if (rendering.status < 300) {
-            log.info(`${rendering.status} route:${cfg._routes.jsonData}`)
+            log.info(`${rendering.status} route:${cfg._routes.jsonSchema}`)
         } else {
-            log.error(`${rendering.status} route:${cfg._routes.jsonData}`)
+            log.error(`${rendering.status} route:${cfg._routes.jsonSchema}`)
         }
     })
 

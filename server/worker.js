@@ -1,3 +1,11 @@
+/** @module lmt */
+
+//  Copyright ©2022 Mr MXF info@mrmxf.com
+//  MIT License https://opensource.org/licenses/MIT
+
+/** JSON validation worker
+ * 
+ */
 const Ajv = require("ajv/dist/2020")
 
 module.exports.validate = (json, schema) => {

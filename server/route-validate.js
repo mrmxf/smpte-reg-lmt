@@ -1,4 +1,8 @@
-/** @module route-validate */
+/** @module lmt */
+
+//  Copyright ©2022 Mr MXF info@mrmxf.com
+//  MIT License https://opensource.org/licenses/MIT
+
 /**
  * A route to view the validation of the JSON against the schema
  *
@@ -10,13 +14,14 @@ const path = require('path')
 const menu = require('./menu')
 
 //core components for look & feel and parent menus
-const jsonValidateHelper = require('../../../core/utils/validate-helper-json')
+const jsonValidateHelper = require(__smr + '/../core/utils/validate-helper-json')
+const uiWorkflow = require(__smr + '/../core/ui/ui-page-file-workflow')
 
 module.exports = (cfg, router) => {
     const log = cfg._log
 
     // GET homepage
-    router.get(cfg._routes.validate, async (ctx, next) => {
+    router.get(cfg.routes.validate.absRoute, async (ctx, next) => {
         const processPath = path.join(cfg._folderPath, cfg.folder.processPath)
         const narrativeMdPath = path.join(processPath, cfg.smpteProcess.narrative.current)
 

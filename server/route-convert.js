@@ -1,4 +1,8 @@
-/** @module route-convert */
+/** @module lmt */
+
+//  Copyright ©2022 Mr MXF info@mrmxf.com
+//  MIT License https://opensource.org/licenses/MIT
+
 /**
  * A route to view the validation of the JSON against the schema
  *
@@ -10,12 +14,12 @@ const path = require('path')
 const menu = require('./menu')
 
 //core components for look & feel and parent menus
-const cvt = require('../../../core/utils/convert-helper')
+const cvt = require(__smr + '/utils/convert-helper')
 
 module.exports = (cfg, router) => {
 
     // GET convert homepage
-    router.get(cfg._routes.convert, async (ctx, next) => {
+    router.get(cfg.routes.convert.absRoute, async (ctx, next) => {
         const log = cfg._log
         const processPath = path.join(cfg._folderPath, cfg.folder.processPath)
         const narrativeMdPath = path.join(processPath, cfg.smpteProcess.narrative.current)
@@ -48,7 +52,7 @@ module.exports = (cfg, router) => {
      * browser javascript. If the document returned is JSON or XML then it is
      * syntax highlighted and rendered by the browser javascript.
      */
-    router.post(cfg._routes.convert, async (ctx, next) => {
+    router.post(cfg.routes.convert.absRoute, async (ctx, next) => {
         //do the standard conversion
         // ctx.request.body = {conversion: "someID", string: "xml-stuff"}
         cvt.doConversion(cfg, ctx)

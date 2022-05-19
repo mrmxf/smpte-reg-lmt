@@ -1,4 +1,8 @@
-/** @module route-register */
+/** @module lmt */
+
+//  Copyright ©2022 Mr MXF info@mrmxf.com
+//  MIT License https://opensource.org/licenses/MIT
+
 /**
  * A route to return the register data in a raw format
  *
@@ -11,7 +15,7 @@ module.exports = (cfg, router) => {
     const log = cfg._log
 
     // GET raw data
-    router.get(cfg._routes.register, async (ctx, next) => {
+    router.get(cfg.routes.register.absRoute, async (ctx, next) => {
         let filename = cfg.smpteProcess.register.current
         let filePath = path.join(cfg._folderPath, cfg.folder.processPath, filename)
 

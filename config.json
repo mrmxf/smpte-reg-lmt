@@ -8,39 +8,48 @@
     "routes": {
         "home": {
             "display": "Home",
-            "realRoute": ""
+            "realRoute": "",
+            "absRoute": "placeholder-resolved-at-runtime"
         },
         "convert": {
             "display": "Convert",
-            "realRoute": "convert"
+            "realRoute": "convert",
+            "absRoute": "placeholder-resolved-at-runtime"
         },
         "difference": {
             "display": "Difference",
-            "realRoute": "diff"
+            "realRoute": "diff",
+            "absRoute": "placeholder-resolved-at-runtime"
         },
         "document": {
             "display": "Document",
-            "realRoute": "document"
+            "realRoute": "document",
+            "absRoute": "placeholder-resolved-at-runtime"
         },
         "jsonData": {
             "display": "JSON Data",
-            "realRoute": "jsonData"
+            "realRoute": "jsonData",
+            "absRoute": "placeholder-resolved-at-runtime"
         },
         "jsonSchema": {
             "display": "JSON Schema",
-            "realRoute": "jsonSchema"
+            "realRoute": "jsonSchema",
+            "absRoute": "placeholder-resolved-at-runtime"
         },
         "register": {
             "display": "Register",
-            "realRoute": "register"
+            "realRoute": "register",
+            "absRoute": "placeholder-resolved-at-runtime"
         },
         "schema": {
             "display": "Schema",
-            "realRoute": "schema"
+            "realRoute": "schema",
+            "absRoute": "placeholder-resolved-at-runtime"
         },
         "validate": {
             "display": "Validate",
-            "realRoute": "validate"
+            "realRoute": "validate",
+            "absRoute": "placeholder-resolved-at-runtime"
         }
     },
     "title": "Register: Language Metadata Table",
