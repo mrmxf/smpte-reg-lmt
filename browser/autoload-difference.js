@@ -32,27 +32,33 @@ mm.clickRadio =
 function () {
     //grab the radio button value tha looks like `upload-schema`
     let action = this.value
-    //split into the control and documentType
+    //choose which metadata based on the name of the control
+    let active = (this.name == mm.src.radio) ? mm.src : mm.can
+    
+    //split & save control and documentType
     let slice = action.split("-")
-    mm.control = slice[0]
-    mm.documentType = slice[1]
+    active.controlType = slice[0]
+    active.documentType = slice[1]
+
+    //reveal appropriate controls
     switch (mm.control) {
         case "uploader":
-            $(mm.uploader).show()
-            $(mm.pasteBox).hide()
+            $(active.uploader).show()
+            $(active.pasteBox).hide()
             break
         case "pasteBox":
-            $(mm.uploader).hide()
-            $(mm.pasteBox).show()
+            $(active.uploader).hide()
+            $(active.pasteBox).show()
             break
         default:
-            $(mm.uploader).hide()
-            $(mm.pasteBox).hide()
+            $(active.uploader).hide()
+            $(active.pasteBox).hide()
     }
 }
 
 //hook up the click handler to the radio controls
 $(mm.src.radioSelecotr).on('change', mm.clickRadio)
+$(mm.can.radioSelecotr).on('change', mm.clickRadio)
 
 // -----------------------------------------------------------------------------
 // original convert code
