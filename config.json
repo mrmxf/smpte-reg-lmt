@@ -5,6 +5,7 @@
     "menu": "LMT",
     "urlPrefix": "lmt",
     "pageTitle": "Language Metadata Table",
+    "homeIconClass": "blue",
     "routes": {
         "home": {
             "display": "Home",

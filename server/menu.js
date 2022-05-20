@@ -11,7 +11,7 @@
  * @param {String} activeRoute The route that controls UI highlighting
  */
 
-module.exports.html = (cfg, activeRoute, breadCrumbMenus) => {
+module.exports.html = (cfg, activeRoute, breadCrumbsMenu) => {
     const route = cfg.routes
 
     //helper variables for the actual route s defined by the confid file
@@ -31,7 +31,7 @@ module.exports.html = (cfg, activeRoute, breadCrumbMenus) => {
           <!-- Home -->
           <a class="item${aHo}" href="${route.home.absRoute}"><i class="home ${cfg.homeIconClass} icon"></i>${cfg.menu}</a>
 
-          ${(breadCrumbMenus)?breadCrumbMenus:''}
+          ${(breadCrumbsMenu)?breadCrumbsMenu:''}
 
           <!-- ux views -->
           <div class="ui simple dropdown item">

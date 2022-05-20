@@ -35,10 +35,94 @@ module.exports = (cfg, router) => {
 
         // render a page using the file-workflow template
         const res = uiWorkflow.renderPage(ctx, cfg, lmtMenu, {
-            pageTitle: "LMT Difference",
-            pageHelp: "Display the differences between two register versions.",
-            breadCrumbsMenu: `<span class="item active" "><i class="exchange alternate ${cfg.homeIconClass} icon"></i>breadcrumb: ${cfg.routes.difference.display}</span>`,
-            route: cfg.routes.difference
+            paneTitle: "LMT Difference",
+            paneHelp: "Display the differences between two register versions.",
+            breadCrumbsMenu: `<span class="item active" "><i class="exchange alternate ${cfg.homeIconClass} icon"></i>${cfg.routes.difference.display}</span>`,
+            route: cfg.routes.difference,
+            source: {
+                label: "Step 1: Select the Reference file",
+                nameId: "source",
+                radio: {
+                    nameId: "sRadio",
+                    buttons: [
+                        {
+                            label: "current LMT register",
+                            value: "server-register",
+                            serverPath: path.join("..", "..")
+                        }, {
+                            label: "Paste candidate register JSON into Browser",
+                            value: "pasteBox-register",
+                        }, {
+                            label: "Upload candidate register JSON",
+                            value: "uploader-register",
+                            uploadText: "select a JSON LMT register to upload"
+                        }, {
+                            label: "current LMT Schema",
+                            value: "server-register",
+                            serverPath: path.join("..", "..")
+                        }, {
+                            label: "Paste candidate schema JSON into Browser",
+                            value: "pasteBox-schema",
+                        }, {
+                            label: "Upload candidate schema JSON",
+                            value: "uploader-schema",
+                            uploadText: "select a JSON LMT schema to upload"
+                        }
+                    ]
+                },
+                pasteBox: {
+                    nameId: "sPasteBox",
+                    placeholderText: "Paste candidate Register JSON",
+                    isHidden: true
+                },
+                uploader: {
+                    nameId: "sUploader",
+                    placeholderText: "/path/to/register.json",
+                    isHidden: true
+                }
+            },
+            candidate: {
+                label: "Step 2: Select the Candidate file",
+                nameId: "candidate",
+                radio: {
+                    nameId: "cRadio",
+                    buttons: [
+                        {
+                            label: "current LMT register",
+                            value: "server-register",
+                            serverPath: path.join("..", "..")
+                        }, {
+                            label: "Paste candidate register JSON into Browser",
+                            value: "pasteBox-register",
+                        }, {
+                            label: "Upload candidate register JSON",
+                            value: "uploader-register",
+                            uploadText: "select a JSON LMT register to upload"
+                        }, {
+                            label: "current LMT Schema",
+                            value: "server-register",
+                            serverPath: path.join("..", "..")
+                        }, {
+                            label: "Paste candidate schema JSON into Browser",
+                            value: "pasteBox-schema",
+                        }, {
+                            label: "Upload candidate schema JSON",
+                            value: "uploader-schema",
+                            uploadText: "select a JSON LMT schema to upload"
+                        }
+                    ]
+                },
+                pasteBox: {
+                    nameId: "cPasteBox",
+                    placeholderText: "Paste candidate Register JSON",
+                    isHidden: true
+                },
+                uploader: {
+                    nameId: "cUploader",
+                    placeholderText: "/path/to/register.json",
+                    isHidden: true
+                }
+            }
         })
 
         ctx.status = res.status
